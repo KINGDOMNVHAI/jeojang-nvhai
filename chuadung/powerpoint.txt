@@ -468,13 +468,6 @@ Các phó từ chỉ mức độ
 
 
 
-Bài 10
-
-
-
-Số đếm
-―だんめ	―段目	giá thứ -, tầng thứ – (「だん」 được dùng cho giá sách v.v.)
-
 
 
 
@@ -549,7 +542,25 @@ Học số đếm vật, số đếm lần
 Kun:
 On: カイ、エ
 
-ぜんかい 前回 lần trước
+ぜんかい 前回 Tiền Hồi lần trước
+じかい 次回 Thứ Hồi lần tới
+
+
+
+枚 マイ Mai, tấm, tờ
+On: マイ、バイ
+
+なんまい
+何枚
+Mấy trang?
+
+
+
+
+こんど 今度 lần tới
+
+
+
 
 
 
