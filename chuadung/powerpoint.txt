@@ -534,9 +534,17 @@ Có 3,4,5,6,7... người.
 
 Bài 11
 
+Mẫu câu:
+Xin mời qúy khách いらっしゃいませ
+Sau đó それから
+Trời đẹp quá nhỉ! いい(お)てんきですね / いい（お）天気ですね
+Đi ra ngoài đấy hả? おでかけですか / お出かけますか
+Bao lâu? どのくらい
+
+
+
+
 Học số đếm vật, số đếm lần
-
-
 
 回 カイ Hồi, lần, trở lại
 Kun:
@@ -556,8 +564,68 @@ Mấy trang?
 
 
 
+書 かき Thư, ghi chép
+Kun:
+On: ショ
+
+かきます 書きます viết
+としょかん 図書館 Đồ Thư Quán, thư viện
+はがき 葉書 Diệp Thư, bưu thiếp
+かきとめ 書留 Thư Lưu, gửi đảm bảo
+こしょ 古書 Cổ Thư, sách cổ
+
+
 
 こんど 今度 lần tới
+
+
+りょうしん 両親 bố mẹ
+きょうだい 兄弟 anh em
+
+Lập bảng cách gọi người nhà
+
+35	あに	兄	anh trai (tôi)
+36	おにいさん	お兄いさん	anh trai (bạn)
+37	あね	姉	chị gái (tôi)
+38	おねえさん	お姐さん	chị gái (bạn)
+39	おとうと	弟	em trai (tôi)
+40	おとうとさん	弟さん	em trai (bạn)
+41	いもうと	妹	em gái (tôi)
+42	いもうとさん	妹さん	em gái (bạn)
+chồng (tôi)
+chồng (bạn)
+vợ (tôi)
+vợ (bạn)
+
+
+がいこく     外国   nước ngoài
+がいこくじん 外国人 người nước ngoài
+
+
+
+きって	切手	tem
+はがき	葉書	bưu thiếp
+ふうとう	封筒	phong bì
+そくたつ	速達	chuyển phát nhanh
+かきとめ	 書留	 gửi bảo đảm
+エアメール (gửi bằng) đường hàng không
+ふなびん 船便	gửi bằng đường tàu
+
+
+Khoảng ～ぐらい
+Bao lâu? どのくらい
+
+Ý nghĩa:
+Hỏi khoảng bao lâu, khoảng bao nhiêu.
+Dùng với số đếm.
+Khoảng bao lâu 1 lần
+
+かいしゃ　に　しゃいん　が　100人　ぐらい　います。
+Ở công ty có khoảng 100 nhân viên.
+
+
+
+
 
 
 
@@ -582,6 +650,9 @@ Tôi chỉ cao 1.5 mét
 
 東京タワーは高さ332.9メートル
 Tháp Tokyo cao 332.9 mét
+
+
+
 
 
 

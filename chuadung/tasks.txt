@@ -40,13 +40,14 @@ https://www.youtube.com/watch?v=uikATllLdRc
 
 ====================================================
 
-Tháng 6: làm đồ án, web anh An, project training.
+Tháng 7: làm web anh An, web kujira, bắt đầu làm kingdom nvhai nextjs.
 
 Sinh nhật 2024
 DAL: Tohka Ars Install
 Hololive:
 Nerrissa Ravenclaw
 AZki then and now
+Sora ehehe
 Hana no Uta
 Bắt đầu đăng series Premiere Pro + Photoshop. 2 tuần 1 video thay phiên nhau.
 
@@ -89,27 +90,23 @@ https://elements.envato.com/react-template-magazine-blog-newspaper-template-LQAY
 ===========================
 
 Lương tháng 6
-MA: 3tr
-Mẹ: 1tr5
-SC + VPBank = 12tr1
 
-Còn lại: 4tr
+Còn lại: 3tr7
 1/7:
 Q: 1tr
 HDSAISON: 1tr
-Còn lại: 2tr
 
 6/7:
 Momo: 500 + tiền còn lại của anh An (trả 1tr6)
 Rút HDSAISON 1tr2 trả HDBank 1tr6
-Rút HDBank trả VPBank
+Rút HDBank 2tr trả VPBank
 
 
 
 
 Tháng 7
 MA: 2tr3 (trừ 700 mượn ngày 23/6)
-Mẹ: 1tr5
+Mẹ: 1tr
 Q: 1tr
 SC + VPBank = 12tr1
 
@@ -132,6 +129,7 @@ Mẹ 1/4
 Q 1/4
 Nợ 1/4
 MA 1/4
+
 =================
 
 Spring Boot Google Login
@@ -140,20 +138,12 @@ https://www.youtube.com/watch?v=NeeKN8IpyOY
 
 
 
-* Video: Tohka ngày thứ 2, NTR so good, Risu NTR Iofi, Mel short video
 
-* Tạo kênh YouTube Kujira đăng video quick quiz (Quick Quiz là video chạy nhanh, bấm dừng để đọc từ)
-* Xong trang kawaii-benki (câu hỏi)
-* Chuyển game từ GG Drive KINGDOM NVHAI sang tài khoản khác
-* Tạo 1 landing page thay thế Linktree. Sau này dẫn khán giả vào trang landing page đó. Giao diện gần giống Linktree.
-Landing page này tạo cho KINGDOM NVHAI và Kujira
-* Video:
-Hana no Uta
-Thank you Gura
-Irys kanji
 
-Git: Kujira-next-13
-Tạo giao diện mẫu cho trang này. Sau này làm web sử dụng giao diện này.
+
+
+
+
 
 
 
@@ -166,13 +156,15 @@ https://www.16personalities.com/free-personality-test
 
 =================
 Việc tồn đọng:
-Video: Rinne, Konosuba, Miko, Asacoco.
+Video: Rinne, Konosuba, Miko, Asacoco, Irys kanji.
 Yandere Hell, PewDiePie Eng, Aoi (Your Name)
 Mirai Akari.
 Tiếng Hàn coursera, làm bài tập
 Vercel
 NextJS Search API Request POST
 Design Pixel
+
+Video khác: NTR so good, Risu NTR Iofi, Mel short video, Thank you Gura
 
 Tiếng Nhật
 + Giới thiệu bản thân.
@@ -182,6 +174,10 @@ Tiếng Nhật
 + await, async
 + NextJS đăng nhập, CRUD
 + ag-grid https://www.ag-grid.com/javascript-data-grid/
+
+Học lập trình Android:
++ Làm app Kujira
++ Sau này làm cho Thảo
 
 Ghép Ars Install Kurumi Route thành video dài. Tự chơi game tự quay video.
 https://www.youtube.com/watch?v=mhvM75FiteE
