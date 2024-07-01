@@ -91,13 +91,9 @@ https://elements.envato.com/react-template-magazine-blog-newspaper-template-LQAY
 
 Lương tháng 6
 
-Còn lại: 3tr7
-1/7:
-Q: 1tr
-HDSAISON: 1tr
-
+Còn lại: 2tr
 6/7:
-Momo: 500 + tiền còn lại của anh An (trả 1tr6)
+Momo: 1tr5
 Rút HDSAISON 1tr2 trả HDBank 1tr6
 Rút HDBank 2tr trả VPBank
 
@@ -134,10 +130,6 @@ MA 1/4
 
 Spring Boot Google Login
 https://www.youtube.com/watch?v=NeeKN8IpyOY
-
-
-
-
 
 
 
