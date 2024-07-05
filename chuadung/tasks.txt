@@ -91,11 +91,13 @@ https://elements.envato.com/react-template-magazine-blog-newspaper-template-LQAY
 
 Lương tháng 6
 
-Còn lại: 2tr
 6/7:
-Momo: 1tr5
 Rút HDSAISON 1tr2 trả HDBank 1tr6
 Rút HDBank 2tr trả VPBank
+
+Thảo trả nợ 5tr:
+1tr trả lại HDSAISON
+4tr trả mẹ
 
 
 
@@ -106,9 +108,6 @@ Mẹ: 1tr
 Q: 1tr
 SC + VPBank = 12tr1
 
-Trả hết thẻ rồi rút thẻ trả Momo:
-HDBank:
-VPBank: 1tr9
 
 
 
@@ -136,12 +135,15 @@ https://www.youtube.com/watch?v=NeeKN8IpyOY
 
 
 
+Web
+tb_user
 
 
 
 
 
-
+Next.js Alert / Toaster Notification
+https://jasonwatmore.com/post/2021/08/26/next-js-alert-toaster-notifications
 
 personality test
 https://www.16personalities.com/free-personality-test
@@ -163,7 +165,6 @@ Tiếng Nhật
 + Chức năng tìm kiếm, bài viết đề xuất và danh sách các lesson.
 
 * ReactJS, NextJS
-+ await, async
 + NextJS đăng nhập, CRUD
 + ag-grid https://www.ag-grid.com/javascript-data-grid/
 
