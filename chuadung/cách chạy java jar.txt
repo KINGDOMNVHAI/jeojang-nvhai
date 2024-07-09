@@ -1,0 +1,6 @@
+Cách chạy file jar với Java 17
+
+Vào thư mục Java 17
+cd Java\jdk-17\bin
+
+java -jar C:\NVHAI\WORKSPACE\bongban-be\springsecurity\out\artifacts\springsecurity_jar\springsecurity.jar

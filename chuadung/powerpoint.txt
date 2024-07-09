@@ -534,48 +534,6 @@ Có 3,4,5,6,7... người.
 
 Bài 11
 
-Mẫu câu:
-Xin mời qúy khách いらっしゃいませ
-Sau đó それから
-Trời đẹp quá nhỉ! いい(お)てんきですね / いい（お）天気ですね
-Đi ra ngoài đấy hả? おでかけですか / お出かけますか
-Bao lâu? どのくらい
-
-
-
-
-Học số đếm vật, số đếm lần
-
-回 カイ Hồi, lần, trở lại
-Kun:
-On: カイ、エ
-
-ぜんかい 前回 Tiền Hồi lần trước
-じかい 次回 Thứ Hồi lần tới
-
-
-
-枚 マイ Mai, tấm, tờ
-On: マイ、バイ
-
-なんまい
-何枚
-Mấy trang?
-
-
-
-書 かき Thư, ghi chép
-Kun:
-On: ショ
-
-かきます 書きます viết
-としょかん 図書館 Đồ Thư Quán, thư viện
-はがき 葉書 Diệp Thư, bưu thiếp
-かきとめ 書留 Thư Lưu, gửi đảm bảo
-こしょ 古書 Cổ Thư, sách cổ
-
-
-
 こんど 今度 lần tới
 
 
@@ -598,46 +556,13 @@ vợ (tôi)
 vợ (bạn)
 
 
-がいこく     外国   nước ngoài
-がいこくじん 外国人 người nước ngoài
-
-
-
-きって	切手	tem
-はがき	葉書	bưu thiếp
-ふうとう	封筒	phong bì
-そくたつ	速達	chuyển phát nhanh
-かきとめ	 書留	 gửi bảo đảm
-エアメール (gửi bằng) đường hàng không
-ふなびん 船便	gửi bằng đường tàu
-
-
-Khoảng ～ぐらい
-Bao lâu? どのくらい
-
-Ý nghĩa:
-Hỏi khoảng bao lâu, khoảng bao nhiêu.
-Dùng với số đếm.
-Khoảng bao lâu 1 lần
-
-かいしゃ　に　しゃいん　が　100人　ぐらい　います。
-Ở công ty có khoảng 100 nhân viên.
 
 
 
 
 
-
-
-
-
-
-
-Số đếm /Danh từ + だけ
-– Only, limit, chỉ, giới hạn.
 
 Ví dụ:
-
 1 tuần chỉ đi học tiếng nhật 1 lần:   一週間（いっしゅうかん）に　日本語　を　一回だけ　勉強（べんきょう）します。
 1 tháng chỉ nghỉ có 1 lần:  一ヶ月（いっかげつ）に　一回だけ　やすみます。
 
@@ -656,8 +581,113 @@ Tháp Tokyo cao 332.9 mét
 
 
 
+書 かき Thư, ghi chép
+Kun:
+On: ショ
+
+かきます 書きます viết
+としょかん 図書館 Đồ Thư Quán, thư viện
+はがき 葉書 Diệp Thư, bưu thiếp
+かきとめ 書留 Thư Lưu, gửi đảm bảo
+こしょ 古書 Cổ Thư, sách cổ
 
 
+
+Bài 12
+
+せかい 世界 Thế giới
+まつり 祭り Lễ hội
+しけん 試験 Thi
+
+すきやき Lẩu Sukiyaki
+さしみ Sashimi
+すし Sushi
+
+てんぷら 天ぷら Tempura - món ăn gồm các loại hải sản, rau củ tẩm bột mì rán chiên giòn
+
+いけばな 生け花 Cắm hoa
+
+もみじ Lá đỏ
+
+どちら Cái nào (giữa hai thứ)
+どちらも Cả hai
+
+ずっと Cho đến nay
+はじめて Lần đầu tiên
+
+
+
+祭　まつり Tế, lễ hội
+Kun:
+On:
+Bộ:  Kỳ Hựu
+
+なつまつり 夏祭り Hạ Tế, lễ hội mùa hè.
+さいぐ 祭具 Tế Cụ dụng cụ trong nghi lễ
+
+
+
+Trước đây, chúng ta đã học thì quá khứ của động từ.
+Bài 12 học thì quá khứ của danh từ và tính từ.
+
+Thì quá khứ của danh từ và tính từ đuôi な
+
+Khẳng định: N/Na adj + です － N/Na adj + でした。
+
+Phủ định: N/Na adj + じゃ（では）ありません。 – N/Na adj + じゃ（では）ありませんでした.
+
+きのうは雨でした。  Hôm qua trời mưa
+
+きのうの試験は簡単じゃありませんでした。Bài kiểm tra hôm qua không dễ
+
+2. Thì quá khứ của tính từ đuôi い
+
+Khẳng định: あついです。 － あつかったです
+
+Phủ định: あつくないです － あつくなかったです
+
+きのうは暑かったです。 Hôm qua trời nóng
+
+きのうのパーティーはあまり楽しくなかったです。 Tôi không thích bữa tiệc hôm qua lắm.
+
+
+
+
+
+N1 は N2 より tính từ です
+
+Mẫu câu này mô tả chất lượng hoặc trạng thái của N1 so với N2 (mẫu câu so sánh)
+
+この車はあの車より大きいです
+
+Chiếc xe này lớn hơn chiếc xe đó.
+
+
+
+
+
+Bài 13
+
+
+
+
+
+
+
+Đề kiểm tra 1-13
+
+このパンはやさしいにきれます。
+A 野菜
+B 簡単
+C 優しい
+D 易しい
+
+この車はあの車___大きいです
+Chiếc xe này lớn hơn chiếc xe đó. Ngữ pháp so sánh より
+A より
+B かんたん
+C が
+D も
 
 
 
@@ -727,9 +757,11 @@ Ví dụ:
 
 
 
+Lưu bài test kanji
 
-
-
+理由はとても簡単なんです。
+The reason is very simple.
+riyuu wa totemo kantan nan desu.
 
 
 
