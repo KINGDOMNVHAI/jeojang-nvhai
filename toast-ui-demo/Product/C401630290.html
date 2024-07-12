@@ -1,0 +1,641 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>서식관리</title>
+
+    <link rel="stylesheet" href="https://uicdn.toast.com/grid/latest/tui-grid.css" />
+    <link rel="stylesheet" href="https://uicdn.toast.com/tui.pagination/latest/tui-pagination.css" />
+    <link rel="stylesheet" href="https://uicdn.toast.com/tui.date-picker/latest/tui-date-picker.css" />
+    <link rel="stylesheet" href="https://uicdn.toast.com/editor/latest/toastui-editor.min.css" />
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.1/xlsx.full.min.js"></script>
+    <script type="text/javascript" src="https://uicdn.toast.com/tui.pagination/v3.4.0/tui-pagination.js"></script>
+    <script src="https://uicdn.toast.com/tui.date-picker/latest/tui-date-picker.js"></script>
+    <script src="https://uicdn.toast.com/grid/latest/tui-grid.js"></script>
+    <script src="https://uicdn.toast.com/editor/latest/toastui-editor-all.min.js"></script>
+
+    <!-- 공통 -->
+    <script src="../static/js/include.js"></script>
+    <style>
+        .btn-gray {
+            color: #FFF !important;
+            background-color: gray !important;
+        }
+        .btn-white {
+            color: #2C4B5D !important;
+            background-color: #66ffff !important;
+        }
+        th[data-column-name="_checked"]{
+            height: 56px !important;
+        }
+    </style>
+</head>
+
+<body onload="init()">
+    <div class="appWrap">
+        <!-- 상단탭 영역을 호출합니다. -->
+        <header></header>
+
+        <!-- 히스토리 영역 .topInfo -->
+        <div class="topInfo">
+            <div class="siteRoad">
+                <!-- 1레벨 메뉴-->
+                <span class="nowPage">Management of automatic sales request transmission date</span>
+            </div>
+            <div class="mapToggle">
+                <div class="systemInfo">
+                    <div class="logOnMyPage">
+                        <div class="lgOnIcon"></div>
+                        <p><span class="userName">ooo</span>님, 안녕하세요.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 업무 영역 .secWrap -->
+        <div class="secWrap pGuide">
+
+            <!-- 검색 영역 .searchBox -->
+            <div class="searchBox">
+                <div class="searchBoxWrap">
+                    <div class="searchArea">
+                        <div class="searchAreaWrap">
+                            <!-- 5분할 -->
+                            <!-- class명 수정 (2024-05-23) -->
+                            <ul class="divdR">
+                                <li>
+                                    <label for="" class="">Corp.</label>
+                                    <div class="selectBox">
+                                        <select class="select" disabled>
+                                            <option value="">POSCO</option>
+                                        </select>
+                                    </div>
+                                </li>
+                                <li>
+                                    <label for="" class="">Mill</label>
+                                    <div class="selectBox">
+                                        <select id="listMill" class="select Mill">
+                                        </select>
+                                    </div>
+                                </li>
+                                <li>
+                                    <label for="" class="">Prod.</label>
+                                    <div class="selectBox">
+                                        <select id="listProd" class="select Prod">
+                                        </select>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        <button class="state2 search" onclick="search()">Find</button>
+                    </div>
+                </div>
+                <!-- 접기 토글 버튼-->
+                <div class="flipToggle"></div>
+            </div>
+
+            <div class="conBox">
+                <div id="countResult" class="conBoxInner" style="justify-content: end;">
+                    <!-- 조회 건수 데이터 연결 필요 -->
+                    <p class="gridNum">대상 : <span>200</span>건</p>
+                </div>
+
+                <article>
+                    <div class="btn">
+                        <div class="btnLeft">
+                            <div class="workBtn">
+                                <button class="btn-gray" onclick="register()">Register</button>
+                                <button class="btn-gray" onclick="remove()">Delete</button>
+                                <button class="btn-white" onclick="copyRow()">Copy Row</button>
+                                <button class="btn-white" onclick="addRow()">Insert Row</button>
+                                <button class="btn-white" onclick="deleteRow()">Delete Row</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="grid" class="scrollGrid scrollGrid_h-556"></div>
+                </article>
+            </div>
+        </div>
+
+        <script>
+            // Select List
+            let ordPdtItpCdNSelectDatalist = [];
+			let worksCodeSelectDatalist = [];
+
+            const grid = new tui.Grid({
+                el: document.getElementById('grid'),
+                scrollX: false,
+                scrollY: false,
+                header: {
+                    height: 58,
+                    fontWeight: 700,
+                    complexColumns: [
+                        {
+                            header: '문자열',
+                            name: 'character',
+                            childNames: ['dt_NM_STA_POS', 'dt_NM_USE_LEN', 'olstatr_CD'],
+                        },
+                    ]
+                },
+
+                cell: {
+                    header: {
+                        background: '#EFF3F6'
+                    }
+                },
+                minRowHeight: 30,
+                bodyHeight: 'auto',
+                selectionUnit: 'row',
+                exportOptions: {
+                    excelCompatibilityMode: true,
+                },
+                rowHeaders: [
+                    {
+                        type: 'checkbox',
+                        // name: 'chk[]',
+                        // Custom function to generate the content for the row headers
+                        // renderer: function() {
+                        //     return '<input type="checkbox" name="chk[]" />';
+                        // }
+                    }
+                ],
+                // pageOptions: {
+                //     useClient: true,
+                //     perPage: 10,
+                // },
+                columns: [
+                    // {
+                    //     header: 'Checkbox',
+                    //     name: 'checkbox',
+                    //     renderer: (value, row) => {
+                    //         return `<input type="checkbox" name="customCheckbox" value="${row.checkbox}" />`;
+                    //     }
+                    // },
+                    {
+                        header: '소',
+                        name: 'works_CODE',
+                        align: 'center',
+                        minWidth: 100,
+						formatter: 'listItemText',
+                        editor: {
+                            type: 'select',
+                            options: {
+                                listItems: worksCodeSelectDatalist
+                            }
+                        }
+                    },
+                    {
+                        header: '품종',
+                        name: 'ord_PDT_ITP_CD_N',
+                        align: 'center',
+                        minWidth: 100,
+						formatter: 'listItemText',
+                        editor: {
+                            type: 'select',
+                            options: {
+                                listItems: ordPdtItpCdNSelectDatalist
+                            }
+                        }
+                    },
+                    {
+                        header: '제외대상구분',
+                        name: 'overroll_EX_DEST_FLAG',
+                        align: 'center',
+                        minWidth: 150,
+                        editor: {
+                            type: 'text'
+                        }
+                    },
+                    // 문자열
+                    {
+                        header: '시작위치',
+                        name: 'dt_NM_STA_POS',
+                        align: 'center',
+                        minWidth: 100,
+                        editor: {
+                            type: 'text'
+                        }
+                    },
+                    {
+                        header: '길이',
+                        name: 'dt_NM_USE_LEN',
+                        align: 'center',
+                        minWidth: 100,
+                        editor: {
+                            type: 'text'
+                        },
+                        validation: {
+                            RegExp: "^[0-9]*$"
+                        }
+                    },
+                    {
+                        header: '조건',
+                        name: 'olstatr_CD', //select
+                        align: 'center',
+                        minWidth: 100,
+                        editor: {
+                            type: 'select'
+                        }
+                    },
+                    {
+                        header: '내용1',
+                        name: 'cd_DT_NM_V1', //input
+                        align: 'left',
+                        minWidth: 200,
+                        editor: {
+                            type: 'text'
+                        }
+                    },
+                    {
+                        header: '내용2',
+                        name: 'cd_DT_NM_V2', //input
+                        align: 'left',
+                        minWidth: 200,
+                        editor: {
+                            type: 'text'
+                        }
+                    },
+                    {
+                        header: '적용여부',
+                        name: 'enabled_FLAG', //checkbox
+                        align: 'center',
+                        minWidth: 90,
+                    },
+                    {
+                        header: 'From',
+                        name: 'start_DATE_ACTIVE', //inputDate
+                        align: 'center',
+                        minWidth: 200,
+                        formatter: function({ value }) {
+                            if (!value) {
+                                return '';
+                            }
+
+                            const date = new Date(value);
+                            if (isNaN(date)) {
+                                return '';
+                            }
+
+                            const year = date.getFullYear();
+                            const month = String(date.getMonth() + 1).padStart(2, '0');
+                            const day = String(date.getDate()).padStart(2, '0');
+
+                            return `${year}-${month}-${day}`;
+                        },
+                        editor: {
+                            type: 'datePicker',
+                            options: {
+                                format: 'yyyy-MM-dd'
+                            }
+                        }
+                    },
+                    {
+                        header: 'To',
+                        name: 'end_DATE_ACTIVE', //inputDate
+                        align: 'center',
+                        minWidth: 200,
+                        formatter: function({ value }) {
+                            if (!value) {
+                                return '';
+                            }
+
+                            const date = new Date(value);
+                            if (isNaN(date)) {
+                                return '';
+                            }
+
+                            const year = date.getFullYear();
+                            const month = String(date.getMonth() + 1).padStart(2, '0');
+                            const day = String(date.getDate()).padStart(2, '0');
+
+                            return `${year}-${month}-${day}`;
+                        },
+                        editor: {
+                            type: 'datePicker',
+                            options: {
+                                format: 'yyyy-MM-dd'
+                            }
+                        }
+                    },
+                    {
+                        header: '담당자',
+                        name: 'created_EMPLOYEE_NUM',
+                        align: 'center',
+                        minWidth: 90,
+                    },
+                    {
+                        name: 'sequence_NUMBER',
+                        hidden: true,
+                    },
+                    {
+                        name: 'ord_PDT_ITP_NAME',
+                        hidden: true,
+                    },
+                ],
+            });
+
+            function init() {
+                getListMill();
+                getListProd();
+                search();
+            }
+
+            // API send request
+            function search() {
+                let mill = document.getElementById('listMill').value;
+                let prod = document.getElementById('listProd').value;
+                const data = {
+                    mill: mill,
+                    prod: prod
+                };
+
+                fetch('http://localhost:8080/api/osoveb0/search', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(data)
+                })
+                .then(response => response.json())
+                .then(data => {
+                    let gridData = [];
+                    let countData = 0;
+                    console.log(data)
+
+                    data.forEach(item => {
+                        gridData.push({
+                            sequence_NUMBER: item.sequence_NUMBER,
+                            // works_NAME: item.works_NAME,
+                            works_CODE: item.works_CODE,
+                            ord_PDT_ITP_CD_N: item.ord_PDT_ITP_CD_N,
+                            ord_PDT_ITP_NAME: item.ord_PDT_ITP_NAME,
+                            overroll_EX_DEST_FLAG: item.overroll_EX_DEST_FLAG,
+                            dt_NM_STA_POS: item.dt_NM_STA_POS,
+                            dt_NM_USE_LEN: item.dt_NM_USE_LEN,
+                            olstatr_CD: item.olstatr_CD,
+                            cd_DT_NM_V1: item.cd_DT_NM_V1,
+                            cd_DT_NM_V2: item.cd_DT_NM_V2,
+                            enabled_FLAG: item.enabled_FLAG,
+                            start_DATE_ACTIVE: item.start_DATE_ACTIVE,
+                            end_DATE_ACTIVE: item.end_DATE_ACTIVE,
+                            created_EMPLOYEE_NUM: item.created_EMPLOYEE_NUM
+                        });
+                        countData++;
+                    });
+                    countResult(countData);
+                    grid.resetData(gridData);
+                })
+                .catch(error => console.error('Error:', error));
+            }
+
+            function getListMill() {
+                fetch('http://localhost:8080/api/ppma3z04/mill/list')
+                .then(response => response.json())
+                .then(data => {
+                    populateMillOptions(data);
+                })
+                .catch(error => console.error('Error:', error));
+            }
+
+            function populateMillOptions(data) {
+                const millSelect = document.querySelector('.select.Mill');
+                // if (!millSelect) {
+                // 	console.error('Mill select element not found');
+                // 	return;
+                // }
+
+                millSelect.innerHTML = '<option value=""></option>';
+                // let overrollList = [];
+
+                data.forEach(item => {
+                    const option = document.createElement('option');
+                    option.value = item.prg_DT_NM_VALUE;
+                    option.textContent = item.form_OUT_NM;
+                    // overrollList.push({text: item.form_OUT_NM, value: item.prg_DT_NM_VALUE});
+                    worksCodeSelectDatalist.push({ text: option.textContent, value: option.value });
+                    millSelect.appendChild(option);
+                });
+                worksCodeSelectDatalist.shift();
+            }
+
+            function getListProd() {
+                fetch('http://localhost:8080/api/ppma3z04/prod/list')
+                .then(response => response.json())
+                .then(data => {
+                    populateProdOptions(data);
+                })
+                .catch(error => console.error('Error:', error));
+            }
+
+            function populateProdOptions(data) {
+                const prodSelect = document.querySelector('.select.Prod');
+                prodSelect.innerHTML = '<option value=""></option>';
+                data.forEach(item => {
+                    const option = document.createElement('option');
+                    option.value = item.prg_DT_NM_VALUE;
+                    option.textContent = item.form_OUT_NM;
+                    ordPdtItpCdNSelectDatalist.push({text: item.form_OUT_NM, value: item.prg_DT_NM_VALUE});
+                    prodSelect.appendChild(option);
+                });
+            }
+
+            // Copy, Insert, Delete Row
+            var chkClickedIndex = [];
+            var chkClickedSeqNum = [];
+
+            grid.on("check", function (ev) {
+                const clickedIndex = ev.rowKey; // Get the index of the clicked checkbox
+                const checkedRows = grid.getCheckedRows(); // Get all checked rows
+
+                const indices = checkedRows.map(row => row.rowKey); // Get the indices of all checked checkboxes
+                const seqNum = checkedRows.map(row => row.sequence_NUMBER); // Get sequence_number of all checked checkboxes
+
+                if (indices.includes(clickedIndex)) {
+                    console.log("Clicked checkbox is already checked");
+                    chkClickedIndex = indices;
+                    chkClickedSeqNum = seqNum;
+                } else {
+                    console.log("Clicked checkbox is not checked");
+                }
+            });
+
+            function copyRow() {
+                let data = grid.getData();
+                const arrRowData = [];
+
+                chkClickedIndex.forEach(item => {
+                    const rowData = grid.getRow(item)
+                    grid.appendRow(rowData, { at: item });
+                });
+            }
+
+            function addRow() {
+                const arr = [];
+                const newRow = {
+                    // Define the properties for the new row
+                    // works_NAME: '',
+                    ord_PDT_ITP_NAME: '',
+                    ord_PDT_ITP_CD_N: '',
+                    overroll_EX_DEST_FLAG: '',
+                    dt_NM_STA_POS: '',
+                    dt_NM_USE_LEN: '',
+                    olstatr_CD: '',
+                    cd_DT_NM_V1: '',
+                    cd_DT_NM_V2: '',
+                    enabled_FLAG: '',
+                    start_DATE_ACTIVE: '',
+                    end_DATE_ACTIVE: '',
+                    created_EMPLOYEE_NUM: '',
+                    sequence_NUMBER: '',
+                    works_CODE: ''
+                };
+                grid.appendRow(newRow, { at: 0 });
+            }
+
+            function deleteRow() {
+                let checkedRows = grid.getCheckedRows();
+                chkClickedIndex.forEach(item => {
+                    grid.removeRow(item);
+                });
+            }
+
+            // Register and Delete
+            function register() {
+                const checkedRows = grid.getCheckedRows(); // Get all checked rows
+                let mill = document.getElementById('listMill').value;
+                let prod = document.getElementById('listProd').value;
+
+                // Get value
+                let cdDtNmV2 = document.getElementsByName('cd_DT_NM_V2').value;
+
+                console.log("checkedRows[0]")
+                console.log(checkedRows[0])
+
+
+                if (checkedRows.length == 0) {
+                    alert("Please choose at least 1 row");
+                    return;
+                }
+                // for (let i=0; i< checkedRows.length;i++) {
+                //     if (checkedRows[i].works_CODE == null || checkedRows[i].works_CODE == undefined || checkedRows[i].works_CODE == '') {
+                //         alert("소 is required");
+                //         return;
+                //     }
+
+                //     if (checkedRows[i].ord_PDT_ITP_CD_N == null || checkedRows[i].ord_PDT_ITP_CD_N == undefined || checkedRows[i].ord_PDT_ITP_CD_N == '') {
+                //         alert("품종 is required");
+                //         return;
+                //     }
+                // }
+
+                const request = {
+                    mill: mill,
+                    prod: prod,
+                    listData: checkedRows
+                };
+                console.log(request)
+
+                fetch('http://localhost:8080/api/osoveb0/register', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(request)
+                })
+                .then(response => response.json())
+                .then(data => {
+                    let gridData = [];
+
+                    data.forEach(item => {
+                        gridData.push({
+                            sequence_NUMBER: item.sequence_NUMBER,
+                            // works_NAME: item.works_NAME,
+                            works_CODE: item.works_CODE,
+                            ord_PDT_ITP_NAME: item.ord_PDT_ITP_NAME,
+                            ord_PDT_ITP_CD_N: item.ord_PDT_ITP_CD_N,
+                            overroll_EX_DEST_FLAG: item.overroll_EX_DEST_FLAG,
+                            dt_NM_STA_POS: item.dt_NM_STA_POS,
+                            dt_NM_USE_LEN: item.dt_NM_USE_LEN,
+                            olstatr_CD: item.olstatr_CD,
+                            cd_DT_NM_V1: item.cd_DT_NM_V1,
+                            cd_DT_NM_V2: item.cd_DT_NM_V2,
+                            enabled_FLAG: item.enabled_FLAG,
+                            start_DATE_ACTIVE: item.start_DATE_ACTIVE,
+                            end_DATE_ACTIVE: item.end_DATE_ACTIVE,
+                            created_EMPLOYEE_NUM: item.created_EMPLOYEE_NUM
+                        });
+                    });
+
+                    grid.resetData(gridData);
+                })
+                .catch(error => console.error('Error:', error));
+            }
+
+            function remove() {
+                const checkedRows = grid.getCheckedRows(); // Get all checked rows
+                let mill = document.getElementById('listMill').value;
+                let prod = document.getElementById('listProd').value;
+                if (checkedRows.length == 0) {
+                    alert("Please choose at least 1 row");
+                    return;
+                }
+                const request = {
+                    mill: mill,
+                    prod: prod,
+                    listSeqNum: chkClickedSeqNum
+                };
+
+                fetch('http://localhost:8080/api/osoveb0/delete', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify(request)
+                })
+                .then(response => response.json())
+                .then(data => {
+                    let gridData = [];
+                    console.log(data)
+
+                    data.forEach(item => {
+                        gridData.push({
+                            sequence_NUMBER: item.sequence_NUMBER,
+                            // works_NAME: item.works_NAME,
+                            works_CODE: item.works_CODE,
+                            ord_PDT_ITP_NAME: item.ord_PDT_ITP_NAME,
+                            ord_PDT_ITP_CD_N: item.ord_PDT_ITP_CD_N,
+                            overroll_EX_DEST_FLAG: item.overroll_EX_DEST_FLAG,
+                            dt_NM_STA_POS: item.dt_NM_STA_POS,
+                            dt_NM_USE_LEN: item.dt_NM_USE_LEN,
+                            olstatr_CD: item.olstatr_CD,
+                            cd_DT_NM_V1: item.cd_DT_NM_V1,
+                            cd_DT_NM_V2: item.cd_DT_NM_V2,
+                            enabled_FLAG: item.enabled_FLAG,
+                            start_DATE_ACTIVE: item.start_DATE_ACTIVE,
+                            end_DATE_ACTIVE: item.end_DATE_ACTIVE,
+                            created_EMPLOYEE_NUM: item.created_EMPLOYEE_NUM
+                        });
+                    });
+
+                    grid.resetData(gridData);
+                })
+                .catch(error => console.error('Error:', error));
+            }
+
+            function countResult(countData) {
+                if (countData == null || countData < 0) {
+                    countData = 0;
+                }
+                const countHTML = document.querySelector('.select.Prod');
+                countHTML.innerHTML = `<p class="gridNum">대상 : <span>countData</span>건</p>`;
+            }
+        </script>
+    </div>
+</body>
+
+</html>

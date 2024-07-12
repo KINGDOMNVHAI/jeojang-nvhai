@@ -1,0 +1,1286 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>서식관리</title>
+
+	<link rel="stylesheet" href="https://uicdn.toast.com/grid/latest/tui-grid.css" />
+	<link rel="stylesheet" href="https://uicdn.toast.com/tui.pagination/latest/tui-pagination.css" />
+	<link rel="stylesheet" href="https://uicdn.toast.com/tui.date-picker/latest/tui-date-picker.css" />
+	<link rel="stylesheet" href="https://uicdn.toast.com/editor/latest/toastui-editor.min.css" />
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.1/xlsx.full.min.js"></script>
+	<script type="text/javascript" src="https://uicdn.toast.com/tui.pagination/v3.4.0/tui-pagination.js"></script>
+	<script src="https://uicdn.toast.com/tui.date-picker/latest/tui-date-picker.js"></script>
+	<script src="https://uicdn.toast.com/grid/latest/tui-grid.js"></script>
+	<script src="https://uicdn.toast.com/editor/latest/toastui-editor-all.min.js"></script>
+
+	<!-- 공통 -->
+	<script src="../static/js/include.js"></script>
+</head>
+
+<body>
+	<div class="appWrap">
+		<!-- 상단탭 영역을 호출합니다. -->
+		<header></header>
+
+		<!-- 히스토리 영역 .topInfo -->
+		<div class="topInfo">
+			<div class="siteRoad">
+				<!-- 1레벨 메뉴-->
+				<span class="nowPage">서식관리</span>
+			</div>
+			<div class="mapToggle">
+				<div class="systemInfo">
+					<div class="logOnMyPage">
+						<div class="lgOnIcon"></div>
+						<p><span class="userName">ooo</span>님, 안녕하세요.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- 업무 영역 .secWrap -->
+		<div class="secWrap pGuide">
+
+			<!-- 검색 영역 .searchBox -->
+		<div class="searchBox">
+			<div class="searchBoxWrap">
+					<div class="searchArea">
+							<div class="searchAreaWrap">
+									<!-- 5분할 -->
+									<!-- class명 수정 (2024-05-23) -->
+									<ul class="divdR">
+										<li>
+											<label for="" class="">구분</label>
+											<div class="selectBox">
+												<select class="select">
+													<option value="">=전체=</option>
+													<option value="">구분1분</option>
+													<option value="">구분2</option>
+													<option value="">구분3</option>
+													<option value="">전체4</option>
+													<option value="">전체5</option>
+												</select>
+											</div>
+										</li>
+										<li>
+											<label for="" class="">서식명</label>
+											<div class="inputBox">
+												<input type="text">
+											</div>
+										</li>
+										<li>
+											<label for="" class="">등록자</label>
+											<div class="inputBox">
+												<input type="text">
+											</div>
+										</li>
+										<li>
+											<label for="" class="">등록일자</label>
+											<div class="inputBox dateRange">
+												<input class="from" type="text" placeholder="YYYY-MM-DD"/>
+												<span>~</span>
+												<input class="to" type="text" placeholder="YYYY-MM-DD"/>
+											</div>
+										</li>
+										<li>
+											<label for="" class="">사용여부</label>
+											<div class="selectBox">
+												<select class="select">
+													<option value="">사용</option>
+													<option value="">미사용</option>
+												</select>
+											</div>
+										</li>
+									</ul>
+							</div>
+							<button class="state2 search">조회</button>
+					</div>
+			</div>
+			<!-- 접기 토글 버튼-->
+			<div class="flipToggle"></div>
+		</div>
+
+
+			<div class="conBox">
+				<div class="conBoxInner" style="justify-content: end;">
+
+					<!-- 조회 건수 데이터 연결 필요 -->
+					<p class="gridNum">대상 : <span>200</span>건</p>
+				</div>
+
+				<article>
+					<div class="btn">
+						<div class="btnLeft">
+							<div class="workBtn">
+									<button onclick="modal('modal1', null, 'new')">신규등록</button>
+							</div>
+						</div>
+					</div>
+					<div id="grid"></div>
+
+				</article>
+			</div>
+
+			<!-- 서식등록 화면 modal1 -->
+			<!-- GpVow0200002 -->
+			<div class="modalWrap">
+				<div class="modal mid modal1 registerModal">
+					<div class="closeBtn" onclick="modal('modal1')"><i class="fa-solid fa-xmark"></i></div>
+					<h3>서식 등록</h3>
+					<div class="modalInWrap">
+						<div class="conBox">
+							<ul class="conFlex2">
+								<li style="align-items: center;">
+									<label for="" class="">회사명</label>
+									<span>포스코DX</span>
+								</li>
+								<li>
+									<label for="" class="">언어</label>
+									<div class="selectBox">
+										<select class="select">
+											<option value="">국문</option>
+											<option value="">영문</option>
+										</select>
+									</div>
+								</li>
+								<li class="gd2">
+									<label for="" class="">서식명</label>
+									<div class="inputBox">
+										<input type="text">
+									</div>
+								</li>
+								<li class="gd2 fileUpInput">
+									<label for="" class="">로고 이미지 첨부</label>
+									<div class="inputBox">
+										<input type="text">
+									</div>
+									<div class="btn">
+										<div class="btnRight">
+											<button class="fileUp">파일 업로드</button>
+										</div>
+									</div>
+								</li>
+							</ul>
+							<ul class="conFlex3 mgt-8">
+								<li style="align-items: center;">
+									<label for="" class="">서식버전</label>
+									<span>v 1.0</span>
+								</li>
+								<li>
+									<label for="" class="must">본인인증 여부</label>
+									<div class="selectBox">
+										<select class="select">
+											<option value="">Y</option>
+											<option value="">N</option>
+										</select>
+									</div>
+								</li>
+								<li>
+									<label for="" class="">카테고리</label>
+									<div class="selectBox">
+										<select class="select">
+											<option value="">=선택=</option>
+											<option value="">선택</option>
+										</select>
+									</div>
+								</li>
+								<li class="gd2">
+									<label for="" class="">서식유형</label>
+									<div class="rowFlex4">
+										<div class="inputBox fit">
+											<input type="radio" name="regisType" value="common">
+											<label>일반</label>
+										</div>
+										<div class="inputBox fit">
+											<input type="radio" name="regisType" value="consent">
+											<label>동의</label>
+										</div>
+										<label for="" class="mgt-0 paragraph2 ftw-300">(동의 받는 단락수 :</label>
+										<div class="rowFlex4 paragraph2">
+											<div class="selectBox ftw-300">
+												<select class="select" name="regisSelect">
+													<option value="1">1</option>
+													<option value="2">2</option>
+													<option value="3">3</option>
+													<option value="4">4</option>
+													<option value="5">5</option>
+													<option value="6">6</option>
+													<option value="7">7</option>
+													<option value="8">8</option>
+													<option value="9">9</option>
+													<option value="10">10</option>
+												</select>
+											</div>
+											<span class="ftw-300">)개</span>
+										</div>
+									</div>
+								</li>
+								<li>
+									<label for="" class="">보관기간(년)</label>
+									<div class="inputBox">
+										<input type="text">
+									</div>
+								</li>
+								<!-- 본문글자, 크기, 굵기 삭제, 본문내용 toast editor 적용 (2024-05-20 수정) -->
+								<li class="gd3">
+									<label for="" class="">본문내용</label>
+									<div class="inputBox">
+										<textarea class="scroll" cols="" disabled></textarea>
+									</div>
+								</li>
+								<li class="gd3">
+									<div class="btn flexR">
+										<div class="btnRight">
+											<div class="workBtn">
+												<button onclick="subModal(modalType, 'consentWrap1')">본문 입력</button>
+											</div>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					<div class="btn">
+						<div class="btnLeft"></div>
+						<div>
+								<button class="" onclick="swal('등록', '신규 전자서약 서식을 등록하시겠습니까?', 'info', {
+									buttons: {
+											cancel: '취소',
+											confirm: {
+													text: '확인',
+													value: 'confirm'
+											},
+									},
+									closeOnClickOutside: false,
+								}).then((value) => {
+									switch (value) {
+										case 'confirm':
+										swal('등록 완료', '등록이 완료되었습니다.', 'success', {
+												buttons: '확인',
+										});
+											break;
+									}
+								});">등록</button>
+						</div>
+						<div class="btnRight"></div>
+					</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- 서식보기(동의) 화면 modal2 -->
+			<!-- GpVow0200003 -->
+			<div class="modalWrap">
+				<div class="modal mid modal2 pleModal">
+					<div class="closeBtn" onclick="modal('modal2')"><i class="fa-solid fa-xmark"></i></div>
+					<h3>서식보기(동의)</h3>
+					<div class="modalInWrap">
+						<div class="peldgeTitle">
+							<div>
+								<div class="pleModalLogo"></div>
+								<span>23년 포스코 캘린더 정보 사용 동의서</span>
+							</div>
+						</div>
+						<div class="conBox no-bd no-pd">
+							<p class="pledge-cont1">개인정보 수집·이용 및 제3자 제공 동의서</p>
+							<h3 class="pledge-subTitle">개인정보 수집·이용 내역</h3>
+							<article class="scroll">
+								<b>■ 포스코 캘린더 배포를 위한 개인정보의 수집·이용</b><br><br>
+								① 수집·이용 목적<br>
+								- 포스코 캘린더 배포를 위한 부서별 담당자 및 수량, 배송 위치 확인<br>
+								② 수집 항목<br>
+								- 포스코 캘린더 배포를 위한 부서별 담당자 및 수량, 배송 위치 확인<br>
+								② 수집 항목<br>
+								- 포스코 캘린더 배포를 위한 부서별 담당자 및 수량, 배송 위치 확인<br>
+								② 수집 항목<br>
+							</article>
+							<div class="rowFlex pledge-inputBox">
+								<div class="inputBox fit">
+									<input type="radio" class="agreeRadio1" name="agree1">
+									<label>위의 내용에 동의합니다.</label>
+								</div>
+								<div class="inputBox fit">
+										<input type="radio" class="agreeRadio2" name="agree1">
+										<label>위의 내용에 동의하지 않습니다.</label>
+								</div>
+							</div>
+
+							<h3 class="pledge-subTitle">개인정보 제3자 제공 동의</h3>
+							<article class="scroll">
+								<b>■ 포스코 캘린더 배포를 위한 개인정보의 제공</b><br><br>
+								① 개인정보를 제공받는 자<br>
+								비핸즈(캘린더 제작업체),대진통상(캘린더 배송업체)<br>
+								② 개인정보를 제공받는 자의 개인정보 이용 목적<br>
+								포스코 캘린더 배포를 위한 부서별 담당자 및 수량, 배송 위치 확인<br>
+								① 개인정보를 제공받는 자<br>
+								비핸즈(캘린더 제작업체),대진통상(캘린더 배송업체)<br>
+								② 개인정보를 제공받는 자의 개인정보 이용 목적<br>
+								포스코 캘린더 배포를 위한 부서별 담당자 및 수량, 배송 위치 확인<br>
+							</article>
+							<div class="rowFlex pledge-inputBox">
+								<div class="inputBox fit">
+									<input type="radio" class="agreeRadio1" name="agree2">
+									<label>위의 내용에 동의합니다.</label>
+								</div>
+								<div class="inputBox fit">
+									<input type="radio" class="agreeRadio2" name="agree2">
+									<label>위의 내용에 동의하지 않습니다.</label>
+								</div>
+							</div>
+
+							<p>본인은 서명날인을 갈음하는 회사의 전자서약 방식(본인확인을 거쳐 전자인증서를 발급받아 이를 이용하여 전자서명함)에 동의합니다.</p>
+
+							<div class="allCheck">
+								<div class="inputBox">
+									<input type="checkbox" id="allAgree" name="allagree">
+									<label for="allAgree"><h2>위 서약서 내용에 전체 동의합니다.</h2></label>
+								</div>
+							</div>
+
+							<div class="searchBox none">
+								<div class="searchBoxWrap">
+										<div class="searchArea">
+												<div class="searchAreaWrap no-btn">
+
+														<!-- 3분할 -->
+														<ul class="divd3">
+															<li class="inputBox">
+																<label>회사명</label>
+																<span style="font-weight: bold;">포스코DX</span>
+															</li>
+															<li class="inputBox">
+																<label>직번</label>
+																<input type="text" name="jobnum" />
+															</li>
+															<li class="inputBox">
+																<label>성명</label>
+																<input type="text" name="name" />
+															</li>
+														</ul>
+
+												</div>
+										</div>
+								</div>
+							</div>
+
+							<div class="pleSign">
+								<p>서약일시 : <span>2024-04-02 13:18</span></p>
+								<p>주식회사 포스코 귀중</p>
+							</div>
+
+						</div>
+						<div class="btn">
+							<div class="btnLeft"></div>
+							<div>
+								<button onclick="modal('modal2')">닫기</button>
+							</div>
+							<div class="btnRight"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- 서식보기(일반) 화면 modal3 -->
+			<!-- GpVow0200004 -->
+			<div class="modalWrap">
+				<div class="modal mid modal3 pleModal">
+					<div class="closeBtn" onclick="modal('modal3')"><i class="fa-solid fa-xmark"></i></div>
+					<h3>서식보기(일반)</h3>
+					<div class="modalInWrap">
+						<div class="peldgeTitle">
+							<div>
+								<div class="pleModalLogo"></div>
+								<span>2024년 글로벌 반부패준수 서약</span>
+							</div>
+						</div>
+						<div class="conBox">
+							<article class="scroll long">
+								<b>본인은 포스코그룹 해외법인 임직원으로서 주재하고 있는 국가를 포함한 세계 각 지역에서 회사의 직무를 수행함에 있어 글로벌 최고 수준의 윤리적 기준을 따르고, 반부패 관련 글로벌 법규 및 스탠더드를 준수하고자 다음과 같이 서약합니다.</b><br><br>
+								1. 미국 PCPA. 영국 Bribery Act, OECD 뇌물방지협약 등 글로벌 반부패 법규와 스탠더드, 현지의 반부패 관련 법규 및 포스코 글로벌 반부패 준수지침을 준수하겠습니다.<br><br>
+								2. 국내외 공무원, 거래 상대방 등 모든 이해관계자와 사업상 이익을 위해 부정한 의도의 접대, 편의제공, 금전 또는 유가물 수수행위를 하지 않겠습니다.<br><br>
+								3. 호의 표시 또는 친목 증진을 위한 이해관계자에게의 식사, 선물 등 제공시 회사의 규정과 방침을 따르겠습니다.<br><br>
+								4. 통상적 수준을 초과하는 이해관계자에게의 교통수단, 숙박시설 등 편의제공을 하거나 받지 않겠습니다.
+							</article>
+
+							<div class="allCheck">
+								<div class="inputBox">
+									<input type="checkbox" id="allAgree2" name="allagree2">
+									<label for="allAgree"><h2>위 서약서 내용에 전체 동의합니다.</h2></label>
+								</div>
+							</div>
+
+							<div class="searchBox none">
+								<div class="searchBoxWrap">
+										<div class="searchArea">
+												<div class="searchAreaWrap no-btn">
+
+														<!-- 3분할 -->
+														<ul class="divd3">
+															<li class="inputBox">
+																<label>회사명</label>
+																<span style="font-weight: bold;">포스코DX</span>
+															</li>
+															<li class="inputBox">
+																<label>직번</label>
+																<input type="text" name="jobnum2" />
+															</li>
+															<li class="inputBox">
+																<label>성명</label>
+																<input type="text" name="name2" />
+															</li>
+														</ul>
+
+												</div>
+										</div>
+								</div>
+							</div>
+
+							<div class="pleSign">
+								<p>서약일시 : <span>2024-04-02 13:18</span></p>
+								<p>주식회사 포스코 귀중</p>
+							</div>
+
+						</div>
+						<div class="btn">
+							<div class="btnLeft"></div>
+							<div>
+									<button onclick="modal('modal3')">닫기</button>
+							</div>
+							<div class="btnRight"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- 서식본문등록(일반)화면 modal4 -->
+			<!-- GpVow0200005 -->
+			<div class="modalWrap">
+				<div class="modal mid modal4 registerModal">
+					<div class="closeBtn" onclick="modal('modal4')"><i class="fa-solid fa-xmark"></i></div>
+					<h3>서식본문등록(일반)</h3>
+					<div class="modalInWrap">
+						<div class="conBox">
+							<ul class="conFlex3">
+								<!-- 본문글자, 크기, 굵기 삭제, 본문내용 toast editor 적용 (2024-05-20 수정) -->
+								<li class="gd3">
+									<label for="" class="">본문내용</label>
+									<div class="inputBox">
+										<div id="editor1"></div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					<div class="btn">
+						<div class="btnLeft"></div>
+						<div>
+								<button class="" onclick="swal('입력', '입력 하시겠습니까?', 'info', {
+									buttons: {
+											cancel: '취소',
+											confirm: {
+													text: '확인',
+													value: 'confirm'
+											},
+									},
+									closeOnClickOutside: false,
+								}).then((value) => {
+									switch (value) {
+										case 'confirm':
+										swal('입력 완료', '입력이 완료되었습니다.', 'success', {
+												buttons: '확인',
+										});
+											break;
+									}
+								});">입력</button>
+						</div>
+						<div class="btnRight"></div>
+					</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- 서식본문등록(동의) modal5 -->
+			<!-- GpVow0200006 -->
+			<div class="modalWrap">
+				<div class="modal mid modal5 registerModal registerModalCommon">
+					<div class="closeBtn" onclick="modal('modal5')"><i class="fa-solid fa-xmark"></i></div>
+					<h3>서식본문등록(동의)</h3>
+					<div class="modalInWrap">
+						<div class="conBox">
+							<!-- 본문글자, 크기, 굵기 삭제, 본문내용 toast editor 적용 (2024-05-20 수정) -->
+							<div id="consentWrap1">
+							</div>
+						</div>
+					<div class="btn">
+						<div class="btnLeft"></div>
+						<div>
+								<button class="" onclick="swal('입력', '입력 하시겠습니까?', 'info', {
+									buttons: {
+											cancel: '취소',
+											confirm: {
+													text: '확인',
+													value: 'confirm'
+											},
+									},
+									closeOnClickOutside: false,
+								}).then((value) => {
+									switch (value) {
+										case 'confirm':
+										swal('입력 완료', '입력이 완료되었습니다.', 'success', {
+												buttons: '확인',
+										});
+											break;
+									}
+								});">입력</button>
+						</div>
+						<div class="btnRight"></div>
+					</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- 서식수정 화면 modal6 -->
+			<!-- GpVow0200007 -->
+			<div class="modalWrap">
+				<div class="modal mid modal6 registerModal">
+					<div class="closeBtn" onclick="modal('modal6')"><i class="fa-solid fa-xmark"></i></div>
+					<h3>서식 수정</h3>
+					<div class="modalInWrap">
+						<div class="conBox">
+							<ul class="conFlex2">
+								<li style="align-items: center;">
+									<label for="" class="must">회사명</label>
+									<span>포스코DX</span>
+								</li>
+								<li>
+									<label for="" class="">언어</label>
+									<div class="selectBox">
+										<select class="select">
+											<option value="">국문</option>
+											<option value="">영문</option>
+										</select>
+									</div>
+								</li>
+								<li class="gd2">
+									<label for="" class="">서식명</label>
+									<div class="inputBox">
+										<input type="text">
+									</div>
+								</li>
+								<li class="gd2 fileUpInput">
+									<label for="" class="">로고 이미지 첨부</label>
+									<div class="inputBox">
+										<input type="text">
+									</div>
+									<div class="btn">
+										<div class="btnRight">
+											<button class="fileUp">파일 업로드</button>
+										</div>
+									</div>
+								</li>
+							</ul>
+							<ul class="conFlex3 mgt-8">
+								<li style="align-items: center;">
+									<label for="" class="">서식버전</label>
+									<span>v 1.0</span>
+								</li>
+								<li>
+									<label for="" class="must">본인인증 여부</label>
+									<div class="selectBox">
+										<select class="select">
+											<option value="">Y</option>
+											<option value="">N</option>
+										</select>
+									</div>
+								</li>
+								<li>
+									<label for="" class="">카테고리</label>
+									<div class="selectBox">
+										<select class="select">
+											<option value="">=선택=</option>
+											<option value="">선택</option>
+										</select>
+									</div>
+								</li>
+								<li class="gd2">
+									<label for="" class="">서식유형</label>
+									<div class="rowFlex4">
+										<div class="inputBox fit">
+											<input type="radio" name="modiType" value="common">
+											<label>일반</label>
+										</div>
+										<div class="inputBox fit">
+											<input type="radio" name="modiType" value="consent">
+											<label>동의</label>
+										</div>
+										<label for="" class="mgt-0 paragraph ftw-300">(동의 받는 단락수 :</label>
+										<div class="rowFlex4 paragraph">
+											<div class="selectBox ftw-300">
+												<select class="select" name="modiSelect">
+													<option value="1">1</option>
+													<option value="2">2</option>
+													<option value="3">3</option>
+													<option value="4">4</option>
+													<option value="5">5</option>
+													<option value="6">6</option>
+													<option value="7">7</option>
+													<option value="8">8</option>
+													<option value="9">9</option>
+													<option value="10">10</option>
+												</select>
+											</div>
+											<span class="ftw-300">)개</span>
+										</div>
+									</div>
+								</li>
+								<li>
+									<label for="" class="">보관기간(년)</label>
+									<div class="inputBox">
+										<input type="text">
+									</div>
+								</li>
+								<!-- 본문글자, 크기, 굵기 삭제 (2024-05-20 수정) -->
+								<li class="gd3">
+									<label for="" class="must">본문내용</label>
+									<div class="inputBox">
+										<textarea class="scroll" cols="" disabled></textarea>
+									</div>
+								</li>
+								<li class="gd3">
+									<div class="btn flexR">
+										<div class="btnRight">
+											<div class="workBtn">
+												<button onclick="subModal(modalType, 'consentWrap2')">본문 입력</button>
+											</div>
+										</div>
+									</div>
+								</li>
+								<li class="gd3">
+									<label for="" class="must">버전업 사유</label>
+									<div class="inputBox">
+										<input type="text">
+									</div>
+								</li>
+							</ul>
+						</div>
+					<div class="btn">
+						<div class="btnLeft"></div>
+						<div>
+							<button class="versionUp" onclick="swal('버전업', `서식버전을 ${'0.1'}에서 ${'0.2'}로 버전업 하겠습니까?`, 'info', {
+									buttons: {
+											cancel: '취소',
+											confirm: {
+													text: '확인',
+													value: 'confirm'
+											},
+									},
+									closeOnClickOutside: false,
+								}).then((value) => {
+										switch (value) {
+											case 'confirm':
+												swal('버전업 완료', '버전업 되었습니다.', 'success', {
+														buttons: '확인',
+												});
+												break;
+										}
+								});">버전업</button>
+							<button class="confirm" onclick="swal('수정', '전자서약 서식을 수정하시겠습니까?', 'info', {
+									buttons: {
+											cancel: '취소',
+											confirm: {
+													text: '확인',
+													value: 'confirm'
+											},
+									},
+									closeOnClickOutside: false,
+								}).then((value) => {
+										switch (value) {
+											case 'confirm':
+													swal('수정 완료', '수정 되었습니다.', 'success', {
+															buttons: '확인',
+													});
+												break;
+										}
+								});">수정</button>
+							<button class="delete" onclick="swal('삭제', '해당 버전의 서식을 삭제 하겠습니까? 삭제된 서식은 복구되지 않습니다.', 'info', {
+									buttons: {
+											cancel: '취소',
+											confirm: {
+													text: '확인',
+													value: 'confirm'
+											},
+									},
+									closeOnClickOutside: false,
+								}).then((value) => {
+										switch (value) {
+											case 'confirm':
+												swal('삭제 완료', '삭제 되었습니다.', 'success', {
+														buttons: '확인',
+												});
+												break;
+										}
+								});">삭제</button>
+						</div>
+						<div class="btnRight"></div>
+					</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- 서식본문수정(일반) modal7-->
+			<!-- GpVow0200008 -->
+			<div class="modalWrap">
+				<div class="modal mid modal7 registerModal">
+					<div class="closeBtn" onclick="modal('modal7')"><i class="fa-solid fa-xmark"></i></div>
+					<h3>서식본문수정(일반)</h3>
+					<div class="modalInWrap">
+						<div class="conBox">
+							<ul class="conFlex3">
+								<!-- 본문글자, 크기, 굵기 삭제, 본문내용 toast editor 적용 (2024-05-20 수정) -->
+								<li class="gd3">
+									<label for="" class="">본문내용</label>
+									<div class="inputBox">
+										<div id="editor2"></div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					<div class="btn">
+						<div class="btnLeft"></div>
+						<div>
+								<button class="" onclick="swal('수정', '수정 하시겠습니까?', 'info', {
+										buttons: {
+												cancel: '취소',
+												confirm: {
+														text: '확인',
+														value: 'confirm'
+												},
+										},
+										closeOnClickOutside: false,
+									}).then((value) => {
+											switch (value) {
+												case 'confirm':
+														swal('수정 완료', '수정 되었습니다.', 'success', {
+																buttons: '확인',
+														});
+													break;
+											}
+									});">수정</button>
+						</div>
+						<div class="btnRight"></div>
+					</div>
+					</div>
+				</div>
+			</div>
+
+			<!-- 서식본문수정(동의) modal8 -->
+			<!-- GpVow0200009 -->
+			<div class="modalWrap">
+				<div class="modal mid modal8 registerModal registerModalCommon">
+					<div class="closeBtn" onclick="modal('modal8')"><i class="fa-solid fa-xmark"></i></div>
+					<h3>서식본문수정(동의)</h3>
+					<div class="modalInWrap">
+						<div class="conBox">
+							<!-- 본문글자, 크기, 굵기 삭제, 본문내용 toast editor 적용 (2024-05-20 수정) -->
+							<div id="consentWrap2">
+							</div>
+						</div>
+					<div class="btn">
+						<div class="btnLeft"></div>
+						<div>
+								<button class="" onclick="swal('수정', '수정 하시겠습니까?', 'info', {
+										buttons: {
+												cancel: '취소',
+												confirm: {
+														text: '확인',
+														value: 'confirm'
+												},
+										},
+										closeOnClickOutside: false,
+									}).then((value) => {
+											switch (value) {
+												case 'confirm':
+														swal('수정 완료', '수정 되었습니다.', 'success', {
+																buttons: '확인',
+														});
+													break;
+											}
+									});">수정</button>
+						</div>
+						<div class="btnRight"></div>
+					</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<script>
+			// 데이터 시트
+			$(document).ready(function () {
+
+				// return에 만든 버튼의 데이터 속성 클릭 이벤트 (서식명)
+				$(document).on('click', '[data-custom-btn]', function (e) {
+					modal('modal6', null, 'modify')
+				});
+
+				// return에 만든 버튼의 데이터 속성 클릭 이벤트 (서식보기(국문))
+				$(document).on('click', '[data-custom-btnK]', function (e) {
+					modal('modal2');
+				});
+
+				// return에 만든 버튼의 데이터 속성 클릭 이벤트 서식보기(영문))
+				$(document).on('click', '[data-custom-btnE]', function (e) {
+					modal('modal3');
+				});
+			});
+
+			const grid = new tui.Grid({
+				el: document.getElementById('grid'),
+				scrollX: false,
+				scrollY: false,
+				header: {
+					height: 28,
+					fontWeight: 700
+				},
+				cell: {
+					header: {
+						background: '#EFF3F6'
+					}
+				},
+				rowHeight: 29,
+				minRowHeight: 29,
+				bodyHeight: 'auto',
+				selectionUnit: 'row',
+				exportOptions: {
+					excelCompatibilityMode: true,
+				},
+				rowHeaders: [
+					{ type: 'rowNum', header: 'No.', },      // row 숫자 표시
+				],
+				pageOptions: {
+					useClient: true,
+					perPage: 10,
+				},
+				columns: [
+					{
+						header: '구분',
+						name: 'sort',
+						align: 'center',
+						width: 90,
+						minWidth: 90,
+					},
+					{
+						header: '서식명',
+						name: 'formatName',
+						align: 'left',
+						minWidth: 550,
+						formatter: function (e) {
+							return `<button class="textBtn" data-custom-btn="${e.row.id}">${e.value}</button>`;
+						}
+					},
+					{
+						header: '서식보기(국문)',
+						name: 'searchBtnK',
+						width: 100,
+						minWidth: 100,
+						align: 'center',
+						formatter: function (e) {
+							return `<div class="inputBox search" style="justify-content: center;">
+									<div class="mag" data-custom-btnK="${e.row.id}" style="position: relative; right: unset; ">
+										<i class="fa-solid fa-magnifying-glass"></i>
+									</div>
+								</div>`;
+						}
+					},
+					{
+						header: '서식보기(영문)',
+						name: 'searchBtnE',
+						width: 100,
+						minWidth: 100,
+						align: 'center',
+						formatter: function (e) {
+							return `<div class="inputBox search" style="justify-content: center;">
+									<div class="mag" data-custom-btnE="${e.row.id}" style="position: relative; right: unset;">
+										<i class="fa-solid fa-magnifying-glass"></i>
+									</div>
+								</div>`;
+						}
+					},
+					{
+						header: '버전',
+						name: 'version',
+						align: 'center',
+						width: 80,
+						minWidth: 80,
+					},
+					{
+						header: '사용여부',
+						name: 'use',
+						align: 'center',
+						width: 80,
+						minWidth: 80,
+					},
+					{
+						header: '보관기간',
+						name: 'storagePeriod',
+						align: 'center',
+						width: 80,
+						minWidth: 80,
+					},
+					{
+						header: '등록자',
+						name: 'registrant',
+						align: 'center',
+						minWidth: 100,
+						width: 100,
+					},
+					{
+						header: '등록일자',
+						name: 'registrationDate',
+						align: 'center',
+						minWidth: 200,
+						width: 200,
+					},
+				],
+				data: [
+					{
+						sort: '대출',
+						formatName: '[서울]24년 3월 새마을금고 대출기한 자동연장',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '5년',
+						registrant: '엄경섭',
+						registrationDate: '2024-02-13 12:57',
+						id: 1,
+					},
+					{
+						sort: '대출',
+						formatName: '[포항]24년 3월 새마을금고 대출기한 자동연장',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '5년',
+						registrant: '엄경섭',
+						registrationDate: '2024-02-13 12:57',
+						id: 2,
+					},
+					{
+						sort: '대출',
+						formatName: '[광양]24년 3월 새마을금고 대출기한 자동연장',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '5년',
+						registrant: '엄경섭',
+						registrationDate: '2024-02-13 12:57',
+						id: 5,
+					},
+					{
+						sort: '노무',
+						formatName: '24년 2월 사내근로복지기금 대부 주의사항 안내',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '5년',
+						registrant: '김기량',
+						registrationDate: '2024-02-13 12:57',
+						id: 6,
+					},
+					{
+						sort: '안전',
+						formatName: '2024년 안전다짐 서약',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '1년',
+						registrant: '박민우',
+						registrationDate: '2024-02-13 12:57',
+						id: 7,
+					},
+					{
+						sort: '공정거래',
+						formatName: '2024년 글로벌 반부패준수 서약',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '3년',
+						registrant: '박민우',
+						registrationDate: '2024-02-13 12:57',
+						id: 8,
+					},
+					{
+						sort: '대출',
+						formatName: '[서울]24년 2월 새마을금고 대출기한 자동연장',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '5년',
+						registrant: '엄경섭',
+						registrationDate: '2024-02-13 12:57',
+						id: 15,
+					},
+					{
+						sort: '대출',
+						formatName: '[포항]24년 2월 새마을금고 대출기한 자동연장',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '5년',
+						registrant: '엄경섭',
+						registrationDate: '2024-02-13 12:57',
+						id: 16,
+					},
+					{
+						sort: '대출',
+						formatName: '[광양]24년 2월 새마을금고 대출기한 자동연장',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '5년',
+						registrant: '엄경섭',
+						registrationDate: '2024-02-13 12:57',
+						id: 17,
+					},
+					{
+						sort: '노무',
+						formatName: '24년 1월 사내근로복지기금 대부 주의사항 안내',
+						version: 'v1.0',
+						use: '사용',
+						storagePeriod: '5년',
+						registrant: '김기량',
+						registrationDate: '2024-02-13 12:57',
+						id: 18,
+					},
+				],
+			});
+
+			grid.on('mousedown', (ev) => {
+				if (ev.targetType == 'cell' || ev.targetType == 'columnHeader'|| ev.columnName == '_number') {
+					const gridFocus = ev.instance.el.querySelector('.tui-grid-layer-focus');
+					const gridSelect = ev.instance.el.querySelectorAll('.tui-grid-layer-selection');
+					if (ev.targetType != 'columnHeader') {
+						gridFocus.style.display = 'block';
+						if (gridSelect.length > 0) {
+							gridSelect.forEach((g) => {
+								g.style.display = 'block';
+							})
+						}
+						const activeCell = ev.instance.el.querySelector('.active');
+						if (activeCell) activeCell.classList.remove('active');
+						let rowIndex = grid.getData().findIndex((d) => d.rowKey === ev.rowKey);
+						if (rowIndex > 9) rowIndex = rowIndex % 10;
+						grid.setSelectionRange({
+							start: [rowIndex, 0],
+							end: [rowIndex, grid.getColumns().length]
+						});
+						// rowHeader (number, checkbox) 클릭 시 해당 첫 column active표시
+						ev.columnName == '_number' ? grid.getElement(ev.rowKey, grid.getColumns()[0].name).classList.add('active') : grid.getElement(ev.rowKey, ev.columnName).classList.add('active')
+					} else if (ev.targetType == 'columnHeader') {
+						gridFocus.style.display = 'none';
+						if (gridSelect.length > 0) {
+							gridSelect.forEach((g) => {
+								g.style.display = 'none';
+							})
+						}
+					}
+				}
+			});
+
+			//모달
+
+			// 신규 서식등록인지 서식수정인지 파악을 위한 변수
+			var format = 'new';
+
+			// 서식 유형과 서식유형이 동의일시 본문 갯수 파악을 위한 변수
+			var modalType = 'common';
+			var paragraphNum = 1;
+
+			// 서식유형 일반일 시 본문 editor 적용 (2024-05-20 수정)
+			var editor1 = new toastui.Editor({
+				el: document.querySelector('#editor1'),
+					previewStyle: null,
+					initialValue: `예) 본인은 포스코그룹 해외법인 임직원으로서 주재하고 있는 국가를 포함한 세계 각 지역에서 회사의 직무를 수행함에 있어 글로벌 최고 수준의 윤리적 기준을 따르고, 반부패 관련 글로벌 법규 및 스탠더들을 준수하고자 다음과 같이 서약합니다.
+
+1.호의 표시 또는 친목 증진을 위한 ...
+
+2.통상적 수준을 초과하는 이해관계자와의....
+
+
+이러한 사항을 명확히 확인하는 의미로 서명날인에 갈음하는 회사의 전자서약 방식으로 서명합니다.`,
+					height: '500px',
+					language: 'ko'
+			});
+
+			// 서식유형 일반일 시 본문 editor 적용 (2024-05-20 수정)
+			var editor2 = new toastui.Editor({
+				el: document.querySelector('#editor2'),
+					previewStyle: null,
+					height: '500px',
+					language: 'ko'
+			});
+
+			$(document).ready(function () {
+
+				// 동의 클릭 시 단락 수 select 활성화 (등록)
+				$('input[name="regisType"]').change(function(e) {
+					const value = e.target.value
+					modalType = value;
+					value == 'common' ? $('.paragraph2').removeClass('active') : $('.paragraph2').addClass('active');
+				})
+
+
+				// 동의 클릭 시 단락 수 select 활성화 (수정)
+				$('input[name="modiType"]').change(function(e) {
+					const value = e.target.value
+					modalType = value;
+					value == 'common' ? $('.paragraph').removeClass('active') : $('.paragraph').addClass('active');
+				})
+
+				// 본문갯수 파악 (등록)
+				$('select[name="regisSelect"]').change(function(){
+					paragraphNum =  parseInt($(this).val());
+				});
+
+				// 본문갯수 파악 (수정)
+				$('select[name="modiSelect"]').change(function(){
+					paragraphNum =  parseInt($(this).val());
+				});
+			});
+
+			// 본문내용입력 모달창 타입 체크 함수
+			function subModal(modalType, id) {
+				if (format == 'new') {
+					if (modalType == 'common') modal('modal4');
+					else if (modalType == 'consent') modal('modal5', id);
+				} else if (format == 'modify') {
+					if (modalType == 'common') modal('modal7');
+					else if (modalType == 'consent') modal('modal8', id);
+				}
+			}
+
+			//모달창 활성화 함수
+			function modal(prop, id, formatType) {
+
+				// 서식 신규 등록 or 수정 클릭 시 타입, 단락 수 초기화
+				if (formatType) {
+					var isChecked = false;
+					format = formatType;
+					if (formatType == 'new') {
+						$('input[name="regisType"]:checked').each((i, e) => {
+								modalType = $(e).val();
+								isChecked = true;
+						});
+						if (!isChecked) modalType = 'common';
+						paragraphNum = $('select[name="regisSelect"]').val();
+					} else {
+						$('input[name="modiType"]:checked').each((i, e) => {
+								modalType = $(e).val();
+								isChecked = true;
+						});
+						if (!isChecked) modalType = 'common';
+						paragraphNum = $('select[name="modiSelect"]').val();
+					}
+				}
+				// 서식유형이 동의일 경우 단락 갯수만큼 form 넣어줌.
+				// 단락 영역 수정 (2024-05-20 수정)
+				if(modalType == 'consent') {
+					var paragraph = '';
+
+					// 본문작성폼 모달 paragraph 초기화
+					$(`#${id}`).html(paragraph);
+
+					paragraph += `
+					<label>■ 머리말(서두)</label>
+					<li>
+						<div id="editorStart${format === 'new' ? 'n' : 'u'}" style="width: 100%;"></div>
+					</li>
+					<label style="margin-top: 20px;">■ 서약 본문(본론)</label>
+					`
+
+					// tui editor로 변경 (2024-05-20 수정)
+					for(i = 0; i < paragraphNum; i++) {
+						paragraph += `
+						<ul class="conFlex1" style="margin-bottom: 0px; padding-bottom: 8px;">
+							<li>
+								<label>• 서약 항목${i+1}</label>
+								<div class="inputBox noLabel">
+									<input type="text" placeholder="${format === 'new' ? '□개인정보의 수집 및 이용에 관한 사항' : ''}" />
+								</div>
+							</li>
+							<li>
+								<div id="editor${i}_${format === 'new' ? 'n' : 'u'}1" style="width: 100%;"></div>
+							</li>
+							<li>
+								<div id="editor${i}_${format === 'new' ? 'n' : 'u'}2" style="width: 100%;"></div>
+							</li>
+							<li>
+								<div class="rowFlex">
+									<div class="inputBox fit noLabel">
+										<input type="radio" class="agreeRadio1" name="agree${i+1}">
+										<label>위의 내용에 동의합니다.</label>
+									</div>
+									<div class="inputBox fit noLabel">
+											<input type="radio" class="agreeRadio2" name="agree${i+1}">
+											<label>위의 내용에 동의하지 않습니다.</label>
+									</div>
+								</div>
+							</li>
+						</ul>`
+					}
+					paragraph += `
+					<label style="margin-top: 12px;">■ 맺음말</label>
+					<li>
+						<div id="editorEnd${format === 'new' ? 'n' : 'u'}"" style="width: 100%;"></div>
+					</li>
+					`
+					$(`#${id}`).html(paragraph);
+
+					new toastui.Editor({
+						el: document.querySelector(`#editorStart${format === 'new' ? 'n' : 'u'}`),
+							previewStyle: null,
+							initialValue: format === 'new' ? `서약의 머리말을 입력 하시기 바랍니다.
+Ex) 개인정보 보호법 시행에 따라 직원 여러분들의 동의를 받고자 아래와 같은 내용으로 서약을 진행합니다.` : '',
+							height: '165px',
+							language: 'ko'
+					})
+
+					new toastui.Editor({
+						el: document.querySelector(`#editorEnd${format === 'new' ? 'n' : 'u'}`),
+							previewStyle: null,
+							initialValue: format === 'new' ? `서약 맺음말을 입력하시기 바랍니다.
+Ex) 본인은 서명날인을 갈음하는 회사의 전자서약 방식에 대해서 동의 합니다.` : '',
+							height: '165px',
+							language: 'ko'
+					})
+
+					for(i = 0; i < paragraphNum; i++) {
+						new toastui.Editor({
+							el: document.querySelector(`#editor${i}_${format === 'new' ? 'n' : 'u'}1`),
+								previewStyle: null,
+								initialValue: format === 'new' ? `서약 항목 내용
+Ex) 본인은 귀사에 이력서를 제출함에 따라 [개인정보 보호법] 제 15조 및 제17조에 따라 아래의 내용으로 개인정보를 수집, 이용 및 제공하는데 동의합니다.` : '',
+								height: '175px',
+								language: 'ko'
+						})
+					}
+				}
+
+
+				//호출시 모달창 위치 화면 중앙에 위치하도록 계산
+				var setPositionX = $(window).width() / 2 - $(`.${prop}`).width() / 2,
+					setPositionY = $(window).height() / 2 - $(`.${prop}`).height() / 2
+
+				//모달 호출 토글링
+				$(`.${prop}`).toggleClass("active");
+
+				//활성화된 모달 개수 만큼 zIndex 순서값 지정
+				let zIndex = $('.modal.active').length
+
+				$(`.${prop}`).css({
+					"z-index": zIndex,
+					"top": setPositionY,
+					"left": setPositionX,
+				})
+			}
+
+		</script>
+	</div>
+</body>
+
+</html>

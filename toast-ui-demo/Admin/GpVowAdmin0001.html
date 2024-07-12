@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>기준코드관리</title>
+
+	<link rel="stylesheet" href="../static/plugins/toast/css/tui-grid.min.css" />
+	<link rel="stylesheet" href="../static/plugins/toast/css/tui-pagination.min.css" />
+	<link rel="stylesheet" href="../static/plugins/toast/css/tui-date-picker.min.css" />
+
+	<script src="../static/plugins/xlsx.full.min.js"></script>
+	<script type="text/javascript" src="../static/plugins/toast/tui-pagination.min.js"></script>
+	<script src="../static/plugins/toast/tui-date-picker.min.js"></script>
+	<script src="../static/plugins/toast/tui-grid.min.js"></script>
+
+	<!-- 공통 -->
+	<script src="../static/js/include.js"></script>
+
+</head>
+
+<body>
+	<!-- GpVow0400001 -->
+	<div class="appWrap">
+		<!-- 상단탭 영역을 호출합니다. -->
+		<header></header>
+
+		<div class="topInfo">
+			<div class="siteRoad">
+				<span class="nowPage">코드관리</span>
+			</div>
+			<div class="mapToggle">
+				<div class="systemInfo">
+					<div class="logOnMyPage">
+						<div class="lgOnIcon"></div>
+						<p><span class="userName"></span>님, 안녕하세요.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!-- 업무 영역 .secWrap -->
+		<div class="secWrap pGuide">
+
+			<!-- 검색 영역 .searchBox -->
+			<div class="searchBox">
+				<div class="searchBoxWrap">
+					<div class="searchArea">
+						<div class="searchAreaWrap">
+
+							<!-- 3분할 -->
+							<ul class="divd3">
+								<li>
+									<label for="codeTypeA01" class="">코드유형</label>
+									<div class="selectBox">
+										<select class="select" id="codeTypeA01">
+										</select>
+									</div>
+								</li>
+								<li>
+									<label for="codeNameA01" class="">코드명</label>
+									<div class="inputBox">
+										<input id="codeNameA01" type="text">
+									</div>
+								</li>
+								<li>
+									<label for="activeFlagA01" class="">사용여부</label>
+									<div class="selectBox">
+										<select class="select" id="activeFlagA01">
+											<option value="">전체</option>
+											<option value="Y">Y</option>
+											<option value="N">N</option>
+										</select>
+									</div>
+								</li>
+							</ul>
+
+						</div>
+						<button class="state2 search" onclick="handleSearch()">조회</button>
+					</div>
+				</div>
+
+				<!-- 접기 토글 버튼-->
+				<div class="flipToggle"></div>
+
+			</div>
+
+
+			<div class="conBox">
+				<div class="conBoxInner" style="justify-content: end;">
+
+					<!-- 조회 건수 데이터 연결 필요 -->
+					<p class="gridNum">대상 : <span id="numberOfCodes"></span>건</p>
+				</div>
+
+				<article>
+					<div class="btn">
+						<div class="btnLeft">
+							<div class="workBtn">
+								<button class="state1" onclick="register02()">추가등록</button>
+							</div>
+						</div>
+						<div class="btnRight"></div>
+					</div>
+					<div id="grid"></div>
+				</article>
+			</div>
+
+			<!-- GpVow0400002 -->
+			<!-- 기준 코드 추가등록 팝업 -->
+			<div id="admin0002" class="modalWrap"></div>
+
+			<!-- 팝업 영역 추가 (2024-05-13 수정)-->
+			<!-- GpVow0400003 -->
+			<!-- 기준 코드 수정 팝업 -->
+			<div id="admin0003" class="modalWrap"></div>
+
+		</div>
+	<!-- 태그 추가 (2024-05-17 수정) -->
+	</div>
+</body>
+<script>
+	const grid = new tui.Grid({
+		el: document.getElementById('grid'),
+		scrollX: false,
+		scrollY: false,
+		header: {
+			height: 30,
+			fontWeight: 700
+		},
+		cell: {
+			header: {
+				background: '#EFF3F6'
+			}
+		},
+		rowHeight: 29,
+		minRowHeight: 29,
+		bodyHeight: 'auto',
+		selectionUnit: 'row',
+		exportOptions: {
+			excelCompatibilityMode: true,
+		},
+		rowHeaders: [],
+		pageOptions: {
+			useClient: true,
+			perPage: 10,
+		},
+		columns: [
+			{
+				header: '코드유형',
+				name: 'codeType',
+				minWidth: 200,
+				formatter: function (e) {
+					return `<button class="textBtn" data-custom-btn="${e.row.id}">${e.value}</button>`;
+				}
+			},
+			{
+				header: '코드유형명',
+				name: 'codeTypeName',
+				align: 'left',
+				minWidth: 200,
+			},
+			{
+				header: '코드값',
+				name: 'codeValue',
+				align: 'left',
+				minWidth: 150,
+				width: 200,
+			},
+			{
+				header: '코드명',
+				name: 'codeName',
+				align: 'left',
+				minWidth: 200,
+			},
+			{
+				header: '순서',
+				name: 'order',
+				align: 'center',
+				minWidth: 50,
+				width: 50,
+			},
+			{
+				header: '사용여부',
+				name: 'use',
+				align: 'center',
+				minWidth: 100,
+				width: 100,
+			},
+		],
+		data: [],
+	});
+
+	grid.on('mousedown', (ev) => {
+		utils.gridMouseDownHandler(grid, ev);
+	});
+
+	$(document).on('change', '#codeTypeA01', function (e) {
+		handleSearch();
+	});
+
+	const companyCode = utils.getCompanyCode();
+
+	function handleSearch() {
+		let requestCode = {
+			companyCode,
+			codeId: $('#codeTypeA01').val(),
+			cdVMeaning: $('#codeNameA01').val(),
+			activeFlag: $('#activeFlagA01').val()
+		};
+
+		utils.submitAjax({
+			url: '/GpVowAdmin0001/countCode',
+			type: 'GET',
+			data: requestCode,
+			callbackSuccess: function (response) {
+				$('#numberOfCodes').text(response);
+			}
+		});
+
+		utils.submitAjax({
+			url: '/GpVowAdmin0001/getCode',
+			type: 'GET',
+			data: requestCode,
+			callbackSuccess: function (response) {
+				let newData = response.map(({ SEQ: id, ORGANIZATION_NAME: organizationName, CD_TP: codeType, CD_TP_MEANING: codeTypeName, CD_V: codeValue, CD_V_MEANING: codeName, CD_SEQ: order, ACTIVE_FLAG: use }) => {
+					return {
+						id,
+						organizationName,
+						codeType,
+						codeTypeName,
+						codeValue,
+						codeName,
+						order,
+						use
+					}
+				});
+				grid.resetData(newData);
+			}
+		});
+	}
+
+	$(document).ready(function () {
+		$('.userName').text(utils.getEmpName());
+		$("#admin0002").load("GpVowAdmin0002.html");
+		$("#admin0003").load("GpVowAdmin0003.html");
+
+		let request = {
+			companyCode
+		}
+
+		utils.submitAjax({
+			url: '/GpVowAdmin/getCodeType',
+			type: 'GET',
+			data: request,
+			callbackSuccess: function (response) {
+				$('#codeTypeA01').append(`<option value="">전체</option>`);
+				for (const element of response) {
+					$('#codeTypeA01').append('<option value="' + element.CODE_ID + '">' + element.CODE_NAME + '</option>');
+				}
+			}
+		});
+
+		handleSearch();
+
+		// return에 만든 버튼의 데이터 속성 클릭 이벤트
+		$(document).on('click', '[data-custom-btn]', function (e) {
+			update02(e.target.getAttribute('data-custom-btn'));
+		});
+	});
+
+	function register02() {
+        _objA02.fn.loadDataPopup();
+        utils.popup_open('#admin0002');
+    }
+
+	function update02(seq) {
+        _objA03.fn.loadDataPopup(seq);
+        utils.popup_open('#admin0003');
+    }
+</script>
+
+</html>

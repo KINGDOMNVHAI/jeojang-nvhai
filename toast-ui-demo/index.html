@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <link rel="shortcut icon" href="#">
+  <title>전자서약 시스템</title>
+
+  <!-- js -->
+  <link rel="stylesheet" href="./static/plugins/jquery-ui-1.13.2/jquery-ui.min.css">
+  <script src="./static/plugins/jquery/jquery-3.6.0.js"></script>
+  <script src="./static/plugins/jquery-ui-1.13.2/jquery-ui.js"></script>
+  <!-- moment -->
+  <script src="./static/plugins/moment/moment.min.js"></script>
+  <script src="./static/plugins/moment/locale/moment-with-locales.min.js"></script>
+  <!-- jquery-date-range-picker -->
+  <script src="./static/plugins/jquery-date-range-picker/js/jquery-date-range-picker.js"></script>
+  <link rel="stylesheet" href="./static/plugins/jquery-date-range-picker/css/jquery-date-range-picker.css">
+  <!-- fontawesome -->
+  <script src="./static/plugins/fontawesome-free-6.1.2-web/js/all.js"></script>
+  <!-- select2 -->
+  <link rel="stylesheet" href="./static/plugins/select2/select2.min.css" />
+  <script src="./static/plugins/select2/select2.min.js"></script>
+  <!-- sweetalert -->
+  <script src="./static/plugins/sweetalert/sweetalert.min.js"></script>
+  <!-- sortableJS -->
+  <script src="./static/plugins/sortableJS/sortableJS.min.js"></script>
+  <!-- common -->
+  <link rel="stylesheet" href="./static/css/app.css" type="text/css" />
+  <script type="text/javascript" src="./static/js/declares.js"></script>
+  <script type="text/javascript" src="./static/js/common.js"></script>
+  <script type="text/javascript" src="./static/js/utils.js"></script>
+
+</head>
+
+<body class="commonBody">
+  <nav>
+    <div class="btnNav">
+      <div class="handle"></div>
+    </div>
+    <div class="navFlip">
+      <div class="titleSearch">
+        <div class="title">전자서약시스템</div>
+      </div>
+      <ul class="navList listMenu">
+        <li class="noChild">
+          <p>
+            <a href="#" onclick="loadPage('./User/GpVowUser0001.html')" class="menuLink">
+              <span> 전자서약 </span>
+            </a>
+          </p>
+        </li>
+        <hr class="menuLine" />
+        <li class="noChild">
+          <p>
+            <a href="#" onclick="loadPage('./Format/GpVowFormat0001.html')" class="menuLink">
+              <span> 서식관리 Form Management</span>
+            </a>
+          </p>
+        </li>
+        <hr class="menuLine" />
+        <li class="noChild">
+          <p>
+            <a href="#" onclick="loadPage('./Product/C401630290.html')" class="menuLink">
+              <span>Management of automatic sales</span>
+            </a>
+          </p>
+        </li>
+        <li class="subMenuSec active">
+          <p class="toggleMenu">
+            <a href="#">
+              <span> 서약관리 Pledge management</span>
+            </a>
+          </p>
+          <ul class="subMenuWrap active">
+            <li class="noChild subMenu">
+              <p>
+                <a href="#" onclick="loadPage('./Pledge/GpVowPledge0001.html')" class="menuLink">
+                  <span> 서약대상 Pledge target</span>
+                </a>
+              </p>
+            </li>
+            <li class="noChild subMenu">
+              <p>
+                <a href="#" onclick="loadPage('./Pledge/GpVowPledge0008.html')" class="menuLink">
+                  <span> 서약현황 및 메일발송 </span>
+                </a>
+              </p>
+            </li>
+            <li class="noChild subMenu">
+              <p>
+                <a href="#" onclick="loadPage('./Pledge/GpVowPledge0011.html')" class="menuLink">
+                  <span> 메일발송이력 </span>
+                </a>
+              </p>
+            </li>
+          </ul>
+        </li>
+        <hr class="menuLine" style="margin-top: 4px;" />
+        <li class="subMenuSec active">
+          <p class="toggleMenu">
+            <a href="#">
+              <span> 관리자 </span>
+            </a>
+          </p>
+          <ul class="subMenuWrap active">
+            <li class="noChild subMenu">
+              <p>
+                <a href="#" onclick="loadPage('./Admin/GpVowAdmin0001.html')" class="menuLink">
+                  <span> 코드관리 </span>
+                </a>
+              </p>
+            </li>
+            <li class="noChild subMenu">
+              <p>
+                <!-- onClick이벤트 추가 (2024-05-13 수정) -->
+                <a href="#" onclick="loadPage('./Admin/GpVowAdmin0004.html')" class="menuLink">
+                  <span> 회사 발송인 관리 </span>
+                </a>
+              </p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <div class="logIn">
+        <div>
+          <span class="nav-icon nav-icon-logout_w"></span>
+          <span>로그아웃</span>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div class="appWrap">
+    <div class="appContents">
+      <iframe id="iframeContain" class="iframeWrap" title=""></iframe>
+    </div>
+  </div>
+</body>
+<script>
+  $(document).ready(function () {
+    console.log('ready menu');
+
+    // if (!utils.isLogin()) {
+    //   window.location.href = prefixURL + "/login.html";
+    //   return;
+    // }
+
+    let param = {
+      companyCode: utils.getCompanyCode(),
+      sp_empno: utils.getEmpNo(),
+    }
+
+    // utils.submitAjax({
+    //   url: '/GpVowCommon/checkAdminPermission',
+    //   type: "GET",
+    //   dataType: null,
+    //   data: param,
+    //   callbackSuccess: function (res) {
+    //     console.log(res);
+    //     let htmlListMenu = '';
+    //   },
+    //   callbackError: function () {
+    //     swal('경고', 'load menu error.', 'warning', {
+    //       buttons: '확인',
+    //     });
+    //   }
+    // });
+  });
+
+
+  $(".logIn").click(function () {
+    localStorage.clear();
+    window.top.location.href = prefixURL + "/login.html";
+  });
+  //사이드네비게이션 토글
+  $(".btnNav").click(function () {
+    $("nav").toggleClass("active");
+  });
+  $(".btnNav").draggable({
+    handle: ".handle",
+    axis: "y",
+    start: function () {
+      $(".btnNav .handle").addClass("active");
+    },
+    stop: function () {
+      $(".btnNav .handle").removeClass("active");
+    },
+  });
+
+  $(".btnNav .handle").click(function (e) {
+    e.stopPropagation();
+  });
+
+  // 클릭한 메뉴에 active 클래스 활성화
+  $('.menuLink').click(function () {
+    // $('.navList li').addClass('active')
+    // $('nav').removeClass('active')
+    $('.menuLink').not(this).removeClass('active');
+    $(this).addClass('active');
+  })
+
+  // 메뉴별 페이지 로드
+  function loadPage(pageUrl) {
+    $('#iframeContain').attr('src', pageUrl)
+  }
+
+  // 메뉴 접었다 펼치기
+  // $(".toggleMenu").click(function () {
+  //   $(".subMenuSec").toggleClass("active");
+  //   $(".subMenuWrap").toggleClass("active");
+  // });
+  var urlParams = new URLSearchParams(window.location.search);
+  var mode = urlParams.get('mode');
+
+  var formatType = urlParams.get('formatType');
+  if (mode == 'pledge') {
+    if (formatType.toLowerCase() == 'a1') {
+      loadPage('./User/GpVowUser0003.html?' + urlParams.toString());
+    } else {
+      loadPage('./User/GpVowUser0002.html?' + urlParams.toString());
+    }
+  } else {
+    // loadPage('./User/GpVowUser0001.html');
+    loadPage('./Product/C401630290.html');
+  }
+</script>
+
+</html>
