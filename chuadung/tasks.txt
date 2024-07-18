@@ -87,26 +87,24 @@ https://elements.envato.com/react-template-magazine-blog-newspaper-template-LQAY
 
 ===========================
 
-Lương tháng 6
 
-Thảo trả nợ 5tr:
-1tr trả VPBank
-4tr trả mẹ
-
-
-
+20/7 rút tiền trả iPhone
 
 Tháng 7
 MA: 2tr3 (trừ 700 mượn ngày 23/6)
-Mẹ: 1tr
+Mẹ: 2tr (1tr vay me)
 Q: 500
 SC + VPBank = 12tr1
 HDSAISON: trả 3tr để thẻ rút được. Thẻ chỉ cho rút tối đa 15tr.
+Còn 1tr ăn nhà hàng Nhật với MA. (giảm 300)
+
+3/8 rút HDSAISON trả HDBank
 
 
-
-
-
+Nếu có vốn kinh doanh để học:
+Học iOS -> Android.
+Dùng tiền học kế toán trả nợ.
+Nhờ MA tìm người học kế toán.
 
 Tổng kết:
 Mcredit tháng 10 trả xong. 1tr6 x 6 = 9tr6
@@ -163,8 +161,16 @@ Tiếng Nhật
 + ag-grid https://www.ag-grid.com/javascript-data-grid/
 
 Học lập trình Android:
-+ Làm app Kujira
-+ Sau này làm cho Thảo
++ Làm cho Thảo
+
+Nửa cuối năm:
+Chuyển source Freelancer qua Laravel 9, cùng với source Fire Phoenix.
+Tạo thêm chức năng làm bài kiểm tra, khóa học.
+Trả xong nợ Momo và iPhone, thuê hosting 3 năm ở PA Việt Nam cho web Kujira.
+Kiếm tiền nhờ vào bán dữ liệu.
+
+
+
 
 Ghép Ars Install Kurumi Route thành video dài. Tự chơi game tự quay video.
 https://www.youtube.com/watch?v=mhvM75FiteE

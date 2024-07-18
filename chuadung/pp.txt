@@ -593,79 +593,6 @@ On: ショ
 
 
 
-Bài 12
-
-せかい 世界 Thế giới
-まつり 祭り Lễ hội
-しけん 試験 Thi
-
-すきやき Lẩu Sukiyaki
-さしみ Sashimi
-すし Sushi
-
-てんぷら 天ぷら Tempura - món ăn gồm các loại hải sản, rau củ tẩm bột mì rán chiên giòn
-
-いけばな 生け花 Cắm hoa
-
-もみじ Lá đỏ
-
-どちら Cái nào (giữa hai thứ)
-どちらも Cả hai
-
-ずっと Cho đến nay
-はじめて Lần đầu tiên
-
-
-
-祭　まつり Tế, lễ hội
-Kun:
-On:
-Bộ:  Kỳ Hựu
-
-なつまつり 夏祭り Hạ Tế, lễ hội mùa hè.
-さいぐ 祭具 Tế Cụ dụng cụ trong nghi lễ
-
-
-
-Trước đây, chúng ta đã học thì quá khứ của động từ.
-Bài 12 học thì quá khứ của danh từ và tính từ.
-
-Thì quá khứ của danh từ và tính từ đuôi な
-
-Khẳng định: N/Na adj + です － N/Na adj + でした。
-
-Phủ định: N/Na adj + じゃ（では）ありません。 – N/Na adj + じゃ（では）ありませんでした.
-
-きのうは雨でした。  Hôm qua trời mưa
-
-きのうの試験は簡単じゃありませんでした。Bài kiểm tra hôm qua không dễ
-
-2. Thì quá khứ của tính từ đuôi い
-
-Khẳng định: あついです。 － あつかったです
-
-Phủ định: あつくないです － あつくなかったです
-
-きのうは暑かったです。 Hôm qua trời nóng
-
-きのうのパーティーはあまり楽しくなかったです。 Tôi không thích bữa tiệc hôm qua lắm.
-
-
-
-
-
-N1 は N2 より tính từ です
-
-Mẫu câu này mô tả chất lượng hoặc trạng thái của N1 so với N2 (mẫu câu so sánh)
-
-この車はあの車より大きいです
-
-Chiếc xe này lớn hơn chiếc xe đó.
-
-
-
-
-
 Bài 13
 
 
@@ -688,6 +615,51 @@ A より
 B かんたん
 C が
 D も
+
+おととしりょこうしました。Tôi đã đi du lịch vào năm kia
+A りょこうはにねんまえです。Tôi đã đi du lịch 2 năm trước
+B りょこうはふつかまえです。Tôi đã đi du lịch 2 ngày trước
+C りょこうはいちにちまえです。Tôi đã đi du lịch 1 ngày trước
+D りょこうはいちねんまえです。Tôi đã đi du lịch 1 năm trước
+Đáp án A
+
+いえには犬が _______ います。
+A にだい
+B にびき
+C にほん
+D にこ
+Đáp án B
+
+
+Đề thi cuối khóa N5.2
+
+6時"半"に　集まった、すぐ　出発したので、9時ごろには　みずうみに　書きました。
+A かん
+B はん
+C ほん 6g30
+D ばん
+
+今朝、何か　へんな"物"を　食べたのでしょう。　おなかが　すごく　いたくて　気分が悪いです。
+1. ぶつ
+3. ところ
+2. もの
+4. しな
+
+まいにち８じにでかけます。Mỗi ngày tôi ra ngoài lúc 8 giờ.
+A いつも８じにいえをでます。Tôi thường ra khỏi nhà lúc 8 giờ.
+B ときどき８じにいえをでます。Thỉnh thoảng tôi ra khỏi nhà lúc 8 giờ.
+C いつも８じにいえにつきます。Tôi thường đến nhà lúc 8 giờ.
+D ときどき８じにいえにつきます。Thỉnh thoảng tôi đến nhà lúc 8 giờ.
+Đáp án A
+
+
+
+
+
+
+
+
+
 
 
 
