@@ -595,6 +595,24 @@ On: ショ
 
 Bài 13
 
+末 Mạt, cuối, tận cùng
+Kun: すえ
+On:
+
+しゅうまつ 週末 Chu Mạt cuối tuần
+
+別 Biệt,
+
+
+広 Quảng
+
+
+泳 Vịnh
+
+
+およぎます
+
+
 
 
 
@@ -602,6 +620,26 @@ Bài 13
 
 
 Đề kiểm tra 1-13
+30 câu
+10 Kanji
+
+
+(週末)
+Cuối tuần, tôi đi bơi
+A せんしゅう
+B こんしゅう
+C らいしゅう
+D しゅうまつ
+
+Bài 12 sách bài tập
+Bạn thích mùa nào nhất?
+Tôi thích mùa hạ
+A はる
+B なつ
+C あき
+D ふゆ
+
+
 
 このパンはやさしいにきれます。
 A 野菜
@@ -629,6 +667,13 @@ B にびき
 C にほん
 D にこ
 Đáp án B
+
+
+
+
+
+
+
 
 
 Đề thi cuối khóa N5.2
