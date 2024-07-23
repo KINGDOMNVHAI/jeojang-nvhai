@@ -378,13 +378,6 @@ On: カ
 
 
 
-Từ gần giống:
-せかい　世界 thế giới
-せいかい　正解 đáp án
-
-した 舌 lưỡi
-した 下 Hạ, bên dưới
-
 
 
 
@@ -392,79 +385,6 @@ Từ gần giống:
 
 
 
-
-います / あります
-
-
-
-
-Danh từ + が あります
-– Động từ あります – dịch là có. Dùng để nói có cái gì đó
-
-おかねがあります。
-Có tiền
-
-家があります。
-Có nhà
-
-車があります。
-Có xe
-
-
-
-– lưu ý, thường thì を　sẽ được dùng vs động từ nhưng あります là đặc biệt và được dùng với が
-– Bài 7 có dùng が 1 lần, lần này が dùng với あります
-– Tương tự như động từ khác, thể phủ định và câu hỏi sẽ được chia như bình thường
-Ví dụ:
-
-わたし　は　お金　が　ありません:  Tôi không có tiền.
-あなた　は　車　が　ありますか:  Bạn có xe hơi không.
-
-
-
-
-Danh từ + が　すき/きらい/じょうず/へた です。
-
-Dùng để nói thích/ghét/giỏi/kém điều gì đó.
-4 từ trên thuộc tính từ đuôi な
-Tính từ đuôi な ở phủ định: bỏ な đi và thêm じゃありません
-
-スポーツ　が　すきです:  thích thể thao
-ghét ăn cay
-ゲーム　が　じょうず　です: chơi game giỏi
-にほんご　が　へた　です:  tiếng nhật kém
-
-
-
-
-
-Các phó từ chỉ mức độ
-よく,だいたい,たくさん,すこし dùng trong câu khẳng định
-あまり,ぜんぜん dùng trong câu phủ định
-
-
-でんしおんがく 電子音楽 Nhạc điện tử
-ジャズ: /jazu/ Nhạc jazz
-ラテン: /ratin/ Nhạc Latin
-オペラ: /opera/ Nhạc opera
-ポップ: /poppu/ Nhạc pop
-ラップ: /rappu/ Nhạc rap
-ロック: /rokku/ Nhạc rock
-ヒップホップ: /hippu hoppu/ Nhạc hip hop
-バンド: /bando/ Ban nhạc
-音楽グループ /guruupu/ Nhóm nhạc
-
-================
-バスケットボール /basuketto bo-ru/ Bóng rổ
-バレーボール /bare- bo-ru/ bóng chuyền
-フットボール /futto bo-ru/ bóng đá
-
-たっきゅう 卓球 /takkyuu/ Bóng bàn
-けんどう 剣道 /kendou/ Kiếm đạo
-やきゅう 野球 /yakyuu/ Bóng chày
-けんどう 剣道 /kendou/ Kiếm đạo
-
-トーナメント /to-namento/ giải đấu
 
 
 
@@ -598,22 +518,12 @@ Bài 13
 Bài 13 sẽ học danh từ chỉ hành động.
 Nghĩa là các danh từ nói về hoạt động nào đó.
 
-べんきょう                :  học
-買い物（かいもの）:  mua sắm
-結婚（けっこん）    :  kết hôn
+
 
 Mua là kaimasu.
 Mua sắm, mua đồ là kaimono
 
 
-
-末 Mạt, cuối, tận cùng
-Kun: すえ
-On:
-
-しゅうまつ 週末 Chu Mạt cuối tuần
-
-別 Biệt,
 
 
 広 Quảng
@@ -624,24 +534,8 @@ On:
 
 およぎます
 
-Bỏ ます thêm たい
-食べます -> たべたい :   muốn ăn
-飲みます -> のみたい  :   muốn uống
-休みます -> やすみたい :   muốn nghỉ
-勉強します    べんきょうしたい:   muốn học
-
-Phủ định たい -> たくない。
-
-私は　英語を　べんきょうしたくない　です
-Tôi không muốn học tiếng anh.
 
 
-Danh từ địa điểm へ (Động từ thể ます/Danh từ) に　行きます　来ます　帰ります
-Nói đi đâu để làm gì
-Danh từ trong mẫu trên phải là danh từ chỉ hành động
-
-Shibuyaへ 買い物 に　来ます
-Tôi đến Shibuya để mua sắm
 
 
 
