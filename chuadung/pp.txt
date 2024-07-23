@@ -595,6 +595,18 @@ On: ショ
 
 Bài 13
 
+Bài 13 sẽ học danh từ chỉ hành động.
+Nghĩa là các danh từ nói về hoạt động nào đó.
+
+べんきょう                :  học
+買い物（かいもの）:  mua sắm
+結婚（けっこん）    :  kết hôn
+
+Mua là kaimasu.
+Mua sắm, mua đồ là kaimono
+
+
+
 末 Mạt, cuối, tận cùng
 Kun: すえ
 On:
@@ -612,7 +624,33 @@ On:
 
 およぎます
 
+Bỏ ます thêm たい
+食べます -> たべたい :   muốn ăn
+飲みます -> のみたい  :   muốn uống
+休みます -> やすみたい :   muốn nghỉ
+勉強します    べんきょうしたい:   muốn học
 
+Phủ định たい -> たくない。
+
+私は　英語を　べんきょうしたくない　です
+Tôi không muốn học tiếng anh.
+
+
+Danh từ địa điểm へ (Động từ thể ます/Danh từ) に　行きます　来ます　帰ります
+Nói đi đâu để làm gì
+Danh từ trong mẫu trên phải là danh từ chỉ hành động
+
+Shibuyaへ 買い物 に　来ます
+Tôi đến Shibuya để mua sắm
+
+
+
+Luyện tập:
+Dùng houshii để nói mong muốn
+Thiết kế hình thể hiện mong muốn / không muốn
+
+Dùng ngữ pháp đi đâu để làm gì
+Thiết kế hình thể hiện địa điểm và công việc
 
 
 

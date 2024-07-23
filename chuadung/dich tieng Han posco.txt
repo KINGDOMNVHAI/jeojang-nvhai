@@ -1,0 +1,36 @@
+베트남 ODC 협업을위한
+JIRA 설정가이드
+Dành cho đối tác ODC Việt Nam Hướng dẫn thiết lập JIRA
+
+설정 soljjong setting
+
+Kỹ thuật, technology
+기술
+技術
+
+Kỹ sư
+技師
+
+상태 변경 기준 tiêu chí thay đổi trạng thái
+To Do
+In Progress
+In Review
+Done
+
+Tình huống
+상태
+状態
+
+Thay đổi change
+변경
+変更
+
+Tiêu chuẩn, criteria
+기준
+基準 Cơ Chuẩn
+
+주문 /chumun/ order, đặt hàng
+공정 gongchong/ process, quá trình
+품질 /pumchil/ quality, chất lượng
+진행 /chin haeng/ progress tiến triển, phát triển
+물류 /mullyu/ distribution, phân phối
