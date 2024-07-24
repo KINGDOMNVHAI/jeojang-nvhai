@@ -527,13 +527,19 @@ Mua sắm, mua đồ là kaimono
 
 
 広 Quảng
+Kun:
+On:
 
+こうこく 広告 Quảng Cáo
+ひろば   広場 Quảng Trường
+こうだい 広大 Quảng Đại, rộng lớn
+広東 Quảng Đông, Guǎngdōng
 
 泳 Vịnh
+Kun:
+On:
 
-
-およぎます
-
+およぎます 泳ぎます bơi
 
 
 
@@ -570,8 +576,6 @@ A はる
 B なつ
 C あき
 D ふゆ
-
-
 
 このパンはやさしいにきれます。
 A 野菜
