@@ -360,21 +360,7 @@ On: カ
 
 
 
-人体の語彙 じんたいのごい Từ vựng cơ thể người
 
-体 からだ Thể, cơ thể
-頭 あたま Đầu
-手 て Thủ, tay
-足 あし Túc, chân
-目 Mục, mắt
-口 Khẩu, miệng
-耳 みみ Nhĩ, tai
-唇（くちびる）Kuchibiru Môi
-歯（は）HaRăng
-
-かみ Tóc
-胸 むね ngực
-舌(した）Shita Lưỡi
 
 
 
@@ -553,6 +539,218 @@ Dùng ngữ pháp đi đâu để làm gì
 Thiết kế hình thể hiện địa điểm và công việc
 
 
+
+
+Thêm vào 方
+にしのほう	西の方	TÂY PHƯƠNG	phía tây
+
+
+Bài 14
+
+いそぎます I	急ぎます	vội, gấp
+まちます I	待ちます	đợi, chờ
+
+消 Tiêu,
+Kun:
+On: ショウ
+
+けします 消します tắt
+
+使 Sử, sử dụng
+Kun:
+On: シ
+
+つかいます 使います dùng, sử dụng
+
+
+住 Trụ, Trú, sống, ở
+Kun:
+On:
+
+じゅうしょ 住所	địa chỉ
+すみます   住みます	sống, ở (bài 15)
+じゅうじ   住持 Trụ Trì
+
+
+Bài 15
+
+立 Lập, đứng
+Kun: たつ
+On: リツ、リュウ、リットル
+
+たちます 立ちます đứng
+讓座 Nhượng Tọa, nhường chỗ
+
+座 Tọa, ngồi
+Kun: すわ.る
+On: ザ
+
+すわります 座ります ngồi
+
+知 Tri, Trí, biết
+Kun: しる
+On: チ
+
+
+
+
+Bài 16
+
+押 Áp, bấm, ấn
+Kun:
+On:
+
+おします　押します bấm, ấn
+
+光 Quang, ánh sáng
+Kun:
+On:
+
+ひかり　光 Quang, ánh sáng
+Quang Học
+
+長 Trường, dài
+Kun:
+On:
+
+長 Trường Giang, sông dài
+Trường Thọ
+
+Đoản, ngắn
+Kun:
+On:
+
+Đoản Đao
+Đoản Mệnh
+
+暗
+Kun:
+On:
+
+暗 アン Ám, tối
+Kun:
+On: アン
+
+殺 Sát, giết
+Kun:
+On: サツ
+
+あんさつ 暗殺 Ám Sát
+
+暗殺教室 Ám Sát Giáo Thất
+Lớp học ám sát
+あんさつ きょうしつ
+
+
+
+
+人体の語彙 じんたいのごい Từ vựng cơ thể người
+
+体 からだ Thể, cơ thể
+頭 あたま Đầu
+手 て Thủ, tay
+足 あし Túc, chân
+目 Mục, mắt
+口 Khẩu, miệng
+耳 みみ Nhĩ, tai
+唇（くちびる）Kuchibiru Môi
+歯（は）HaRăng
+心　こころ Tâm, trái tim
+
+かみ Tóc
+胸 むね ngực
+舌した Shita Lưỡi
+
+
+
+Bài 29
+
+開 Khai
+
+
+
+閉 Bế
+
+関 Quan, cổng
+
+げんかん 玄関 HUYỀN QUAN	cửa vào
+Bế Quan, đóng cửa
+
+Bế Quan Tỏa Cảng
+
+鎖国 Tỏa Quốc, khóa đất nước (1603–1716)
+Đây là chính sách đối ngoại của Nhật từ năm 1603 đến năm 1716
+
+
+折 Triết
+
+付 Phó
+片付 Phiến Phó
+
+交番 Giao Phiên, đồn cảnh sát
+
+針 Châm, kim
+
+
+Bài 30
+
+決めます	QUYẾT
+並べます	TỊNH
+
+形 ケイ Hình, hình dạng, hình học
+Kun:
+On: ケイ、ギョウ
+
+にんぎょう 人形 Nhân Hình, con búp bê, con rối
+
+形の言葉 - Từ vựng về hình học
+丸 Hoàn, tròn
+
+ちょうほうけい 長方形 Trường Phương Hình, hình chữ nhật
+
+周 Chu, xung quanh, chu vi
+
+
+日本人形 búp bê Nhật Bản
+
+
+
+Bài 31
+
+インターネット /intaanetto/ internet
+むら 村 làng
+
+村 Thôn, làng
+
+カラオケ村 làng karaoke
+
+
+式 Thức, buổi lễ
+Kun:
+On:
+
+けっこんしき	結婚式	KẾT HÔN THỨC lễ cưới, đám cưới
+「お」そうしき	「お」葬式	TÁNG THỨC lễ tang, đám tang
+Nghi Thức
+
+
+
+Soạn hình về chữ 会 Hội
+
+かいしゃ 会社 Hội Xã, công ty
+しゃかい 社会 Xã Hội
+てんらんかい	展覧会	TRIỂN LÃM Hội	triển lãm
+きょうかい	教会	GIÁO Hội	nhà thờ
+とかい	都会	ĐÔ Hội	thành phố
+かいいん 会員 Hội Viên
+かいい 会意 Hội Ý
+会議 Hội Nghị cuộc họp
+会議場 Hội Nghị Tràng phòng họp
+
+
+然 Nhiên,
+
+しぜん 自然	thiên nhiên
 
 
 
