@@ -541,56 +541,17 @@ Thiết kế hình thể hiện địa điểm và công việc
 
 
 
-Thêm vào 方
-にしのほう	西の方	TÂY PHƯƠNG	phía tây
+Bài 13
 
+Trong cấu trúc này, trợ từ が có thể được dùng thay cho trợ từ を, nhưng giữ nguyên を cũng không sao.
+Không dùng cho ngôi thứ 3.
 
-Bài 14
+Động từ bỏ ます + たがっています
+Động từ bỏ ます + たがっていません
 
-いそぎます I	急ぎます	vội, gấp
-まちます I	待ちます	đợi, chờ
-
-消 Tiêu,
-Kun:
-On: ショウ
-
-けします 消します tắt
-
-使 Sử, sử dụng
-Kun:
-On: シ
-
-つかいます 使います dùng, sử dụng
-
-
-住 Trụ, Trú, sống, ở
-Kun:
-On:
-
-じゅうしょ 住所	địa chỉ
-すみます   住みます	sống, ở (bài 15)
-じゅうじ   住持 Trụ Trì
-
-
-Bài 15
-
-立 Lập, đứng
-Kun: たつ
-On: リツ、リュウ、リットル
-
-たちます 立ちます đứng
-讓座 Nhượng Tọa, nhường chỗ
-
-座 Tọa, ngồi
-Kun: すわ.る
-On: ザ
-
-すわります 座ります ngồi
-
-知 Tri, Trí, biết
-Kun: しる
-On: チ
-
+Biểu thị sự muốn làm gì đó của người khác.
+Nhấn mạnh tình trạng đang diễn ra tại thời điểm hiện tại.
+Chỉ dùng cho ngôi thứ 3.
 
 
 
@@ -735,17 +696,6 @@ Nghi Thức
 
 
 
-Soạn hình về chữ 会 Hội
-
-かいしゃ 会社 Hội Xã, công ty
-しゃかい 社会 Xã Hội
-てんらんかい	展覧会	TRIỂN LÃM Hội	triển lãm
-きょうかい	教会	GIÁO Hội	nhà thờ
-とかい	都会	ĐÔ Hội	thành phố
-かいいん 会員 Hội Viên
-かいい 会意 Hội Ý
-会議 Hội Nghị cuộc họp
-会議場 Hội Nghị Tràng phòng họp
 
 
 然 Nhiên,
@@ -802,7 +752,19 @@ C にほん
 D にこ
 Đáp án B
 
+Tự luận: hãy viết những từ vựng liên quan đến chữ 会 Hội
+Có thể viết bằng kanji, hiragana, romanji.
+Nếu viết bằng hiragana hay romanji, phải viết đúng trường âm, nhấn mạnh. Ví dụ: gakko, không phải gatsuko.
 
+かいしゃ 会社 Hội Xã, công ty
+しゃかい 社会 Xã Hội
+てんらんかい	展覧会	TRIỂN LÃM Hội	triển lãm
+きょうかい	教会	GIÁO Hội	nhà thờ
+とかい	都会	ĐÔ Hội	thành phố
+かいいん 会員 Hội Viên
+かいい 会意 Hội Ý
+会議 Hội Nghị cuộc họp
+会議場 Hội Nghị Tràng phòng họp
 
 
 
