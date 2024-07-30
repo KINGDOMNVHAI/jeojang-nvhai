@@ -88,34 +88,26 @@ https://elements.envato.com/react-template-magazine-blog-newspaper-template-LQAY
 ===========================
 
 Tháng 7
-MA: 2tr3 (trừ 700 mượn ngày 23/6)
-Mẹ: 2tr (1tr vay me)
-Q: 500
-SC + VPBank = 12tr1
-1tr ăn nhà hàng Nhật với MA. (giảm 300)
-iPhone: 2tr2
-HDSAISON: 1tr
-Còn dư khoảng 1tr trả HDBank
+Còn 1tr4
 
-3/8 rút HDSAISON trả HDBank
+2/8 trả HDSAISON: 1tr
+3/8 rút HDSAISON: 1tr2 trả HDBank
+10/8 rút HDBank: 1tr trả VPBank (vay mẹ 1tr)
+
+
 
 
 
 Từ giờ, không rút tiền trả iPhone. Cứ để 24 lãnh lương trả để giảm tiền thẻ.
 
-Nếu có vốn kinh doanh để học:
-Học iOS -> Android.
-Dùng tiền học kế toán trả nợ.
-Nhờ MA tìm người học kế toán.
-
 Tháng 8
 MA: 3tr
-Mẹ: 1tr
+Mẹ: 2tr (vay mẹ 1tr)
 Q: 500
 SC + VPBank = 12tr1
 iPhone: 2tr1
 
-Tháng 9
+Tháng 9, 10
 MA: 3tr
 Mẹ: 1tr
 Q: 500
@@ -125,13 +117,27 @@ Momo: 1tr6
 HDSAISON: 1tr2
 HDBank: 1tr6
 => 21tr
+Rút HDBank 1tr5 + 600 dư trả VPBank
+
+Tháng 11 (nếu có, xong Momo)
+MA: 3tr
+Mẹ: 1tr5
+Q: 1tr
+SC + VPBank = 12tr1
+=> 17tr6
+HDSAISON: 1tr4
+HDBank: 1tr6
+VPBank: 2tr
+=> 21tr dư 600
 
 
-
+Nếu có vốn kinh doanh để học:
+Học iOS -> Android.
+Dùng tiền học kế toán trả nợ.
+Nhờ MA tìm người học kế toán.
 
 Tổng kết:
 Mcredit tháng 10 trả xong. 1tr6 x 6 = 9tr6
-Iphone tháng 8 trả xong 2tr1.
 Xong Iphone, dùng tiền trả HDSAISON và HDBank, mỗi thẻ 1tr -> dư 200 hàng tháng.
 
 Nếu có tiền tháng 13:
@@ -145,7 +151,7 @@ MA 1/4
 Spring Boot Google Login
 https://www.youtube.com/watch?v=NeeKN8IpyOY
 
-27,28/7 T7 CN
+3,4/8 T7 CN
 Web anh An:
 - Áp dụng JPAQueryFactory
 - Hoàn thành đăng ký và Google

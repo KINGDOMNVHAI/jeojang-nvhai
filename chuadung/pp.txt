@@ -555,13 +555,13 @@ Chỉ dùng cho ngôi thứ 3.
 
 
 
+ほしがほしい
+星が欲しい
+Tôi muốn những vì sao
+
+
+
 Bài 16
-
-押 Áp, bấm, ấn
-Kun:
-On:
-
-おします　押します bấm, ấn
 
 光 Quang, ánh sáng
 Kun:
@@ -569,24 +569,6 @@ On:
 
 ひかり　光 Quang, ánh sáng
 Quang Học
-
-長 Trường, dài
-Kun:
-On:
-
-長 Trường Giang, sông dài
-Trường Thọ
-
-Đoản, ngắn
-Kun:
-On:
-
-Đoản Đao
-Đoản Mệnh
-
-暗
-Kun:
-On:
 
 暗 アン Ám, tối
 Kun:
@@ -685,6 +667,24 @@ Bài 31
 
 カラオケ村 làng karaoke
 
+Các loại tỉnh thành Nhật Bản
+市 city, thành phố
+町 town, thị trấn
+村 village, làng
+郡 district, quận
+
+Các loại cổng
+門 Môn, gate
+口 Khẩu
+戸
+扉
+
+Các loại sông
+Giang
+Hà
+川 Xuyên, suối
+
+
 
 式 Thức, buổi lễ
 Kun:
@@ -697,10 +697,35 @@ Nghi Thức
 
 
 
+Bài 32
+
+
+ほし	星	TINH	ngôi sao
+ほしがほしい
+星が欲しい
+Tôi muốn những vì sao
+
+恋 Luyến, lưu luyến
+Kun:
+On:
+
+れんあい 恋愛 Luyến Ái, tình yêu
+こいびと 恋人 Luyến Nhân, người yêu
+
 
 然 Nhiên,
 
 しぜん 自然	thiên nhiên
+
+
+
+Bài 33
+
+業 Nghiệp
+
+営業 Doanh Nghiệp
+
+
 
 
 
@@ -731,8 +756,8 @@ B 簡単
 C 優しい
 D 易しい
 
-この車はあの車___大きいです
-Chiếc xe này lớn hơn chiếc xe đó. Ngữ pháp so sánh より
+東京スカイッリーは東京タワー___高いです
+Tháp Tokyo Skytree cao hơn tháp Tokyo. Ngữ pháp so sánh より
 A より
 B かんたん
 C が
@@ -751,6 +776,10 @@ B にびき
 C にほん
 D にこ
 Đáp án B
+
+日本で一番大きな都市はどこですか？
+What is the biggest city in Japanese?
+
 
 Tự luận: hãy viết những từ vựng liên quan đến chữ 会 Hội
 Có thể viết bằng kanji, hiragana, romanji.

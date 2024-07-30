@@ -24,6 +24,13 @@ FB:
 
 
 
+
+Kinh doanh theo 4 mảng:
+1. Dạy tiếng Hàn, Nhật, Trung
+2.
+3.
+4.
+
 =============================
 5 quản lý (Management)
 Vision: tầm nhìn

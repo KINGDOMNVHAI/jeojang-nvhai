@@ -7,7 +7,20 @@ Nghĩa: Mặt Trời, ngày, số 1, chủ nhật
 
 日本 일본 /il-bon/ Nhật Bản
 1月1日 일월 일일 /sip wol il il/ Tháng 1 ngày 1
+생일 /seng-il/ sinh nhật
 
+
+学 Học, học hành, học vấn
+Hàn: 학 /hak/
+Nhật:
+
+生 Sinh, sinh ra
+Hàn: 생 /saeng/
+Nhật:
+
+학생 /hak-saeng/ học sinh
+선생 /seong-saeng/ giáo viên
+생일 /saeng-il/ sinh nhật
 
 月 Nguyệt
 월 /wol/
@@ -15,12 +28,20 @@ Nghĩa: Mặt Trăng, tháng, số 2, thứ 2
 2月1日 이월 일일 /i wol il il/ Tháng 2 ngày 1
 
 
-国家 Quốc Gia
-Hàn: 국가 /kukka/
+家 Gia, nhà
+Hàn: 가 /ka/
 Nhật: こっか /kokka/
-Nghĩa: quốc gia
 
+国家 국가 /kukka/ Quốc Gia, nước nhà
 국가대표 /kukka taepyo/ đội tuyển quốc gia
+
+
+
+車 Xa, xe
+Hàn: 차 /cha/
+自動車 자동차 / -cha/ xe ô tô
+기차 /ki-cha/ xe lửa
+
 
 
 新 Tân
@@ -57,6 +78,7 @@ Một số từ tiếng Hàn phiên âm từ tiếng Anh
 스포츠 sport
 서비스 service
 펜 pen
+대표 taepyo
 
 Đồng âm khác nghĩa
 
