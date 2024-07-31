@@ -40,13 +40,10 @@ https://www.youtube.com/watch?v=uikATllLdRc
 
 ====================================================
 
-Tháng 7: làm web anh An, web kujira, bắt đầu làm kingdom nvhai nextjs.
-
 Hololive:
 Nerrissa Ravenclaw
 AZki then and now
 
-Sora ehehe
 Hana no Uta
 Bắt đầu đăng series Premiere Pro + Photoshop. 2 tuần 1 video thay phiên nhau.
 
@@ -58,8 +55,8 @@ Kawaii Code
 
 - Kế hoạch phục hồi KINGDOM NVHAI (nửa cuối năm 2024)
 + Web anh An gắn giao diện mới cho KINGDOM NVHAI
-+ Luyện Design Pixel Game
-+ Sau đó làm lại video hướng dẫn Premiere Pro, Photoshop, HTML, Pixel Game.
++ Luyện phần mềm edit video mới
++ Sau đó làm lại video hướng dẫn Premiere Pro, Photoshop.
 + Chuẩn bị giáo án HTML trước khi làm video, template mẫu
 + DAL Ars Install Tohka Route Full
 + DAL Drama CD Rinne
@@ -154,20 +151,13 @@ https://www.youtube.com/watch?v=NeeKN8IpyOY
 3,4/8 T7 CN
 Web anh An:
 - Áp dụng JPAQueryFactory
-- Hoàn thành đăng ký và Google
 Tiếng Nhật:
-- Tạo file PP bài 14,15,16,27,28,29,30 Kanji
 - Tạo mẫu động từ I II III để áp dụng
 - Chuyển hình từ VTI
-Tiếng Hàn
-- Làm slide theo cuốn tiếng Hàn dành cho mọi người
-- làm slide giới thiệu cách đọc
 Kujira
-- Thiết kế theme Oxentic
-- Làm fire phoenix
-
-KINGDOM NVHAI -> oxentic, nextjs
 Kujira -> fire phoenix, skillgro
+KINGDOM NVHAI -> oxentic, laravel
+KDPLAYBACK -> dùng web anh An làm trang video, hoặc dùng template khác
 
 Web
 tb_user
@@ -204,12 +194,13 @@ Tiếng Nhật
 + Giới thiệu bản thân.
 + Chức năng tìm kiếm, bài viết đề xuất và danh sách các lesson.
 
+Tiếng Hàn
++ làm slide giới thiệu cách đọc theo cuốn ở cty
++ Làm slide theo cuốn tiếng Hàn dành cho mọi người
+
 * ReactJS, NextJS
 + NextJS đăng nhập, CRUD
 + ag-grid https://www.ag-grid.com/javascript-data-grid/
-
-Học lập trình Android:
-+ Làm cho Thảo
 
 Nửa cuối năm:
 Chuyển source Freelancer qua Laravel 9, cùng với source Fire Phoenix.

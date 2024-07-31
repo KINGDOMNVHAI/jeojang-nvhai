@@ -561,28 +561,37 @@ Tôi muốn những vì sao
 
 
 
-Bài 16
+Bài 17
 
-光 Quang, ánh sáng
-Kun:
-On:
+おぼえます	oboemasu	nhớ
+わすれます	wasuremasu	quên
+なくします	nakushimasu	mất, đánh mất
 
-ひかり　光 Quang, ánh sáng
-Quang Học
+かぎ
+Mất chìa khóa
 
-暗 アン Ám, tối
-Kun:
-On: アン
+しんぱいします shinpaishimasu lo lắng
+心配しないでください xin đừng lo lắng
 
-殺 Sát, giết
-Kun:
-On: サツ
+だいじょうぶ	daijoubu	không sao, không vấn đề gì
+大丈夫
+Đại Trượng Phu
 
-あんさつ 暗殺 Ám Sát
 
-暗殺教室 Ám Sát Giáo Thất
-Lớp học ám sát
-あんさつ きょうしつ
+
+
+Bài 18
+
+できます	 	 	có thể
+あらいます	洗います	TẨY	rửa
+ひきます	弾きます	ĐÀN	chơi (chơi 1 loại nhạc cụ)
+うたいます	歌います	CA	hát
+あつめます	集めます	TẬP	sưu tập
+すてます	捨てます	XẢ	vứt
+かえます	換えます	HOÁN	đổi
+うんてんします	運転します	VẬN CHUYỂN	lái xe
+
+
 
 
 
@@ -633,6 +642,11 @@ Bế Quan Tỏa Cảng
 交番 Giao Phiên, đồn cảnh sát
 
 針 Châm, kim
+Định Hải Thần Châm
+定海神針
+
+定 Định, chắc chắn, cố định (trạng từ)
+
 
 
 Bài 30
@@ -822,13 +836,22 @@ C いつも８じにいえにつきます。Tôi thường đến nhà lúc 8 gi
 D ときどき８じにいえにつきます。Thỉnh thoảng tôi đến nhà lúc 8 giờ.
 Đáp án A
 
+https://japanesetest4you.com/japanese-language-proficiency-test-jlpt-n5-grammar-exercise-1/#more-6
+田中さんは　_______ 来ていませんよ。
+Anh Tanaka-san vẫn chưa đến.
+A もう
+B だけ
+C まだ đúng
+D まで
 
 
-
-
-
-
-
+私はけいかんに　_______ です。
+Tôi muốn trở thành một sĩ quan cảnh sát
+ なりたい đúng
+ したい
+ いきたい
+ いたい
+わたしはけいかんになりたいです
 
 
 
