@@ -513,13 +513,17 @@ Mua sắm, mua đồ là kaimono
 
 
 広 Quảng
-Kun:
-On:
+Kun: ひろ
+On: コウ
 
 こうこく 広告 Quảng Cáo
 ひろば   広場 Quảng Trường
 こうだい 広大 Quảng Đại, rộng lớn
 広東 Quảng Đông, Guǎngdōng
+
+広い世界
+Thế giới rộng lớn
+
 
 泳 Vịnh
 Kun:
@@ -612,6 +616,48 @@ Bài 18
 かみ Tóc
 胸 むね ngực
 舌した Shita Lưỡi
+
+
+
+
+Bài 26
+
+Chiisana Koi no Uta
+
+広い宇宙
+Vũ trụ rộng lớn
+青い地球の広い世界
+Thế giới rộng lớn của Trái Đất xanh.
+
+Nội dung
+Từ đồng âm khác nghĩa
+Nhờ vả, xin lời khuyên
+Dự đoán
+Yêu cầu giải thích
+
+Bắt đầu N4, chúng ta sẽ làm quen với từ vựng đồng âm khác nghĩa.
+
+みます 見る xem, nhìn
+みます 診る chẩn đoán, khám bệnh
+
+さがします 捜す tìm (đồ vật bị mất)
+さがします 探す tìm (việc, người...)
+
+ごみ rác
+もえるごみ rác cháy được
+（ごみを）ひろいます nhặt rác
+
+
+
+Động từ + ていただけませんか
+Nhờ ai đó một cách lịch sự.
+Lịch sự hơn mẫu câu ～てください
+Thường dùng cho người lớn tuổi hơn, địa vị cao hơn.
+đây là dạng câu hỏi. ～てください là dạng câu cầu khiến.
+
+先生、この　漢字の　読(よみ)方(かた)を　教(おし)えてください。
+先生、この　漢字の　読(よみ)方(かた)を　教(おし)えていただけませんか。
+Thầy có thể dạy em cách đọc chữ Hán này được không ạ?
 
 
 
@@ -725,6 +771,14 @@ On:
 
 れんあい 恋愛 Luyến Ái, tình yêu
 こいびと 恋人 Luyến Nhân, người yêu
+こいのうた 恋のうた
+
+小さな恋のうた
+Chiisana Koi no Uta
+Một bản tình ca nhỏ
+
+
+
 
 
 然 Nhiên,
@@ -935,38 +989,6 @@ riyuu wa totemo kantan nan desu.
 
 
 
-
-Bài 26
-
-Nội dung
-Từ đồng âm khác nghĩa
-Nhờ vả, xin lời khuyên
-Dự đoán
-Yêu cầu giải thích
-
-Bắt đầu N4, chúng ta sẽ làm quen với từ vựng đồng âm khác nghĩa.
-
-みます 見る xem, nhìn
-みます 診る chẩn đoán, khám bệnh
-
-さがします 捜す tìm (đồ vật bị mất)
-さがします 探す tìm (việc, người...)
-
-ごみ rác
-もえるごみ rác cháy được
-（ごみを）ひろいます nhặt rác
-
-
-
-Động từ + ていただけませんか
-Nhờ ai đó một cách lịch sự.
-Lịch sự hơn mẫu câu ～てください
-Thường dùng cho người lớn tuổi hơn, địa vị cao hơn.
-đây là dạng câu hỏi. ～てください là dạng câu cầu khiến.
-
-先生、この　漢字の　読(よみ)方(かた)を　教(おし)えてください。
-先生、この　漢字の　読(よみ)方(かた)を　教(おし)えていただけませんか。
-Thầy có thể dạy em cách đọc chữ Hán này được không ạ?
 
 ========
 Động từ + たら　いいですか (làm thế nào thì tốt?)
