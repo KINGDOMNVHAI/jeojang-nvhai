@@ -569,9 +569,7 @@ Tôi muốn những vì sao
 
 Bài 17
 
-おぼえます	oboemasu	nhớ
-わすれます	wasuremasu	quên
-なくします	nakushimasu	mất, đánh mất
+
 
 かぎ
 Mất chìa khóa
@@ -587,15 +585,6 @@ Mất chìa khóa
 
 
 Bài 18
-
-できます	 	 	có thể
-あらいます	洗います	TẨY	rửa
-ひきます	弾きます	ĐÀN	chơi (chơi 1 loại nhạc cụ)
-うたいます	歌います	CA	hát
-あつめます	集めます	TẬP	sưu tập
-すてます	捨てます	XẢ	vứt
-かえます	換えます	HOÁN	đổi
-うんてんします	運転します	VẬN CHUYỂN	lái xe
 
 
 
@@ -689,11 +678,7 @@ Bế Quan Tỏa Cảng
 
 交番 Giao Phiên, đồn cảnh sát
 
-針 Châm, kim
-Định Hải Thần Châm
-定海神針
 
-定 Định, chắc chắn, cố định (trạng từ)
 
 
 
@@ -759,25 +744,8 @@ Nghi Thức
 
 
 
-Bài 32
 
 
-ほし	星	TINH	ngôi sao
-ほしがほしい
-星が欲しい
-Tôi muốn những vì sao
-
-恋 Luyến, lưu luyến
-Kun:
-On:
-
-れんあい 恋愛 Luyến Ái, tình yêu
-こいびと 恋人 Luyến Nhân, người yêu
-こいのうた 恋のうた
-
-小さな恋のうた
-Chiisana Koi no Uta
-Một bản tình ca nhỏ
 
 
 
@@ -812,13 +780,6 @@ B こんしゅう
 C らいしゅう
 D しゅうまつ
 
-Bài 12 sách bài tập
-Bạn thích mùa nào nhất?
-Tôi thích mùa hạ
-A はる
-B なつ
-C あき
-D ふゆ
 
 このパンはやさしいにきれます。
 A 野菜
@@ -826,12 +787,6 @@ B 簡単
 C 優しい
 D 易しい
 
-東京スカイッリーは東京タワー___高いです
-Tháp Tokyo Skytree cao hơn tháp Tokyo. Ngữ pháp so sánh より
-A より
-B かんたん
-C が
-D も
 
 おととしりょこうしました。Tôi đã đi du lịch vào năm kia
 A りょこうはにねんまえです。Tôi đã đi du lịch 2 năm trước
