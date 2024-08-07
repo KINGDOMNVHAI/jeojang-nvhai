@@ -584,30 +584,105 @@ Mất chìa khóa
 
 
 
-Bài 18
+Bài 21
+
+Học về hành chính
+
+おもいます	思います	TƯ	nghĩ
+いいます	言います	NGÔN	nói
+たります đủ
+かちます	勝ちます	THẮNG	thắng
+まけます	負けます	PHỤ	thua
+やくにたちます	役に立ちます	DỊCH LẬP	giúp ích
+
+ふべん Bất Tiện
+9	おなじ	同じ	ĐỒNG	giống
+
+すごい giỏi (anime)
+むだ vô ích (anime)
 
 
-
+思 Tư, nghĩ
+Kun:
+On:
 
 
 
 人体の語彙 じんたいのごい Từ vựng cơ thể người
 
 体 からだ Thể, cơ thể
+
 頭 あたま Đầu
-手 て Thủ, tay
-足 あし Túc, chân
-目 Mục, mắt
-口 Khẩu, miệng
+かみ Tóc
 耳 みみ Nhĩ, tai
+目 Mục, mắt
+mũi
+口 Khẩu, miệng
 唇（くちびる）Kuchibiru Môi
 歯（は）HaRăng
-心　こころ Tâm, trái tim
+舌 した Shita Lưỡi
 
-かみ Tóc
-胸 むね ngực
-舌した Shita Lưỡi
+手 て Thủ, tay
+足 あし Túc, chân
+ゆび ngón tay
 
+むね 胸 ngực
+こころ 心 Tâm, trái tim
+ほね 骨 Cốt, xương
+
+
+白骨精 Bạch Cốt Tinh
+
+Nhân vật trong Inuyasha
+七人帮 Thất Nhân Bang
+しちにんたい 七人隊 Thất Nhân Đội
+
+ばんこつ 蛮骨 Man Cốt, man rợ, mọi rợ
+じゃこつ 蛇骨 Xà Cốt, rắn
+れんこつ 煉骨 Luyện Cốt, thử thách, rèn luyện, nung chảy, luyện ngục
+ぎんこつ 銀骨 Ngân Cốt, bạc
+すいこつ 睡骨 Thụy Cốt, việc ngủ
+むこつ 霧骨 Vụ Cốt, sương mù
+きょうこつ 兇骨 Hung Cốt, hung ác
+
+Bài 22
+https://kosei.vn/tu-vung-minna-no-nihongo-bai-22-n2975.htm
+
+コートー áo khoác
+スーツ com-lê
+セーター áo len
+ダイニングキッチン bếp kèm phòng ăn
+アパート nhà chung cư
+
+Bài 23
+
+屋 Ốc, cửa hàng
+
+―や	ー屋	ỐC	cửa hàng–
+でんきや 電気屋	ĐIỆN KHÍ ỐC	cửa hàng đồ điện
+Ốc Thượng, sân thượng
+
+歩
+あるきます	歩きます	BỘ	đi bộ (trên đường)
+
+触
+さわります 触ります XÚC	sờ,chạm vào
+触手 Xúc Thủ, xúc tu
+
+道 Đạo, đường, con đường
+みち 道	ĐẠO	đường
+võ sĩ đạo
+kiếm đạo
+
+
+正 Chính
+
+ちゅうしゃじょう	駐車場	TRÚ XA TRƯỜNG	bãi đỗ xe
+おしょうがつ お正月	CHÍNH NGUYỆT, tết dương lịch
+
+
+
+まわします 回します vặn (nút)
 
 
 
@@ -806,22 +881,22 @@ D にこ
 What is the biggest city in Japanese?
 
 
-Tự luận: hãy viết những từ vựng liên quan đến chữ 会 Hội
+Tự luận: hãy viết 10 từ vựng liên quan đến chữ 動 Động
 Có thể viết bằng kanji, hiragana, romanji.
-Nếu viết bằng hiragana hay romanji, phải viết đúng trường âm, nhấn mạnh. Ví dụ: gakko, không phải gatsuko.
+Nếu viết bằng hiragana hay romanji, phải viết đúng trường âm, nhấn mạnh.
+Ví dụ: gakko, không phải gatsuko.
+shinbun và shimbun đều đúng.
 
-かいしゃ 会社 Hội Xã, công ty
-しゃかい 社会 Xã Hội
-てんらんかい	展覧会	TRIỂN LÃM Hội	triển lãm
-きょうかい	教会	GIÁO Hội	nhà thờ
-とかい	都会	ĐÔ Hội	thành phố
-かいいん 会員 Hội Viên
-かいい 会意 Hội Ý
-会議 Hội Nghị cuộc họp
-会議場 Hội Nghị Tràng phòng họp
-
-
-
+Đồ ăn
+Đồ uống
+Trái cây
+Mua sắm
+自動車 xe hơi
+運動
+運動会 hội thao
+どうぶつ 動物 Động Vật
+動物園 Động Vật Viên
+不動産 Bất Động Sản
 
 
 
