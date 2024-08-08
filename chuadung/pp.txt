@@ -679,10 +679,31 @@ kiếm đạo
 
 ちゅうしゃじょう	駐車場	TRÚ XA TRƯỜNG	bãi đỗ xe
 おしょうがつ お正月	CHÍNH NGUYỆT, tết dương lịch
-
+Chính Đạo
 
 
 まわします 回します vặn (nút)
+
+
+
+Bài 24
+
+
+
+
+Bài 25
+
+チャンス cơ hội
+
+使 Sứ, sứ giả
+Kun:
+On:
+
+てんし 天使 Thiên Sứ
+たいしかん 大使館 Đại Sứ Quán
+
+
+
 
 
 
@@ -1167,6 +1188,172 @@ Tôi có chút việc muốn nhờ anh chị おねがいがあるんですが
 
 しなもの 品物 hàng hóa
 しながわ 品川 Shinagawa
+
+
+
+
+
+Bài 34
+
+線 セン Tuyến, đường, đường kẻ, đường ray
+Kun: すじ
+On: セン
+
+山手線 tuyến xe lửa Yamanote
+千葉線 tuyến xe lửa Chiba
+
+
+3. Ngữ pháp
+V1る とおりに、V2
+N のとおりに、V
+
+<p>Meaning: do V2 as V1, do V as N</p>
+<p>Usage: Give instructions for doing an action according to available action or given instruction.</p>
+<p>Đưa ra hướng dẫn để thực hiện một hành động theo hành động có sẵn hoặc theo hướng dẫn đã cho.</p>
+
+Example:
+
+<p>私が言うとおりに、書いてください。<br>
+watashi ga iu toori ni, kaite kudasai.<br>
+Write as I say.</p>
+
+線のとおりに、紙を切ってください。
+Sen no toori ni, kami wo kittekudasai.
+Hãy cắt giấy theo đường thẳng.
+Please cut the paper along the line.
+
+<h4><span id="V_NV2">Vた/ Nの　あとで、V2</span></h4>
+<p><strong>Meaning :</strong> after doing V1, do V2</p>
+<p><strong>Usage : </strong>Emphasize the sequence of actions. V2 only occurs when V1 ends.</p>
+<p><strong>Example :</strong></p>
+
+<p>食事したあとで、テレビを見ました<br>
+Shokuji shita atode, terebi wo mimashita.<br>
+After watching TV, I had meal.</p>
+
+<h4><span id="V1_VV2">V1て/ Vないで　V2</span></h4>
+<p><strong>Meaning :</strong>  do/not do V1 then do V2</p>
+<p><strong>Usage : </strong>Express how to do something</p>
+<p><strong>Example :</strong></p>
+
+<p>しょうゆをつけて食べます。<br/>
+Shouyu wo tsuke tabemasu.<br/>
+Let's dip it into soy sauce then eat.</p>
+
+<p>しょうゆをつけないで食べます。<br/>
+Shouyu wo tsuke naide tabemasu.<br/>
+Don't dip it into soy sauce, just eat.</p>
+
+V1 ないで、V2
+<p>Meaning: do v2 but not do v1</p>
+<p>Usage: </p>
+Làm việc V2 nhưng không làm việc V1
+Thể hiện mình không làm gì khác ngoài việc V2.
+
+Example:
+
+<p>毎晩何もしないで、寝ます。<br/>
+Maiban nanimo shinaide, nemasu.<br/>
+Mỗi tối, tôi không làm gì khác ngoài đi ngủ.
+Every evening, I do nothing but going to sleep.</p>
+
+
+
+
+<h3><span id="4_Kaiwa"><span style="color: #0000ff;"><strong>4. Kaiwa</strong></span></span></h3>
+<p><strong>する　とおりに して　ください。<br/>
+</strong>suru toori ni shi te kudasai.</p>
+<p>クララ：　一度　茶道が　見たいんですが･････。<br/>
+Kurara: ichi do chadou ga mi tain desu ga&#8230;&#8230;</p>
+<p>渡　辺：　じゃ、来週の　土曜日　いっしょに　行きませんか。<br/>
+Watanabe: ja, raishuu no doyoubi issho ni iki masen ka.</p>
+<p>…………………………………………………………………………………</p>
+<p>お茶の先生：　渡辺さん、お茶を　たてて　ください。<br/>
+ocha no sensei: watanabe san, ocha wo tate te kudasai.</p>
+<p>お茶の先生：　クララさん、お菓子を　先に　どうぞ。<br/>
+ocha no sensei: kurara san, okashi o saki ni douzo.</p>
+<p>クララ：　えっ、先に　お菓子を　食べるんですか。<br/>
+Kurara: eee, saki ni okashi wo taberun desu ka.</p>
+<p>お茶の先生：　ええ。甘い　お菓子を　食べた　あとで、お茶を　飲むと、おいしいんですよ。<br/>
+ocha no sensei: ee. amai okashi wo tabe ta ato de, ocha wo nomu to, oishiin desu yo.</p>
+<p>クララ：　そうですか。<br/>
+Kurara: sou desu ka.</p>
+<p>お茶の先生：　では、お茶を　飲みましょう。<br/>
+ocha no sensei: deha, ocha o nomi mashou.<br/>
+わたしが　する　とおりに、して　くださいね。<br/>
+watashi ga suru toori ni, shi te kudasai ne.</p>
+<p>お茶の先生：　まず　右手で　おちゃわんを　取って、左手に　載せます。<br/>
+ocha no sensei: mazu migite de o cha wan o totte, hidarite ni nose masu.</p>
+<p>クララ：　これで　いいですか。<br/>
+Kurara: kore de ii desu ka.</p>
+<p>お茶の先生：　はい。次に　おちゃわんを　2回　回して、それから　飲みます。<br/>
+ocha no sensei: hai. tsugini o cha wan o 2 kai mawashi te, sorekara nomi masu.</p>
+<p>……………………………………………………………………………..</p>
+<p>お茶の先生：　いかがですか。<br/>
+ocha no sensei: ikaga desu ka.</p>
+<p>クララ：　少し　苦いですが、おいしいです。<br/>
+Kurara: sukoshi nigai desu ga, oishii desu.</p>
+<h4><span id="Translation">Translation:</span></h4>
+<p><strong>Please do as what I do.</strong></p>
+<p>Kurara: I want to see the tea ceremony once….</p>
+<p>Watanabe: Well, why don&#8217;t we go to see it together next Saturday?</p>
+<p>…………………………………………………………………………………</p>
+<p>Tea teacher : Mrs. Watanabe, please make some tea.</p>
+<p>Mrs. Kurara, please have some sweets first.</p>
+<p>Kurara: Eh, do I eat sweets first?</p>
+<p>Tea teacher : Yeah. It is more delicious when drinking tea after having some sweets.</p>
+<p>Kurara: Is that so?</p>
+<p>Tea teacher : Well, let&#8217;s drink some tea</p>
+<p>Please do as what I do.</p>
+<p>First of all, take the tea cup with your right hand and put it on your left hand.</p>
+<p>Kurara: Is this OK?</p>
+<p>Tea teacher : Yes. Then, turn it twice and drink it.</p>
+<p>……………………………………………………………………………..</p>
+<p>Tea teacher : How is it?</p>
+<p>Kurara: It is a bit bitter but delicious.</p>
+<p>Please see the renshuu section on the next page.</p>
+
+V1る とおりに、V2
+
+Bài tập
+Example: さっき　言いました・いすを　並べてください
+=> さっき　言ったとおりに、いすを　並べてください。
+
+1. わたしが　します・やってください
+=>
+
+2. 母に 習いました・料理を作りました
+=>
+
+母に 習った とおりに、料理を作りました
+
+3. 歯医者に　教えて　もらいました・歯を　磨いて　います
+=>
+
+
+4. 説明書に　書いてあります・この　薬を　飲んでください
+=>
+
+
+Example　ボタンを　押します
+=> 番号の　とおりに、ボタンを　押して　ください。
+
+1.  　行きます
+=>
+
+2.  　紙を切ります
+=>
+
+3.  　紙を　折ります
+=>
+
+4.  　家具を　組み立てます
+=>
+
+
+
+
+
 
 
 ==============================

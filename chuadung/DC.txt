@@ -43,3 +43,63 @@ Trong các lá bài Yugioh, Kisara có riêng cho mình lá bài mang tên Maide
 
 Rồng Trắng Mắt Xanh là quái vật Normal có sức tấn công cao nhất trò chơi. Quái vật Normal là quái vật không có hiệu ứng đặc biệt, hoàn toàn dựa vào sức công thủ để chiến đấu.
 Qua thời gian, Konami đã cho ra mắt nhiều phiên bản mới của Rồng Trắng Mắt Xanh.
+
+
+Blue-Eyes Jet Dragon
+Công / Thủ: 3000 / 0
+Hệ: Light
+Loại: Dragon / Effect
+
+Other cards you control cannot be destroyed by your opponent's card effects.
+You can only use each of the following effects of "Blue-Eyes Jet Dragon" once per turn,
+and can only activate them while "Blue-Eyes White Dragon" is on your field or in your GY. If a card(s) on the field is destroyed by battle or card effect: You can Special Summon this card from the GY (if it was there when the card was destroyed) or hand (even if not). At the start of the Damage Step, if this card battles: You can target 1 card your opponent controls; return it to the hand.
+
+Lấy hình tượng chiếc máy bay phản lực của Kaiba, Blue-Eyes Jet Dragon có sức tấn công cao và mạnh mẽ như một chiếc máy bay chiến đấu.
+
+
+Blue-Eyes Twin Burst Dragon
+Công / Thủ: 3000 / 2500
+Hệ: Light
+Loại: Dragon / Fusion / Effect
+"Blue-Eyes White Dragon" + "Blue-Eyes White Dragon"
+
+Must be either Fusion Summoned, or Special Summoned by sending the above monsters you control to the GY (in which case you do not use "Polymerization").
+Cannot be destroyed by battle. This card can make up to 2 attacks on monsters during each Battle Phase.
+At the end of the Damage Step, when this card attacks an opponent's monster, but the opponent's monster was not destroyed by the battle: You can banish that opponent's monster.
+
+Triệu hồi bằng cách Dung Hợp. Không thể bị tiêu diệt trong chiến đấu.
+Lá bài này có thể tấn công quái vật tối đa 2 lần trong mỗi Battle Phase.
+
+Đây là phiên bản dung hợp 2 Rồng Trắng Mắt Xanh, tạo thành Rồng Trắng Mắt Xanh 2 Đầu.
+Mặc dù sức tấn công không đổi so với 1 đầu, nhưng Rồng Trắng Mắt Xanh 2 Đầu có thể tấn công 2 lần và không bị tiêu diệt trong chiến đấu.
+Ưu điểm của Rồng Trắng Mắt Xanh 2 Đầu là dễ triệu hồi, sức tấn công cao và khó bị tiêu diệt.
+
+Blue-Eyes Ultimate Dragon
+Công / Thủ: 4500 /
+Hệ: Light
+Loại: Dragon / Fusion / Effect
+"Blue-Eyes White Dragon" + "Blue-Eyes White Dragon" + "Blue-Eyes White Dragon"
+
+Rồng Trắng Mắt Xanh 3 Đầu.
+
+
+
+Fortress Whale
+2350 / 2150
+Hệ: Nước
+Loại: Fish / Ritual
+
+Fortress Whale's Oath
+
+
+
+
+
+Những con chim bự nhất thế giới Yugioh
+
+Thần Ra
+Hệ:
+Loại:
+
+Là vị thần tối cao của thần thoại Ai Cập, thần Mặt Trời Ra được người dân Ai Cập tôn sùng. Chỉ có các Pharaon cao quý mới có thể điều khiển thần Ra.
+Trong hình dạng Immoral Phoenix, thần Ra hiện thân là một con phượng hoàng lửa.
