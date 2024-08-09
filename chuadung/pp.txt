@@ -743,7 +743,12 @@ Thầy có thể dạy em cách đọc chữ Hán này được không ạ?
 
 Bài 29
 
-開 Khai
+開 Khai, mở, bắt đầu
+Kun:
+On:
+
+かいせん 開戦 Khai Chiến
+
 
 
 
@@ -826,18 +831,17 @@ Hà
 Kun:
 On:
 
-けっこんしき	結婚式	KẾT HÔN THỨC lễ cưới, đám cưới
-「お」そうしき	「お」葬式	TÁNG THỨC lễ tang, đám tang
+けっこんしき   結婚式	KẾT HÔN THỨC lễ cưới, đám cưới
+「お」そうしき 「お」葬式	TÁNG THỨC lễ tang, đám tang
 Nghi Thức
 
 
 
 
-
-
-
-
-
+diễn viên
+nam diễn viên
+女優 nữ diễn viên
+声優 diễn viên lồng tiếng
 
 
 然 Nhiên,
@@ -851,6 +855,94 @@ Bài 33
 業 Nghiệp
 
 営業 Doanh Nghiệp
+
+
+
+
+Bài 34
+
+https://gojapan.vn/minna-no-nihongo/bai-34/tu-vung/
+1	みがきます	磨きます	mài, đánh (răng)
+2	くみたてます	組み立てます	lắp ráp, lắp đặt
+3	おります	折ります	gấp, gập, bẻ gãy
+4	きがつきます	気が付きます	nhận thấy, phát hiện
+5	つけます	付けます	chấm
+6	みつかります	見つかります	được tìm thấy
+7	します（ネクタイを）		đeo , thắt (cà vạt)
+8	しつもんします	質問します	hỏi
+9	ほそい	細い	gầy, hẹp, thon
+10	ふとい	太い	béo, to
+11	ぼんおどり	盆踊り	múa trong hội bon
+12	スポーツクラブ		câu lạc bộ thể thao
+13	かぐ	家具	gia cụ , đồ dùng nội thất
+14	キー		chìa khóa
+15	シートべルト		dây an toàn
+16	せつめいしょ	説明書	quyển hướng dẫn
+17	ず	図	sơ đồ, hình vẽ
+18	せん	線	đường
+19	やじるし	矢印	dấu mũi tên
+20	くろ	黒	màu đen
+21	しろ	白	màu trắng
+22	あか	赤	màu đỏ
+23	あお	青	màu xanh da trời
+24	こん	紺	màu xanh lam
+25	きいろ	黄色	màu vàng
+26	ちゃいろ	茶色	màu nâu
+27	しょうゆ		xì- dầu
+28	ソース		nước chấm, nước xốt
+29	ゆうべ		tối qua, đêm qua
+30	さっき		vừa rồi, vừa lúc nãy
+31	さどう	茶道	trà đạo
+32	おちゃおたてます	お茶をたてます	pha trà
+33	さきに	今夜先に/td>	trước
+34	のせます	載せます	đặt lên
+35	これでいいですか		Thế này được không/đã được chưa
+36	にがい	苦い	đắng
+37	おやこどんぶり	親子どんぶり	món oyako-don
+38	ざいりょう	材料	nguyên liêu
+39	ーぶん	ー分	-suất / -người
+40	とりにく	鶏肉	thịt gà
+41	ーグラマ		gam-
+42	たまねぎ		hành củ
+43	よんぶんの１	四分の１	1/4
+44	ちょうみりょう	調味料	gia vị
+45	なべ		nấp
+46	ひ	火	lửa
+47	ひにかけます	火にかけます	đun
+48	にます	煮ます	nấu
+49	にえます	煮えます	chín,được nấu
+50	どんぶり		cái bát
+
+
+材
+Kun:
+On:
+
+ざいりょう 材料 nguyên liệu
+
+矢 Mũi tên
+Kun:
+On:
+
+黄 Hoàng, vàng
+Kun:
+On:
+
+One Punch Man: 黄金ボール Bi Vàng
+
+具 Cụ
+Kun:
+On:
+
+かぐ 家具 Gia Cụ, đồ dùng nội thất
+
+
+
+
+
+
+
+
 
 
 

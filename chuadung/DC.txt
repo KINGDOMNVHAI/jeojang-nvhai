@@ -84,12 +84,41 @@ Rồng Trắng Mắt Xanh 3 Đầu.
 
 
 
-Fortress Whale
-2350 / 2150
-Hệ: Nước
-Loại: Fish / Ritual
+===================
+Time God
 
-Fortress Whale's Oath
+Metaion, the Timelord
+
+VI:
+Không thể được triệu hồi đặc biệt từ bộ bài.
+Nếu bạn không điều khiển quái vật, bạn có thể triệu hồi thông thường lá bài này mà không cần hiến tế.
+Không thể bị tiêu diệt trong chiến đấu hay hiệu ứng lá bài.
+Bạn không nhận sát thương khi lá bài này ở thế tấn công.
+Vào cuối Battle Phase, nếu lá bài này đã chiến đấu, đưa tất cả quái thú trên bàn trở về tay (trừ lá bài này). Và gây 300 sát thương cho đối thủ với mỗi lá bài bị trả về tay.
+Đến lượt Standby Phase tiếp theo của bạn, đưa lá bài này về bộ bài.
+
+Lazion, the Timelord
+
+VI:
+Không thể được triệu hồi đặc biệt từ bộ bài.
+Nếu bạn không điều khiển quái vật, bạn có thể triệu hồi thông thường lá bài này mà không cần hiến tế.
+Không thể bị tiêu diệt trong chiến đấu hay hiệu ứng lá bài.
+Bạn không nhận sát thương khi lá bài này ở thế tấn công.
+Vào cuối Battle Phase, nếu lá bài này đã chiến đấu, đưa tất cả lá bài từ mộ của đối thủ vào bộ bài. Ngoài ra, mỗi lượt một lần, gây 1000 điểm thiệt hại cho đối thủ khi họ rút bài.
+Đến lượt Standby Phase tiếp theo của bạn, đưa lá bài này về bộ bài.
+
+Zaphion, the Timelord
+
+VI:
+Không thể được triệu hồi đặc biệt từ bộ bài.
+Nếu bạn không điều khiển quái vật, bạn có thể triệu hồi thông thường lá bài này mà không cần hiến tế.
+Không thể bị tiêu diệt trong chiến đấu hay hiệu ứng lá bài.
+Bạn không nhận sát thương khi lá bài này ở thế tấn công.
+Vào cuối Battle Phase, nếu lá bài này đã chiến đấu,
+Đến lượt Standby Phase tiếp theo của bạn, đưa lá bài này về bộ bài.
+
+
+
 
 
 

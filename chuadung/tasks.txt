@@ -84,38 +84,49 @@ https://elements.envato.com/react-template-magazine-blog-newspaper-template-LQAY
 
 ===========================
 
-Tháng 7
-
-Từ giờ, không rút tiền trả iPhone. Cứ để 24 lãnh lương trả để giảm tiền thẻ.
+23/6 nghỉ buổi chiều làm thẻ tín dụng, lãnh lương
 
 Tháng 8
 MA: 3tr
 Mẹ: 2tr5 (vay mẹ 1tr5)
 SC + VPBank = 12tr1
 iPhone: 2tr1
+Còn: 2tr -> trả VPBank -> rút trả HDBank -> rút trả Momo
+HDSAISON: vay mẹ 1tr
 
-Tháng 9, 10
+
+Nợ mẹ tiền cọc anh An 2tr
+Từ giờ, không rút tiền trả iPhone. Cứ để 24 lãnh lương trả để giảm tiền thẻ.
+
+Tháng 24/9
 MA: 3tr
-Mẹ: 1tr
+Mẹ: 2tr (vay mẹ 1tr)
 Q: 500
 SC + VPBank = 12tr1
-Momo: 1tr6
-=> 18tr2
-HDSAISON: 1tr2
-HDBank: 1tr6
-=> 21tr
-Rút HDBank 1tr5 + 600 dư trả VPBank
+Còn: 4tr
+HDBank 2tr -> rút 1tr7 trả Momo
+VPBank 2tr -> rút 1tr trả HDSAISON
 
-Tháng 11 (nếu có, xong Momo)
+
+Tháng 24/10
+MA: 3tr
+Mẹ: 3tr (vay mẹ tiền anh An)
+Q: 1tr
+SC + VPBank = 12tr1
+Còn: 2tr5
+
+
+
+
+
+Tháng 11 (tháng cuối Momo)
 MA: 3tr
 Mẹ: 1tr5
 Q: 1tr
 SC + VPBank = 12tr1
-=> 17tr6
-HDSAISON: 1tr4
-HDBank: 1tr6
-VPBank: 2tr
-=> 21tr dư 600
+Momo: 1tr6
+
+
 
 
 Nếu có vốn kinh doanh để học:
