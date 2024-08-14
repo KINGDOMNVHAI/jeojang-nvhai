@@ -1,17 +1,33 @@
-Bài 1:
-Giới thiệu Word
+Bài 1: Giới thiệu Word
+Cách kiểm tra phiên bản Word, Excel, Powerpoint
 
 Gõ đoạn văn bản để kiểm tra cách gõ.
-
 Canh lề
 Bold, Italic, Underline
 Image
 Font chữ
 Màu chữ, màu nền
 
+Cách search: tên phiên bản + từ khóa
+
+
+
+
+
+
+
+
+
+
+
+
 Bài tập:
-Phá Quân
-Tiếng Anh nhà hàng, khách sạn.
+
+Trò chơi: Type Shark
+
+
+
+
 
 Bài 2: Table
 
@@ -52,6 +68,14 @@ Tổng kết:
 - Form CV của cty
 - Sách tâm lý
 - Sách tiếng Anh
+
+
+
+
+
+
+
+
 
 Bài tập gõ 10 ngón:
 Tiếng Anh nhà hàng, khách sạn.

@@ -1,23 +1,43 @@
 https://www.youtube.com/playlist?list=PLApuTT4CRzA9XAywWsReLBID1UYrPCwWB
 
-Bài 1:
-Giới thiệu Excel
-
+Bài 1: Giới thiệu Excel
+Cách kiểm tra phiên bản Word, Excel, Powerpoint
 Canh lề
 Bold, Italic, Underline
 Image
 Font chữ
 Màu chữ, màu nền
+Merge & Center
+Cách search: tên phiên bản + từ khóa
 
-Bài 2
+Bài 2: tính toán
 Phép tính đơn giản: cộng trừ nhân chia
-Địa chỉ tuyệt đối
+MIN, MAX, SUM, AVERAGE
+Làm tròn số AVERAGE
 
 Bài tập:
 Tính điểm học sinh dựa trên 3 môn: Toán Văn Anh
-1) Tính trung bình 3 môn
+1) Tính tổng 3 môn
+2) Tính trung bình 3 môn
+3) Số điểm tổng cao nhất, thấp nhất là bao nhiêu?
 
-Hàm SUM(), SUMIF()
+
+
+Tên học sinh
+Điểm
+Toán Văn Anh
+
+Nguyễn Thị Thủy
+Lê Mai Anh
+Huỳnh Xuân An
+
+Toán
+
+
+
+Bài 3:
+Hàm SUMIF
+
 Bài tập:
 Tính điểm thí sinh thi ĐH dựa trên 3 môn và 4 khối:
 Khối A: Toán Lý Hóa
@@ -27,18 +47,36 @@ Khối D: Toán Văn Anh
 1) Tính tổng 3 môn
 2) Tính tổng số thí sinh thi trong mỗi khối
 
-Bài 3:
+
+Bài 4:
 Hàm đếm COUNT(), COUNTIF()
 Hàm IF()
-Chart
+
+
+
 
 
 
 Bài 4:
 Hàm xử lý chuỗi
 
+
+
+
+
+
+
+
+
+
+Địa chỉ tuyệt đối
+
+
+
 Bài 5:
 VLOOKUP và HLOOKUP
+
+Chart
 
 Bài 6:
 Format Cell
@@ -54,6 +92,54 @@ https://www.youtube.com/watch?v=RmUoZ82TiDA
 
 Bài 9:
 Các thủ thuật Excel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hàm thống kê: SUM, MIN, MAX, AVERAGE, COUNT, COUNTA, COUNTBLANK, SUBTOTAL
+Hàm xử lý chuỗi: LEFT, RIGHT, MID, LEN, TRIM
+Hàm xử lý số: VALUE, ROUND, INT, MOD
+Hàm xử lý thời gian: DAY, MONTH, YEAR, TODAY, NOW, WEEKDAY
+Hàm xử lý điều kiện: IF
+Hàm tìm kiếm VLOOKUP, HLOOKUP
+
+
+
+
+
+
+
+
+
+
+===================
+
+Mẫu đề thi MOS
+https://trungtamtinhocvanphong.edu.vn/mau-bai-thi-mos-bam-sat-de-thi-moi-nhat-2023/
+
+
+Câu hỏi trắc nghiệm
+
+Khi lưu file, tên file Excel có được viết dấu gạch nối không?
+Ví dụ: 2024-01-31.xlsx
+
+Khi lưu file, tên file Excel có được viết dấu hai chấm không?
+Ví dụ: 2024-01-31 10:00:00.xlsx
+
 
 
 
