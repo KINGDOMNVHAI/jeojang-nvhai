@@ -566,6 +566,23 @@ Chỉ dùng cho ngôi thứ 3.
 Tôi muốn những vì sao
 
 
+Bài 14
+Bạn đến từ đâu?
+어디에서 왔어요? [O ti ê so oat so yo?]
+​どこの出身ですか？ Doko no shusshin desu ka?
+
+
+Tiếng Nhật chỉ đường
+http://duhocmattroimoc.vn/vi/news/Dao-tao-Tieng-Nhat/nhung-mau-cau-hoi-chi-duong-bang-tieng-nhat-180.html
+
+Câu hỏi:
+今 あなたは どこにいますか
+Hiện tại bạn đang ở đâu?
+
+教えてもらえますか
+Bạn có thể chỉ tôi được không?
+
+
 
 Bài 15
 
@@ -1027,6 +1044,18 @@ Anh Nisimura nói rằng sẽ không tham gia vào đại hội thể thao.
 
 
 
+宮 Cung
+Kun: みや
+On: キュウ グウ ク クウ
+
+お宮
+子宮 (shikyu): Tử cung
+
+
+
+
+
+
 Bài 34
 
 https://gojapan.vn/minna-no-nihongo/bai-34/tu-vung/
@@ -1476,6 +1505,11 @@ Kun:
 On: カイ
 
 とどきます 届きます được gửi đến, được chuyển đến
+Mẹo: chuyển Giới
+Hình Olympic Paris 2024
+
+
+
 
 
 
@@ -1486,66 +1520,16 @@ On:
 れきし 歴史 lịch sử
 
 
+集 Tập, tập hợp, thu thập
+Kun:
+On: シュウ
+　
+あつまります　集まります
+つどい　集い
 
 
 
 
-
-
-Đề kiểm tra 1-13
-30 câu
-10 Kanji
-
-
-(週末)
-Cuối tuần, tôi đi bơi
-A せんしゅう
-B こんしゅう
-C らいしゅう
-D しゅうまつ
-
-
-このパンはやさしいにきれます。
-A 野菜
-B 簡単
-C 優しい
-D 易しい
-
-
-おととしりょこうしました。Tôi đã đi du lịch vào năm kia
-A りょこうはにねんまえです。Tôi đã đi du lịch 2 năm trước
-B りょこうはふつかまえです。Tôi đã đi du lịch 2 ngày trước
-C りょこうはいちにちまえです。Tôi đã đi du lịch 1 ngày trước
-D りょこうはいちねんまえです。Tôi đã đi du lịch 1 năm trước
-Đáp án A
-
-いえには犬が _______ います。
-A にだい
-B にびき
-C にほん
-D にこ
-Đáp án B
-
-日本で一番大きな都市はどこですか？
-What is the biggest city in Japanese?
-
-
-Tự luận: hãy viết 10 từ vựng liên quan đến chữ 動 Động
-Có thể viết bằng kanji, hiragana, romanji.
-Nếu viết bằng hiragana hay romanji, phải viết đúng trường âm, nhấn mạnh.
-Ví dụ: gakko, không phải gatsuko.
-shinbun và shimbun đều đúng.
-
-Đồ ăn
-Đồ uống
-Trái cây
-Mua sắm
-自動車 xe hơi
-運動
-運動会 hội thao
-どうぶつ 動物 Động Vật
-動物園 Động Vật Viên
-不動産 Bất Động Sản
 
 
 
@@ -1589,58 +1573,6 @@ Tôi muốn trở thành một sĩ quan cảnh sát
 わたしはけいかんになりたいです
 
 
-
-
-
-Phần 2: Ngữ pháp Minna no Nihongo bài 7
-
-
-
-– Ở bài 5 chúng ta cũng có mẫu câu: Danh từ (phương tiện/công cụ) で Động từ
-Nhưng những động từ dùng trong trường hợp này chỉ có 行きます、来ます、帰ります, để nói di chuyển đến đâu bằng phương tiện gì.
-Cùng là sử dụng trợ từ で nhưng các động từ trong mẫu này rộng hơn nhiều nhé.
-Ngữ pháp minna bài 7
-
-3. Danh từ 1( chỉ người 1) は Danh từ 2( chỉ người 2 ) に　あげます。
-– Người 1 làm gì đó cho người 2. Người 1 là người thực hiện hành động, người 2 là người nhận hành động
-
-– Trường hợp lược bỏ Danh từ 1 thì người thực hiện hành động đó là người nói.
-Ví dụ:
-
- ともだち　に　お金（おかね）を　あげます:  Tôi cho bạn tiền
-やまださん　は　サントスさん　に　はな　を　あげます:  Anh yamada tặng hoa cho anh santos, hehe
-
-– Ngoài あげます chúng ta còn dùng mẫu câu trên với những động từ sau:
-+ かします:  Cho ai đó mược cái gì đó
-ともだち　に　おかね　を　かします:  tôi cho bạn mượn tiền
-＋　教えます（おしえます）:  Dạy cho ai đó cái gì đó
-ともだち　に　にほんご　を　おしえます: Tôi dạy cho bạn tiếng Nhật
-
-4. Danh từ 1 は ( chỉ người 1 ) は Danh từ 2( chỉ người 2 ) に　もらいます。
-– Người 1 nhận được , được người 2 làm gì đó cho, như vậy :
-+ Người thực hiện hành động là Người 2
-+ Người được nhận hành động là người 1
-
-– Câu này ngược lại với câu trên nhé
-– Trường hợp lược bỏ chủ ngữ thì hiểu người nói là chủ ngữ nhé
-Ví dụ:
-
- きむらさん　は　さとう　さん　に　はな　を　もらいました: Chị kimura thì nhận được hoa từ anh satou
-やまださん　に　おかし　を　もらいました: Tôi nhận được kẹo từ anh yamada( trường hợp này lược bỏ chủ ngữ nên hiểu là người nói là chủ ngữ nhé)
-– Mẫu trên còn được dùng với các động từ sau:
-+ かります:  Mượn
-さくらさん　に　CD　を　かりました: Tôi đã mược đĩa cs từ chị sakura
-＋ならいます: Học
-先生（せんせい）　に　日本語を　ならいます: Tôi học tiếng nhật từ giáo viên
-
-5. もう　Động từ ました。
-– もう – dịch là đã, rồi, mẫu trên để nhấn mạnh đã làm gì đó rồi
-Ví dụ:
-
- もう　宿題（しゅくだい）をしましたか:  Bạn đã làm bài tập chưa?
-はい、しました:  Rồi , tôi làm rồi.
-いいえ、まだです:  chưa, tôi chưa làm
-– Lưu ý: câu trả lời cho chưa làm sẽ là いいえ、まだです chứ không phải しませんでした。vì hành động chưa diễn ra.
 
 
 
