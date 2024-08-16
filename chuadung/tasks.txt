@@ -101,10 +101,6 @@ Còn: 2tr -> trả VPBank -> rút trả HDBank
 
 
 
-
-
-
-
 Nợ mẹ tiền cọc anh An 2tr
 Từ giờ, không rút tiền trả iPhone. Cứ để 24 lãnh lương trả để giảm tiền thẻ.
 
@@ -149,6 +145,15 @@ Mẹ 1/4
 Q 1/4
 Nợ 1/4
 MA 1/4
+
+Nếu có thẻ Viettin
+
+Thảo 35tr
+VPBank 39tr
+Q 15tr
+Momo 4tr
+(1tr7 tiền phí)
+=> đợi có HĐ mới, rút tiền thẻ gửi MA
 
 =================
 
