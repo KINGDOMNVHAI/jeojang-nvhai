@@ -1465,25 +1465,9 @@ Actions as simple, the more understandable.</p>
 
 Bài 36
 
-とどきます	届きます	được gửi đến, được chuyển đến
-でます	出ます	tham gia, tham dự
-うちます	打ちます	đánh
-ちょきんします	彫金ます	tiết kiệm tiền, để dành tiền
-ふとります	太ります	béo lên, tăng cân
-やせます gầy đi, giảm cân
-すぎます	過ぎます	quá
 
-なれます	 	làm quen, quen
-かたい	固い	cứng
-やわらかい	軟らかい	mềm
 
-届 Giới
-Kun:
-On: カイ
-
-とどきます 届きます được gửi đến, được chuyển đến
-Mẹo: chuyển Giới
-Hình Olympic Paris 2024
+Bài 37
 
 
 
@@ -1495,11 +1479,8 @@ Hình Olympic Paris 2024
 
 
 
-史 Sử, lịch sử
-Kun:
-On:
 
-れきし 歴史 lịch sử
+
 
 
 集 Tập, tập hợp, thu thập
