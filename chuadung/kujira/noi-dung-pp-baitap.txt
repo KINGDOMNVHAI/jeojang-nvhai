@@ -1,0 +1,14 @@
+Tabs
+
+Tab là nút trên bàn phím, giúp đẩy dòng vào trong văn bản. Kỹ thuật thường dùng nhất là sử dụng Tab để tạo các dấu .... cho văn bản.
+Phím nóng: Ctrl + R hoặc Command + R để hiển thị thước kẻ (ruler)
+Tab có các loại Tab:
+
+Tab trái
+
+Tab phải
+
+Tab giữa
+
+
+https://tinhoctruongthinhvungtau.com/cach-su-dung-tab-trong-word/

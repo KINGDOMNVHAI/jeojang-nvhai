@@ -84,12 +84,12 @@ https://elements.envato.com/react-template-magazine-blog-newspaper-template-LQAY
 
 ===========================
 
-17/8 đi sửa xe, hỏi xe tại sao rung lắc.
+Nợ mẹ tiền cọc anh An 2tr + tiền Thảo 2tr + tiền mời MA đi ăn 1tr5
 23/8 nghỉ buổi chiều làm thẻ tín dụng, lãnh lương
 
 Tháng 8
 Không đưa tiền cho MA
-Mẹ: 2tr5 (vay mẹ 1tr5)
+Mẹ: 2tr5 (vay mẹ 1tr5 tiền mời MA)
 SC + VPBank = 12tr1
 iPhone: 2tr1
 Momo: 2tr
@@ -99,38 +99,44 @@ Còn: 2tr -> trả VPBank -> rút trả HDBank
 
 
 
-
-
-Nợ mẹ tiền cọc anh An 2tr
 Từ giờ, không rút tiền trả iPhone. Cứ để 24 lãnh lương trả để giảm tiền thẻ.
+
+Tiền học phí của Thảo:
+29 + 16 - 2tr cọc = 26 + 16 = 43tr
+
 
 Tháng 24/9
 MA: 3tr
-Mẹ: 2tr (vay mẹ 1tr)
+Mẹ: 3tr (vay mẹ 2tr tiền cọc anh An)
 Q: 500
 SC + VPBank = 12tr1
-Còn: 4tr
-HDBank 2tr -> rút 1tr7 trả Momo
-VPBank 2tr -> rút 1tr trả HDSAISON
+Còn: 3tr
+HDBank 1tr9 -> rút 1tr7 trả Momo
+VPBank 1tr -> rút 1tr trả HDSAISON
 
 
 Tháng 24/10
 MA: 3tr
-Mẹ: 3tr (vay mẹ tiền anh An)
-Q: 1tr
+Mẹ: 3tr (vay mẹ 2tr tiền MA)
+Q: 500
 SC + VPBank = 12tr1
 Còn: 2tr5
 
+Nếu có thẻ Viettin
+
+Thảo 35tr
+VPBank 39tr
+Q 15tr
+Momo 4tr
+(1tr7 tiền phí)
+=> đợi có HĐ mới, rút tiền thẻ gửi MA
 
 
 
 
-Tháng 11 (tháng cuối Momo)
-MA: 3tr
-Mẹ: 1tr5
-Q: 1tr
-SC + VPBank = 12tr1
-Momo: 1tr6
+
+
+
 
 
 Tháng 12, liên hệ lại với V I B làm thẻ tín dụng (sang thẻ)
@@ -145,15 +151,6 @@ Mẹ 1/4
 Q 1/4
 Nợ 1/4
 MA 1/4
-
-Nếu có thẻ Viettin
-
-Thảo 35tr
-VPBank 39tr
-Q 15tr
-Momo 4tr
-(1tr7 tiền phí)
-=> đợi có HĐ mới, rút tiền thẻ gửi MA
 
 =================
 

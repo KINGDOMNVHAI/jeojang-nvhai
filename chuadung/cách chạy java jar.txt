@@ -4,3 +4,10 @@ Vào thư mục Java 17
 cd Java\jdk-17\bin
 
 java -jar C:\NVHAI\WORKSPACE\bongban-be\springsecurity\out\artifacts\springsecurity_jar\springsecurity.jar
+
+
+http://103.101.162.142:
+
+Địa chỉ: http://103.101.162.142:
+Username: A0uZ05jAy3SHPS0j!@#
+Password: I9ezmNlPk5Gm9h2D!@#
