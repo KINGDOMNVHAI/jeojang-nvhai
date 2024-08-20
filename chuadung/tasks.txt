@@ -99,11 +99,6 @@ Còn: 2tr -> trả VPBank -> rút trả HDBank
 
 
 
-Từ giờ, không rút tiền trả iPhone. Cứ để 24 lãnh lương trả để giảm tiền thẻ.
-
-Tiền học phí của Thảo:
-29 + 16 - 2tr cọc = 26 + 16 = 43tr
-
 
 Tháng 24/9
 MA: 3tr
@@ -111,7 +106,7 @@ Mẹ: 3tr (vay mẹ 2tr tiền cọc anh An)
 Q: 500
 SC + VPBank = 12tr1
 Còn: 3tr
-HDBank 1tr9 -> rút 1tr7 trả Momo
+HDBank 1tr8 -> rút 1tr6 trả Momo
 VPBank 1tr -> rút 1tr trả HDSAISON
 
 
@@ -122,13 +117,19 @@ Q: 500
 SC + VPBank = 12tr1
 Còn: 2tr5
 
+
+
+Tiền học phí của Thảo:
+29 + 16 - 2tr cọc = 26 + 16 = 43tr
+
 Nếu có thẻ Viettin
 
-Thảo 35tr
-VPBank 39tr
-Q 15tr
+Thảo 43tr
 Momo 4tr
-(1tr7 tiền phí)
+Mẹ 10tr tiền đi Hàn
+VPBank 10tr
+
+(1tr5 tiền phí)
 => đợi có HĐ mới, rút tiền thẻ gửi MA
 
 
@@ -151,6 +152,12 @@ Mẹ 1/4
 Q 1/4
 Nợ 1/4
 MA 1/4
+
+
+Những thứ ưu tiên cần mua:
+PC mới < 15tr (SSD và ổ cứng cũ), mua tại TTG Shop
+Đăng ký bản quyền
+Micro
 
 =================
 
@@ -180,12 +187,6 @@ https://jasonwatmore.com/post/2021/08/26/next-js-alert-toaster-notifications
 
 personality test
 https://www.16personalities.com/free-personality-test
-
-=================
-Những thứ ưu tiên cần mua:
-PC mới < 15tr (SSD và ổ cứng cũ)
-Sửa xe, hàn lại phần đằng sau xe máy.
-Micro
 
 =================
 Việc tồn đọng:
