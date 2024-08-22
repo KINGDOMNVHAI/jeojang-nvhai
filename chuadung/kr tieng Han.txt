@@ -71,6 +71,10 @@ Chỉ Thị
 Hàn: 준비 /junbi/
 Nhật: /junbi/
 
+Customer
+고객사 kokeksa
+お客様 okyaku-sama
+
 Hoạt hình học tiếng Hàn giống Tanaka
 https://www.youtube.com/watch?v=jXwwwU_ebVk
 
