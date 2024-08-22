@@ -42,7 +42,11 @@ Hàn: 차 /cha/
 自動車 자동차 / -cha/ xe ô tô
 기차 /ki-cha/ xe lửa
 
+語 Ngữ
+Hàn: 어
+Nhật: 語
 
+ngoại ngữ 외국어  外国語
 
 新 Tân
 Hàn: 신규 /sin kyo/
