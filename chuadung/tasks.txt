@@ -85,6 +85,7 @@ https://elements.envato.com/react-template-magazine-blog-newspaper-template-LQAY
 ===========================
 
 Nợ mẹ tiền cọc anh An 2tr + tiền Thảo 2tr + tiền mời MA đi ăn 1tr5
++ tiền mẹ MA 2tr8 (lấy mang đi trả nợ cho cL)
 23/8 nghỉ buổi chiều làm thẻ tín dụng, lãnh lương
 
 Tháng 8
@@ -105,32 +106,39 @@ Còn: 2tr -> trả VPBank -> rút trả HDBank
 
 Tháng 24/9
 MA: 3tr
-Mẹ: 3tr (vay mẹ 2tr tiền cọc anh An)
+Mẹ: 2tr5 (vay mẹ 1tr tiền cọc anh An + 500 của MA)
 Q: 500
 SC + VPBank = 12tr1
-Còn: 3tr
-HDBank 1tr8 -> rút 1tr6 trả Momo
-VPBank 1tr -> rút 1tr trả HDSAISON
+
+Còn: 3tr5
+VPBank 2tr -> rút 1tr trả HDSAISON
+HDBank 1tr6 -> rút 1tr6 trả Momo
+
 
 
 Tháng 24/10
 MA: 3tr
-Mẹ: 3tr (vay mẹ 2tr tiền MA)
+Mẹ: 3tr (vay mẹ 1tr anh An + 1tr Thảo)
 Q: 500
 SC + VPBank = 12tr1
-Còn: 2tr5
+
+Còn: 3tr
+VPBank 2tr -> rút 1tr trả HDSAISON
+
+
 
 
 
 Tiền học phí của Thảo:
 29 + 16 - 2tr cọc = 26 + 16 = 43tr
 
-Nếu có thẻ Viettin
+Nếu có thẻ tín dụng mới
 
 Thảo 43tr
-Momo 4tr
-Mẹ 10tr tiền đi Hàn
+Momo 3tr5
+Tiền mẹ MA 2tr8
 VPBank 10tr
+Mẹ 10tr tiền đi Hàn
 
 (1tr5 tiền phí)
 => đợi có HĐ mới, rút tiền thẻ gửi MA

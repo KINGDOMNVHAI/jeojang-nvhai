@@ -1488,8 +1488,8 @@ Jurōjin (Gama), god of long life.
 
 Bài 38
 
-ふたご	双子	cặp sinh đôi
-しまい	姉妹	chị em
+ふたご 双子 cặp sinh đôi
+しまい 姉妹 chị em
 
 せいかく	性格	tính cách
 35	おとなしい	 	hiền lành, trầm
@@ -1499,7 +1499,7 @@ Bài 38
 40	けんかします	 	cãi nhau
 
 Tính từ đuôi な
-ふしぎ（な） bí ẩn , kỳ thú, khó hiểu.
+ふしぎ（な） bí ẩn, kỳ thú, khó hiểu.
 
 Từ vựng về tính cách
 
@@ -1526,6 +1526,13 @@ On:
 せいかく 性格 Tính Cách
 活性 Hoạt Tính
 不活性 Bất Hoạt Tính
+
+双 Song
+Kun:
+On:
+
+ふたご 双子 Song Tử, sinh đôi
+ツインス twins
 
 
 
