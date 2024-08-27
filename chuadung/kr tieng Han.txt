@@ -67,9 +67,15 @@ Chỉ Thị
 대학교 dae hắc-kkyô Trường đại học
 대표 tiêu biểu, đại diện
 
-準備 Chuẩn Bị
+Chuẩn Bị
 Hàn: 준비 /junbi/
-Nhật: /junbi/
+Nhật: 準備 /junbi/
+
+Bất Động Sản
+Hàn: 부동산
+Nhật: 不動産 ふどうさん
+
+
 
 Customer
 고객사 kokeksa

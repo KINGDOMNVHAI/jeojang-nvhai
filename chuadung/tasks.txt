@@ -89,107 +89,97 @@ Nợ mẹ tiền cọc anh An 2tr + tiền Thảo 2tr + tiền mời MA đi ăn 
 23/8 nghỉ buổi chiều làm thẻ tín dụng, lãnh lương
 
 Tháng 8
-MA: 3tr
-Mẹ: 2tr (1tr tiền mời MA)
-Q: 500
-SC + VPBank = 12tr1
-iPhone: 2tr1
-=========
-Còn 1tr8
-HDSAISON: 900
-Momo: 1tr6
-Còn: 2tr -> trả VPBank -> rút trả HDBank
-
+Còn 7tr5
+2/9 HDSAISON 1tr
+VPBank 2tr
+Momo tất toán 4tr5
 
 
 
 
 Tháng 24/9
-MA: 3tr
-Mẹ: 2tr5 (vay mẹ 1tr tiền cọc anh An + 500 của MA)
+MA: 2tr5
+Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
+TPBank 2tr2
 
-Còn: 3tr5
-VPBank 2tr -> rút 1tr trả HDSAISON
-HDBank 1tr6 -> rút 1tr6 trả Momo
+Còn: 4tr3
+HDBank 1tr8 -> rút trả VPBank -> rút trả HDSAISON
 
 
 
 Tháng 24/10
+MA: 2tr5
+Mẹ: 1tr
+Q: 500
+SC + VPBank = 12tr1
+TPBank 2tr2
+
+Còn: 4tr3
+HDBank 1tr8 -> rút trả VPBank -> rút trả HDSAISON
+
+
+
+Sau khi ký HĐ, bắt đầu trả mẹ tiền anh An, MA, Thảo.
+
+Nếu có Tháng 24/11
 MA: 3tr
-Mẹ: 3tr (vay mẹ 1tr anh An + 1tr Thảo)
+Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
 
-Còn: 3tr
-VPBank 2tr -> rút 1tr trả HDSAISON
 
-
-
-
-
-Tiền học phí của Thảo:
-29 + 16 - 2tr cọc = 26 + 16 = 43tr
-
-Nếu có thẻ tín dụng mới
-
-Thảo 43tr
-Momo 3tr5
-Tiền mẹ MA 2tr8
-VPBank 10tr
-Mẹ 10tr tiền đi Hàn
-
-(1tr5 tiền phí)
-=> đợi có HĐ mới, rút tiền thẻ gửi MA
-
-
-
-
-
-
-
-
-
-Tháng 12, liên hệ lại với V I B làm thẻ tín dụng (sang thẻ)
-
-
-Tổng kết:
-Mcredit tháng 10 trả xong. 1tr6 x 6 = 9tr6
-Xong Iphone, dùng tiền trả HDSAISON và HDBank, mỗi thẻ 1tr -> dư 200 hàng tháng.
 
 Nếu có tiền tháng 13:
-Mẹ 1/4
-Q 1/4
-Nợ 1/4
-MA 1/4
+Trả hết nợ Q: khoảng 15tr
+Còn lại: nợ, MA chia đôi
 
 
 Những thứ ưu tiên cần mua:
-PC mới < 15tr (SSD và ổ cứng cũ), mua tại TTG Shop
+PC mới <= 15tr (SSD và ổ cứng cũ), mua tại TTG Shop
 Đăng ký bản quyền
 Micro
+Camera hành trình
 
 =================
 
 Spring Boot Google Login
 https://www.youtube.com/watch?v=NeeKN8IpyOY
 
-3,4/8 T7 CN
+2/9
+Hololive:
+- 1 video Aqua https://www.youtube.com/watch?v=eejtsN6XG7s
+- 1 video Kronii Sister
+- 1 video Kanojo
 Web anh An:
-- Áp dụng JPAQueryFactory
+- List line hiện theo node.
+- Click node nào, đăng ký đúng node đó.
+=> Kiểm tra đúng flow: đăng nhập -> đăng ký node -> trả về số tiền cọc và mã QR -> quét mã, deposit_status = 1.
+Phụ: upload ảnh ReactJS
 Tiếng Nhật:
-- Tạo mẫu động từ I II III để áp dụng
-- Chuyển hình từ VTI
+- Tạo Excel động từ I II III
+- Chuyển hình từ VTI xong 1 bài
+- PP bài 17-20
+- Photoshop cơ thể người
 Kujira
+- Thiết kế logo mới (áp dụng vào năm sau)
+TikTok
+- Chưa cần gắn logo, làm video về Word, Excel
+- Mua số điện thoại mới dành cho Junbi
+YouTube
+- Đăng video Premiere Pro
+
+
+
+
+
+
+
+
 Kujira -> fire phoenix, skillgro
 KINGDOM NVHAI -> oxentic, laravel
 KDPLAYBACK -> dùng web anh An làm trang video, hoặc dùng template khác
-
-Web
-tb_user
-
-
 
 
 
