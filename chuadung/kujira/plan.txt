@@ -12,13 +12,20 @@ Slogan:
 Junbi - sự chuẩn bị cần thiết
 
 
-
+==========================
+Phase 1: chuẩn bị
 
 Junbi - sự chuẩn bị cần thiết
 
 Logo hình 2 nút switch button
 Màu đỏ trên, ghi chữ
 Màu xanh dưới, ghi chữ
+
+Vốn: 30tr
+Web: 5tr 3 năm
+Marketing: 5tr
+Điện thoại: 2tr
+Đăng ký KD: 14tr
 
 Video
 Chưa cần gắn logo, làm video về Word, Excel, PP, tiếng Nhật.
@@ -31,7 +38,40 @@ Tiếng Nhật:
 - kagi nakutte (kanojo okarishimasu)
 - kohi oishii katta
 
-Sau khi có 100 video, mua số điện thoại mới, tạo tài khoản YouTube và TikTok.
+Sau khi có 100 video, dùng số điện thoại 5333 08, tạo tài khoản YouTube và TikTok.
+Email dự kiến: trungtamjunbi@gmail.com
+
+Tài liệu:
+Chuẩn bị tài liệu N5-N3
+
+==========================
+Phase 2: marketing
+
+Tìm hiểu các gói video call
+
+Học phí:
+
+N5: 1 giờ 50
+N4: 1 giờ 70
+N3: 1 giờ 100
+
+Ký HĐ với sinh viên:
+1 giờ dạy
+1 bài dạy 3 buổi 3 tiếng
+13 bài dạy 39 buổi 39 tiếng
+=> Học phí: N5 1tr6, N4 2tr8, N3 4tr
+Gói sơ cấp N5-N4: 4tr (tiết kiệm 400)
+Gói trung cấp N5-N4-N3: 7tr6 (tiết kiệm 800)
+
+Lớp ít nhất 4 học viên
+Học phí chia làm 4: 2 cho giảng viên, 1 cho sale, 1 cho cty.
+=> Doanh thu
+N5 6tr4, 3tr2 cho giảng viên, 1tr6 cho sale.
+N4 11tr2, 5tr6 cho giảng viên, 2tr8 cho sale.
+N3 16tr, 8tr cho giảng viên, 4tr cho sale.
+
+
+
 
 
 
@@ -47,16 +87,6 @@ Tên miền: .edu.vn 800 3 năm
 Hosting Phổ Thông - Bán Chuyên Nghiệp: 3.455.244 3 năm
 => 5tr 3 năm
 
-Ký HĐ với sinh viên:
-1 giờ dạy 100
-1 bài dạy 3 buổi
-13 bài dạy 39 buổi -> 4tr
-
-1 học viên học phí 1tr5
-Lớp ít nhất 3 học viên -> 4tr5
-
-Giáo viên cộng tác sẽ phải đặt cọc 500 nếu nhận lớp từ N3 trở lên.
-
 
 
 
@@ -69,8 +99,8 @@ FB:
 
 Kinh doanh theo 4 mảng:
 1. Dạy tiếng Hàn, Nhật, Trung
-2.
-3.
+2. Dạy tin học văn phòng
+3. Quảng cáo MXH
 4.
 
 =============================
