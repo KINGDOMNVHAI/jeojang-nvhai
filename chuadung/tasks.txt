@@ -98,32 +98,40 @@ Momo tất toán 4tr5
 
 
 Tháng 24/9
-MA: 2tr5
+MA: 2tr
 Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
-TPBank 2tr2
+TPBank 2tr3
 
-Còn: 4tr3
-HDBank 1tr8 -> rút trả VPBank -> rút trả HDSAISON
+Còn: 5tr2
+HDBank 2tr
+VPBank 2tr
+HDSAISON 1tr
 
 
 
 Tháng 24/10
-MA: 2tr5
+MA: 2tr
 Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
 TPBank 2tr2
 
-Còn: 4tr3
-HDBank 1tr8 -> rút trả VPBank -> rút trả HDSAISON
+Còn: 5tr3
+HDBank 2tr
+VPBank 2tr
+HDSAISON 1tr
 
 
-
-Sau khi ký HĐ, bắt đầu trả mẹ tiền anh An, MA, Thảo.
-
+Sau khi ký HĐ, bắt đầu trả tiền anh An, MA, Thảo.
 Nếu có Tháng 24/11
+MA: 3tr
+Mẹ: 1tr
+Q: 500
+SC + VPBank = 12tr1
+
+Nếu có Tháng 24/12
 MA: 3tr
 Mẹ: 1tr
 Q: 500
@@ -131,9 +139,13 @@ SC + VPBank = 12tr1
 
 
 
+
+
 Nếu có tiền tháng 13:
-Trả hết nợ Q: khoảng 15tr
-Còn lại: nợ, MA chia đôi
+Mua xe đạp 4tr
+Trả hết nợ cho Q: khoảng 15tr
+Còn lại: trả nợ
+
 
 
 Những thứ ưu tiên cần mua:
