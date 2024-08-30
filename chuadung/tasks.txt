@@ -96,13 +96,16 @@ Momo tất toán 4tr5
 
 
 
+Nếu có tiền ăn của Thảo:
+500 cho mẹ
+500 trả nợ HDSAISON vì ít nhất
 
 Tháng 24/9
 MA: 2tr
 Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
-TPBank 2tr3
+TPBank 2tr3 (tháng đầu trả cao hơn 100)
 
 Còn: 5tr2
 HDBank 2tr
@@ -125,13 +128,7 @@ HDSAISON 1tr
 
 
 Sau khi ký HĐ, bắt đầu trả tiền anh An, MA, Thảo.
-Nếu có Tháng 24/11
-MA: 3tr
-Mẹ: 1tr
-Q: 500
-SC + VPBank = 12tr1
-
-Nếu có Tháng 24/12
+Nếu có tháng 11 và 12
 MA: 3tr
 Mẹ: 1tr
 Q: 500
