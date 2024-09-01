@@ -584,29 +584,10 @@ Bạn có thể chỉ tôi được không?
 
 
 
-
-
-
 Bài 16
 
 https://gojapan.vn/minna-no-nihongo/bai-16/ngu-phap/
 
-きっぷを買って、電車にのります。
-Mua vé sau đó lên tàu.
-
-
-
-
-Nối danh từ, câu có chủ ngữ khác nhau.
-私は　会社員で、山田さんは　いしゃです。
-Tôi là nhân viên công ty, còn anh Takana-san là bác sĩ.
-
-Nối danh từ, câu có cùng chủ ngữ.
-私はハイです。 私は学生です。
-Bài 1: Tôi là Hải. Tôi là học sinh.
-
-私は　ハイで、学生です。
-Bài 16: Tôi là Hải, là học sinh
 
 
 
@@ -679,28 +660,6 @@ Học về hành chính
 
 
 
-
-人体の語彙 じんたいのごい Từ vựng cơ thể người
-
-体 からだ Thể, cơ thể
-
-頭 あたま Đầu
-かみ Tóc
-耳 みみ Nhĩ, tai
-目 Mục, mắt
-mũi
-口 Khẩu, miệng
-唇（くちびる）Kuchibiru Môi
-歯（は）HaRăng
-舌 した Shita Lưỡi
-
-手 て Thủ, tay
-足 あし Túc, chân
-ゆび ngón tay
-
-むね 胸 ngực
-こころ 心 Tâm, trái tim
-ほね 骨 Cốt, xương
 
 
 白骨精 Bạch Cốt Tinh
