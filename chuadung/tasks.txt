@@ -89,10 +89,7 @@ Nợ mẹ tiền cọc anh An 2tr + tiền Thảo 2tr + tiền mời MA đi ăn 
 23/8 nghỉ buổi chiều làm thẻ tín dụng, lãnh lương
 
 Tháng 8
-Còn 7tr5
-2/9 HDSAISON 1tr
-VPBank 2tr
-Momo tất toán 4tr5
+T6 6/9 VPBank 2tr -> còn lại trả hết cho Momo
 
 
 
@@ -101,30 +98,29 @@ Nếu có tiền ăn của Thảo:
 500 trả nợ HDSAISON vì ít nhất
 
 Tháng 24/9
-MA: 2tr
+MA: 3tr
 Mẹ: 1tr
-Q: 500
+Q: 400
 SC + VPBank = 12tr1
 TPBank 2tr3 (tháng đầu trả cao hơn 100)
 
-Còn: 5tr2
-HDBank 2tr
-VPBank 2tr
-HDSAISON 1tr
+Còn: 4tr3
+HDBank 1tr8
+VPBank 2tr -> rút ra trả HDSAISON 1tr
+
 
 
 
 Tháng 24/10
-MA: 2tr
+MA: 3tr
 Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
 TPBank 2tr2
 
-Còn: 5tr3
-HDBank 2tr
-VPBank 2tr
-HDSAISON 1tr
+Còn: 4tr3
+HDBank 1tr8
+VPBank 2tr -> rút ra trả HDSAISON 1tr
 
 
 Sau khi ký HĐ, bắt đầu trả tiền anh An, MA, Thảo.
