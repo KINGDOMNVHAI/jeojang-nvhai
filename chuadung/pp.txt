@@ -644,20 +644,6 @@ Mất chìa khóa
 
 
 
-白骨精 Bạch Cốt Tinh
-
-Nhân vật trong Inuyasha
-七人帮 Thất Nhân Bang
-しちにんたい 七人隊 Thất Nhân Đội
-
-ばんこつ 蛮骨 Man Cốt, man rợ, mọi rợ
-じゃこつ 蛇骨 Xà Cốt, rắn
-れんこつ 煉骨 Luyện Cốt, thử thách, rèn luyện, nung chảy, luyện ngục
-ぎんこつ 銀骨 Ngân Cốt, bạc
-すいこつ 睡骨 Thụy Cốt, việc ngủ
-むこつ 霧骨 Vụ Cốt, sương mù
-きょうこつ 兇骨 Hung Cốt, hung ác
-
 Động từ nhóm 1
 Là động từ thể masu có âm cuối thuộc hàng i
 Thay thế âm đó bằng âm tương ứng của hàng a
@@ -731,6 +717,21 @@ Giống nhóm 2, bỏ masu thêm nai.
 
 
 
+2 câu trấn an
+
+しんぱいしない
+心配しないでくだいさい
+Không cần lo lắng
+
+「ご」あんしんください
+Yên tâm đi
+
+あんしん 安心 An Tâm
+しんぱい 心配 Tâm Phối, lo lắng
+
+
+
+
 
 Vないで　ください
 
@@ -740,6 +741,18 @@ Xin đừng lo lắng
 ここで　しゃしんを　とらないで　ください。
 Xin đừng chụp ảnh ở đây.
 
+Vない＋　なくても　いいです
+Không cần làm gì đó
+Cách nói nhẹ nhàng: "bạn không cần làm đâu"
+
+あした　こなくても　いいですよ。
+Ngày mai bạn không cần phải đến đâu.
+
+しけんは　かんたんですから、しんぱいしなくても　いいです。
+Vì bài thi đơn giản nên không cần phải lo lắng.
+
+
+Vì gần trường nên không cần đi xe máy.
 
 
 
