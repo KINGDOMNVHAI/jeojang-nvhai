@@ -96,7 +96,14 @@ Bất Động Sản
 Hàn: 부동산
 Nhật: 不動産 ふどうさん
 
+市場 Thị Trường, market
+Hàn: 시장 /si chang/
+Nhật: 市場 しじょう いちば
+Shìchǎng
+Thị trường IT: IT 시장
 
+구독 subcribe
+購読 Cấu Tộc こうどく
 
 Customer
 고객사 kokeksa

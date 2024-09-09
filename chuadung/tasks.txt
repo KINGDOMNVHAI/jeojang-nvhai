@@ -88,14 +88,8 @@ Nợ mẹ tiền cọc anh An 2tr + tiền Thảo 2tr + tiền mời MA đi ăn 
 + tiền mẹ MA 2tr8 (lấy mang đi trả nợ cho cL)
 23/8 nghỉ buổi chiều làm thẻ tín dụng, lãnh lương
 
-Tháng 8
-T6 6/9 VPBank 2tr -> còn lại trả hết cho Momo (chừa 100)
 
 
-
-Nếu có tiền ăn của Thảo:
-500 cho mẹ
-500 trả nợ HDSAISON vì ít nhất
 
 Tháng 24/9
 MA: 3tr
@@ -104,9 +98,9 @@ Q: 400
 SC + VPBank = 12tr1
 TPBank 2tr3 (tháng đầu trả cao hơn 100)
 
-Còn: 4tr3
-HDBank 1tr8
+Còn: 2tr7
 VPBank 2tr -> rút ra trả HDSAISON 1tr
+HDBank 700
 
 
 
@@ -122,7 +116,7 @@ Còn: 4tr3
 HDBank 1tr8
 VPBank 2tr -> rút ra trả HDSAISON 1tr
 
-
+===
 Sau khi ký HĐ, bắt đầu trả tiền anh An, MA, Thảo.
 Nếu có tháng 11 và 12
 MA: 3tr
@@ -152,22 +146,15 @@ Camera hành trình
 Spring Boot Google Login
 https://www.youtube.com/watch?v=NeeKN8IpyOY
 
-2/9
+8/10 nghỉ lễ thành lập cty
 Hololive:
-- 1 video Aqua https://www.youtube.com/watch?v=eejtsN6XG7s
 - 1 video Kronii Sister
 - 1 video Kanojo
-Web anh An:
-- List line hiện theo node.
-- Click node nào, đăng ký đúng node đó.
-=> Kiểm tra đúng flow: đăng nhập -> đăng ký node -> trả về số tiền cọc và mã QR -> quét mã, deposit_status = 1.
-Phụ: upload ảnh ReactJS
 Tiếng Nhật:
 - Tạo Excel động từ I II III
-- Chuyển hình từ VTI xong 1 bài
-- PP bài 17-20
+- Chuyển hình từ VTI sang PP
 - Photoshop cơ thể người
-Kujira
+Junbi
 - Thiết kế logo mới (áp dụng vào năm sau)
 TikTok
 - Chưa cần gắn logo, làm video về Word, Excel
@@ -178,18 +165,23 @@ YouTube
 
 
 
-
-Kujira -> fire phoenix, skillgro
-KINGDOM NVHAI -> oxentic, laravel
-KDPLAYBACK -> dùng web anh An làm trang video, hoặc dùng template khác
-
-
-
 Next.js Alert / Toaster Notification
 https://jasonwatmore.com/post/2021/08/26/next-js-alert-toaster-notifications
 
 personality test
 https://www.16personalities.com/free-personality-test
+
+=================
+Nửa đầu 2024
+
+Kujira -> junbi, skillgro
+KINGDOM NVHAI -> oxentic, laravel
+KDPLAYBACK -> dùng web anh An làm trang video, hoặc dùng template khác
+
+Junbi: laravel mới nhất của PHP. NextJS 14.
+Tạo trang làm bài kiểm tra, khóa học, bài viết.
+Tham khảo trang tiếng Hàn https://codegym.cc/ko/quests
+NextJS Multi Language https://www.youtube.com/watch?v=JsZCbPTTfgg
 
 =================
 Việc tồn đọng:
@@ -220,11 +212,6 @@ Tiếng Hàn
 + NextJS đăng nhập, CRUD
 + ag-grid https://www.ag-grid.com/javascript-data-grid/
 
-Nửa cuối năm:
-Chuyển source Freelancer qua Laravel 9, cùng với source Fire Phoenix.
-Tạo thêm chức năng làm bài kiểm tra, khóa học.
-Trả xong nợ Momo và iPhone, thuê hosting 3 năm ở PA Việt Nam cho web Kujira.
-Kiếm tiền nhờ vào bán dữ liệu.
 
 
 
