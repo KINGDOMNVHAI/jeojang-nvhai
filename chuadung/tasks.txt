@@ -146,19 +146,25 @@ Camera hành trình
 Spring Boot Google Login
 https://www.youtube.com/watch?v=NeeKN8IpyOY
 
+Việc cần làm trước 14/10
+NextJs
++ Tạo trang admin (đa ngôn ngữ)
+next-intl i18n routing
+// https://www.youtube.com/watch?v=JsZCbPTTfgg
+// https://www.youtube.com/watch?v=NjzJ3qIQgK8
+// https://www.youtube.com/watch?v=ZJd6lB4hlW4
+ReactJS
++ Xong web anh An (thanh toán, đăng ký)
+
+
 8/10 nghỉ lễ thành lập cty
 Hololive:
 - 1 video Kronii Sister
 - 1 video Kanojo
 Tiếng Nhật:
 - Tạo Excel động từ I II III
-- Chuyển hình từ VTI sang PP
-- Photoshop cơ thể người
 Junbi
 - Thiết kế logo mới (áp dụng vào năm sau)
-TikTok
-- Chưa cần gắn logo, làm video về Word, Excel
-- Mua số điện thoại mới dành cho Junbi
 YouTube
 - Đăng video Premiere Pro
 
@@ -201,12 +207,20 @@ Design Pixel
 Video khác: NTR so good, Risu NTR Iofi, Mel short video, Thank you Gura
 
 Tiếng Nhật
++ Tạo Drive chứa tài liệu, file âm thanh
 + Giới thiệu bản thân.
 + Chức năng tìm kiếm, bài viết đề xuất và danh sách các lesson.
++ Chuyển hình từ VTI sang PP
++ Photoshop cơ thể người bài 16
++ PP học tiếng Nhật/Hàn bằng tên nhân vật
 
 Tiếng Hàn
 + làm slide giới thiệu cách đọc theo cuốn ở cty
 + Làm slide theo cuốn tiếng Hàn dành cho mọi người
+
+TikTok
+- Chưa cần gắn logo, làm video về Word, Excel
+- Mua số điện thoại mới dành cho Junbi
 
 * ReactJS, NextJS
 + NextJS đăng nhập, CRUD
