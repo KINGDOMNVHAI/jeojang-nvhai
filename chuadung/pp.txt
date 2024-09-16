@@ -616,9 +616,6 @@ Chi tiết が
 
 Bài 17
 
-しんぱいしないで　ください。
-/Shimbai shinai/ Xin đừng lo lắng
-
 
 かぎ
 Mất chìa khóa
@@ -701,18 +698,6 @@ Giống nhóm 2, bỏ masu thêm nai.
 
 
 
-2 câu trấn an
-
-しんぱいしない
-心配しないでくだいさい
-Không cần lo lắng
-
-「ご」あんしんください
-Yên tâm đi
-
-あんしん 安心 An Tâm
-しんぱい 心配 Tâm Phối, lo lắng
-
 
 
 
@@ -740,6 +725,80 @@ Vì gần trường nên không cần đi xe máy.
 
 
 
+Bài 18
+
+Thể từ điển
+Nhóm 1
+Hàng i đổi sang hàng u
+
+あいーます　――＞　あう
+のみーます　――＞　のむ
+かいーます　――＞　かう
+よびーます　――＞　よぶ。　
+
+Nhóm 2
+Bỏ ます thêm る
+
+みーます　　――＞　みる
+あびーます　――＞　あびる
+たべーます　――＞　たべる
+みせーます　――＞　みせる　
+
+Nhóm 3
+きます ――＞ くる,
+します ――＞ する
+
+けっこん(します) ――＞　けっこんする
+ さんぽ(します)　――＞　さんぽする
+
+
+
+
+[Danh từ/ Vる こと] ができます
+
+カードで　はらう　ことが　できます。
+Bạn có thể trả tiền bằng thẻ.
+
+ハイさんは　漢字を　よむことが　できます。
+Anh Hải có thể đọc chữ Hán.
+
+Luyện tập
+
+は　ピアノを　することが　できます。
+Cô ấy có thể chơi piano
+
+
+
+わたしの しゅみは [N/ Vること] です
+"Sở thích của tôi là"
+
+わたしの　しゅみは　サッカーです。　
+Sở thích của tôi là bóng đá.
+
+わたしの　しゅみは　サッカーを　する　ことです。
+Sở thích của tôi là chơi bóng đá.
+
+わたしの　しゅみは　サッカーを　みることです。
+Sở thích của tôi là xem bóng đá.
+
+
+
+ [V1る/ Nの/ Số từ chỉ một khoảng thời gian] まえに、 V2
+Bài 17: まえに chỉ mốc thời gian chính xác
+Bài 18: V2 xảy ra trước V1
+
+ねる　まえに、ほんを　よみます。
+Tôi đọc sách trước khi ngủ.
+
+
+
+
+
+
+毎晩君の事を考えてしまう癖がついたよ
+Maiban kimi no koto o kangaete shimau kuse ga tsuita yo
+まぶたの裏に流れるエンドロールに君の名前が光ってる
+Mabuta no ura ni nagareru endorōru ni kimi no namae ga hikatteru
 
 
 
