@@ -783,15 +783,22 @@ Sở thích của tôi là xem bóng đá.
 
 
 
- [V1る/ Nの/ Số từ chỉ một khoảng thời gian] まえに、 V2
+[V1る/ Nの/ Số từ chỉ một khoảng thời gian] まえに、 V2
 Bài 17: まえに chỉ mốc thời gian chính xác
 Bài 18: V2 xảy ra trước V1
+
+Khác nhau giữa ngữ pháp まえに với ngữ pháp V1 V2 (khoảng bài 14, 15)
 
 ねる　まえに、ほんを　よみます。
 Tôi đọc sách trước khi ngủ.
 
 
 
+
+Mọi người ơi,と言いました và と言っていました khác nhau như thế nào thế ạ, trường hợp nào thì nên dùng .
+
+といましたlà câu kể lại
+といっていました là câu trích dẫn lại
 
 
 
