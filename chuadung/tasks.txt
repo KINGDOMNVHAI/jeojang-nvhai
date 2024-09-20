@@ -40,13 +40,6 @@ https://www.youtube.com/watch?v=uikATllLdRc
 
 ====================================================
 
-Hololive:
-Nerrissa Ravenclaw
-AZki then and now
-
-Hana no Uta
-Bắt đầu đăng series Premiere Pro + Photoshop. 2 tuần 1 video thay phiên nhau.
-
 ====================================================
 
 Kawaii Code
@@ -88,8 +81,7 @@ Nợ mẹ tiền cọc anh An 2tr + tiền Thảo 2tr + tiền mời MA đi ăn 
 + tiền mẹ MA 2tr8 (lấy mang đi trả nợ cho cL)
 
 
-
-Tháng 24/9
+Tháng 24/9 (còn dư 2tr2)
 MA: 3tr
 Mẹ: 1tr
 Q: 400
@@ -97,10 +89,8 @@ SC + VPBank = 12tr1
 TPBank 2tr3 (tháng đầu trả cao hơn 100)
 Momo: 1tr3 (ít nhất nửa số dư nợ còn lại, được thì tất toán)
 
-
-
-Còn: 2tr7
-VPBank 2tr -> rút ra trả HDSAISON 1tr
+Còn: 1tr4
+VPBank 2tr -> rút ra trả HDSAISON 950
 HDBank 700
 
 
@@ -157,11 +147,17 @@ next-intl i18n routing
 ReactJS
 + Xong web anh An (thanh toán, đăng ký)
 
+21, 22/9
+Task anh An: 10, 11
+NextJS Admin
+Video Kronii Sister
+Powerpoint 18, 19
+
 
 8/10 nghỉ lễ thành lập cty
 Hololive:
-- 1 video Kronii Sister
-- 1 video Kanojo
+- 1 Nerrissa Ravenclaw
+- 1 video Kanojo Okarishimasu
 Tiếng Nhật:
 - Tạo Excel động từ I II III
 Junbi
@@ -181,14 +177,27 @@ https://www.16personalities.com/free-personality-test
 =================
 Nửa đầu 2024
 
-Kujira -> junbi, skillgro
 KINGDOM NVHAI -> oxentic, laravel
+NextJS Admin -> tạo 1 source mẫu, trang admin để gắn vào các trang khác
+Junbi: laravel mới nhất của PHP. NextJS 14.
 KDPLAYBACK -> dùng web anh An làm trang video, hoặc dùng template khác
 
-Junbi: laravel mới nhất của PHP. NextJS 14.
 Tạo trang làm bài kiểm tra, khóa học, bài viết.
 Tham khảo trang tiếng Hàn https://codegym.cc/ko/quests
 NextJS Multi Language https://www.youtube.com/watch?v=JsZCbPTTfgg
+
+Tiếng Hàn, Nhật
++ N4
++ Đăng ký khóa tiếng Hàn
+
+Hololive:
+AZki then and now
+
+Hana no Uta
+Bắt đầu đăng series Premiere Pro + Photoshop. 2 tuần 1 video thay phiên nhau.
+
+Sora Clarifies She's Not THAT Pure (Tokino Sora / Hololive) [Eng Subs]
+https://www.youtube.com/watch?v=U5TOqIkmPbc
 
 =================
 Việc tồn đọng:
