@@ -1,3 +1,65 @@
+DB: db_junbi
+Table
+*tb_jb_user
+*tb_jb_category_course
+*tb_jb_course
+*tb_jb_category_post
+*tb_jb_post
+
+*tb_jb_test
+id_test
+title_test
+cd_test
+category_course_test
+created_time
+updated_time
+
+*tb_jb_test_skill (tung phan trong bai kiem tra)
+id_test_skill
+title_test_skill
+cd_test
+seq_test (thu tu trong bai thi)
+created_time
+updated_time
+
+*tb_jb_question
+id_question
+num_question (cau hoi thu 1, thu 2)
+des_question
+seq_question (thu tu cau hoi)
+type_question (1: multi choice, 2: tu luan)
+created_time
+updated_time
+
+*tb_jb_question_choice (neu cau hoi trac nghiem, moi lua chon la 1 dong)
+id_qc
+des_qc
+
+
+=========================
+Page Admin
+Course Khoa hoc
++ Your Course Khoa hoc cua ban
++ List Danh sach
++ Create (chi danh cho admin)
+
+(chi danh cho admin)
+Post
++ List Danh sach
++ Create Tao bai viet
+
+(chi danh cho admin)
+Test
++ List Danh sach
++ Create Tao bai kiem tra
+
+Profile
+
+=========================
+Page Underhen
+
+
+=========================
 Kế hoạch IT
 
 3 cách marketing

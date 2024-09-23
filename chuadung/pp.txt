@@ -630,85 +630,13 @@ Là động từ thể masu có âm cuối thuộc hàng i
 Thay thế âm đó bằng âm tương ứng của hàng a
 Riêng âm i thay thế bằng wa, không phải a
 
-Viết
-かきます
-かかない
-
-Đọc
-よみ（ます）
-よま（ない）
-
-
-とり（ます）
-とら（ない）
-
-Nói chuyện
-はなし（ます）
-はなさ（ない）
-
-
-いそぎ（ます）  急ぎます
-いさが（ない）
-
-Chơi
-あそびます
-あそばない
-
-
-まち（ます） 待ちます
-また（ない）
 
 Hút thuốc
 *) Đặc biệt : すい（ます）
 すわ（ない）
 
-Động từ nhóm 2
-
-Bài 15: bỏ masu thêm te.
-Bài 17: bỏ masu thêm nai.
-
-Ăn
-たべ（ます）　
-たべ（ない）
-
-みせ（ます）
-みせ（ない）
-
-Thức dậy
-おき（ます）　
-おき（ない）　
-
-やめ（ます）
-やめ（ない）
-
-Nhóm 3
-
-Giống nhóm 2, bỏ masu thêm nai.
-
-します
-しない
-
-べんきょうし (ます)
-べんきょうし (ない)
-
-けっこんし (ます)
-けっこんし (ない)
-
-Đặc biệt: thể ない  của   きます  là こ (ない).
 
 
-
-
-
-
-
-Vないで　ください
-
-しんぱいしないで　ください。
-Xin đừng lo lắng
-
-ここで　しゃしんを　とらないで　ください。
-Xin đừng chụp ảnh ở đây.
 
 Vない＋　なくても　いいです
 Không cần làm gì đó
@@ -725,63 +653,11 @@ Vì gần trường nên không cần đi xe máy.
 
 
 
-Bài 18
-
-Thể từ điển
-Nhóm 1
-Hàng i đổi sang hàng u
-
-あいーます　――＞　あう
-のみーます　――＞　のむ
-かいーます　――＞　かう
-よびーます　――＞　よぶ。　
-
-Nhóm 2
-Bỏ ます thêm る
-
-みーます　　――＞　みる
-あびーます　――＞　あびる
-たべーます　――＞　たべる
-みせーます　――＞　みせる　
-
-Nhóm 3
-きます ――＞ くる,
-します ――＞ する
-
-けっこん(します) ――＞　けっこんする
- さんぽ(します)　――＞　さんぽする
+Bài 19
 
 
+https://riki.edu.vn/minna-no-nihongo/bai-19
 
-
-[Danh từ/ Vる こと] ができます
-
-カードで　はらう　ことが　できます。
-Bạn có thể trả tiền bằng thẻ.
-
-ハイさんは　漢字を　よむことが　できます。
-Anh Hải có thể đọc chữ Hán.
-
-Luyện tập
-
-は　ピアノを　することが　できます。
-Cô ấy có thể chơi piano
-
-
-
-
-
-Mọi người ơi,と言いました và と言っていました khác nhau như thế nào thế ạ, trường hợp nào thì nên dùng .
-
-といましたlà câu kể lại
-といっていました là câu trích dẫn lại
-
-
-
-毎晩君の事を考えてしまう癖がついたよ
-Maiban kimi no koto o kangaete shimau kuse ga tsuita yo
-まぶたの裏に流れるエンドロールに君の名前が光ってる
-Mabuta no ura ni nagareru endorōru ni kimi no namae ga hikatteru
 
 
 
@@ -1457,6 +1333,17 @@ I didn&#8217;t go anywhere on Sundays, I just stayed home to rest.</p>
 
 
 
+Mọi người ơi,と言いました và と言っていました khác nhau như thế nào thế ạ, trường hợp nào thì nên dùng .
+
+といましたlà câu kể lại
+といっていました là câu trích dẫn lại
+
+
+
+毎晩君の事を考えてしまう癖がついたよ
+Maiban kimi no koto o kangaete shimau kuse ga tsuita yo
+まぶたの裏に流れるエンドロールに君の名前が光ってる
+Mabuta no ura ni nagareru endorōru ni kimi no namae ga hikatteru
 
 Bài 35
 
