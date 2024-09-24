@@ -82,16 +82,14 @@ Nợ mẹ tiền cọc anh An 2tr + tiền Thảo 2tr + tiền mời MA đi ăn 
 
 
 Tháng 24/9 (còn dư 2tr2)
-MA: 3tr
-Mẹ: 1tr
-Q: 400
-SC + VPBank = 12tr1
-TPBank 2tr3 (tháng đầu trả cao hơn 100)
+Còn 5tr + 2tr2 = 7tr2
+An: 200
+TPBank 2tr3 (tháng đầu trả cao hơn 50)
 Momo: 1tr3 (ít nhất nửa số dư nợ còn lại, được thì tất toán)
 
-Còn: 1tr4
-VPBank 2tr -> rút ra trả HDSAISON 950
-HDBank 700
+VPBank 2tr -> rút 1tr5
+950 trả HDSAISON
+500 trả HDBank
 
 
 
@@ -115,11 +113,11 @@ Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
 
+Tháng 11: đi chùa
 
 
 
-
-Nếu có tiền tháng 13:
+Nếu có tiền tháng 13: 21tr
 Trả hết nợ cho Q: khoảng 15tr
 Mua xe đạp 4tr
 Còn lại: trả nợ
@@ -146,12 +144,6 @@ next-intl i18n routing
 // https://www.youtube.com/watch?v=ZJd6lB4hlW4
 ReactJS
 + Xong web anh An (thanh toán, đăng ký)
-
-21, 22/9
-Task anh An: 10, 11
-NextJS Admin
-Video Kronii Sister
-Powerpoint 18, 19
 
 
 8/10 nghỉ lễ thành lập cty
