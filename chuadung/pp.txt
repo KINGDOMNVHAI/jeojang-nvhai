@@ -658,6 +658,12 @@ Bài 19
 
 https://riki.edu.vn/minna-no-nihongo/bai-19
 
+ドラゴン doragon
+りゅ 龍 Long, rồng
+
+Anh ấy đã từng cưỡi rồng
+Anh ấy đã từng cưỡi voi
+Anh ấy đã từng cưỡi ...
 
 新たに2人の死亡確認　6人死亡9人不明　記録的大雨の石川
 Xác nhận 2 ca tử vong mới, 6 người chết, 9 người chưa rõ danh tính, mưa lớn kỷ lục ở Ishikawa
@@ -860,6 +866,36 @@ Thường dùng cho người lớn tuổi hơn, địa vị cao hơn.
 先生、この　漢字の　読(よみ)方(かた)を　教(おし)えてください。
 先生、この　漢字の　読(よみ)方(かた)を　教(おし)えていただけませんか。
 Thầy có thể dạy em cách đọc chữ Hán này được không ạ?
+
+
+Bài 27
+
+Thể khả năng
+Nhóm 1: hàng い đổi thành hàng え
+あいます -> あえます
+のみます -> のめます
+かいます -> かえます
+よびます -> よべます
+
+Nhóm 2: bỏ masu thêm られ
+たべます　 -> 食べられます
+たてます　 -> たてられます
+みます　　 -> みられます
+おぼえ-ます -> おぼえられ-ます
+
+Nhóm 3
+きます -> こられます
+します -> できます
+
+Lưu ý : Tất cả các động từ sau khi chuyển sang thể khả năng đều thuộc nhóm II và biến đổi sang thể từ điển, thể ない、thể てtheo các quy tắc của nhóm này.
+Thể ます -> thể khả năng -> thể る / thể ない / thể て (nhóm II)
+
+かけます -> かける / かけない / かけた
+たべられます -> たべられる / たべられない / たべられた
+
+Các động từ : わかる、しる không có thể khả năng vì bản thân động từ わかる (biết) đã bao hàm nghĩa khả năng.
+
+
 
 
 
