@@ -112,7 +112,7 @@ Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
 
-Tháng 11: đi chùa
+Tháng 11: đi chùa, mua micro thu âm
 
 
 
@@ -124,10 +124,10 @@ Còn lại: trả nợ
 
 
 Những thứ ưu tiên cần mua:
-PC mới <= 15tr (SSD và ổ cứng cũ), mua tại TTG Shop
-Micro
-Đăng ký bản quyền
-Camera hành trình
+1) PC mới <= 12tr (SSD và ổ cứng cũ), mua tại TTG Shop
+2) Micro 1-2tr
+3) Đăng ký bản quyền
+4) Camera hành trình
 
 =================
 
@@ -206,6 +206,8 @@ NextJS Search API Request POST
 Design Pixel
 
 Video khác: NTR so good, Risu NTR Iofi, Mel short video, Thank you Gura
+
+Sau khi mua PC, cài Adobe Audition và Davinci
 
 Tiếng Nhật
 + Tạo Drive chứa tài liệu, file âm thanh
