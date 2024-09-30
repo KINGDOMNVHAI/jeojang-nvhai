@@ -81,15 +81,19 @@ Nợ mẹ tiền cọc anh An 2tr + tiền Thảo 2tr + tiền mời MA đi ăn 
 + tiền mẹ MA 2tr8 (lấy mang đi trả nợ cho cL)
 
 
-Còn 4tr7
-VPBank 2tr -> rút 1tr5 -> Momo: 1tr3 (ít nhất nửa số dư nợ còn lại, được thì tất toán)
+Còn 2tr4
 HDBank 1tr8
-HDSAISON: 900 (thiếu lấy tiền VPBank)
+HDSAISON: 900 (600 + tiền VPBank)
+VPBank rút 1tr7 -> Momo: 1tr3 (ít nhất nửa số dư nợ còn lại)
 
-Ngày 28/9: Trả VPBank -> rút 1tr5
+Nghỉ 1/10
+Kanata.edu.vn 384/19 Nam Kỳ Khởi Nghĩa, P. Võ Thị Sáu, Quận 3 (đi đường Hoàng Sa, gần Cao Đẳng FPT)
+=> Rút tiền VPBank
+=> Đi đường Nguyễn Trãi -> rẽ phải Nguyễn Cư Trinh (ngã 3 gần nhà khách BCA)
 
-
-
+Trung tâm văn hóa Hàn Quốc tổ chức thi TOPIK
+https://www.facebook.com/acefvn47/?locale=vi_VN
+Trung tâm Ngôn ngữ tiếng Hàn tại TP.HCM (호치민시한국교육원), 47 Đ. Nguyễn Cư Trinh, Phường Nguyễn Cư Trinh, Quận 1, TP. Hồ Chí Minh
 
 
 
@@ -98,11 +102,13 @@ MA: 3tr
 Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
+Momo: 1tr3 dứt điểm
 TPBank 2tr2
 
 Còn: 4tr3
 HDBank 1tr8
 VPBank 2tr -> rút ra trả HDSAISON 1tr
+Thiếu lấy tiền Q bù vào
 
 ===
 Sau khi ký HĐ, bắt đầu trả tiền anh An, MA, Thảo.
@@ -112,7 +118,9 @@ Mẹ: 1tr
 Q: 500
 SC + VPBank = 12tr1
 
-Tháng 11: đi chùa, mua micro thu âm
+Tháng 11:
+Đi chùa
+Mua sim Mobifone < 200
 
 
 
@@ -125,9 +133,10 @@ Còn lại: trả nợ
 
 Những thứ ưu tiên cần mua:
 1) PC mới <= 12tr (SSD và ổ cứng cũ), mua tại TTG Shop
-2) Micro 1-2tr
-3) Đăng ký bản quyền
-4) Camera hành trình
+2) Điện thoại Android dưới 3tr
+3) Micro 1-2tr
+4) Đăng ký bản quyền
+5) Camera hành trình
 
 =================
 
@@ -150,9 +159,11 @@ Hololive:
 - 1 Nerrissa Ravenclaw
 - 1 video Kanojo Okarishimasu
 Tiếng Nhật:
-- Tạo Excel động từ I II III
+- Excel động từ I II III
+- PP từ vựng tất cả bài còn lại
 Junbi
 - Thiết kế logo mới (áp dụng vào năm sau)
+- Chuẩn bị video
 YouTube
 - Đăng video Premiere Pro
 
@@ -168,6 +179,8 @@ https://www.16personalities.com/free-personality-test
 =================
 Nửa đầu 2024
 
+* Chắc chắn bắt đầu 2 kênh Tử Vi Hảo Tâm và Junbi Japanese
+
 KINGDOM NVHAI -> oxentic, laravel
 NextJS Admin -> tạo 1 source mẫu, trang admin để gắn vào các trang khác
 Junbi: laravel mới nhất của PHP. NextJS 14.
@@ -180,6 +193,7 @@ NextJS Multi Language https://www.youtube.com/watch?v=JsZCbPTTfgg
 Tiếng Hàn, Nhật
 + N4
 + Đăng ký khóa tiếng Hàn
++ Phát triển kênh Junbi Japanese
 
 Hololive:
 AZki then and now
