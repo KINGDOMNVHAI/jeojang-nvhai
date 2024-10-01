@@ -82,9 +82,9 @@ Nợ mẹ tiền cọc anh An 2tr + tiền Thảo 2tr + tiền mời MA đi ăn 
 
 
 Còn 2tr4
-HDBank 1tr8
-HDSAISON: 900 (600 + tiền VPBank)
-VPBank rút 1tr7 -> Momo: 1tr3 (ít nhất nửa số dư nợ còn lại)
+HDBank 1tr6
+HDSAISON: 900
+VPBank rút 1tr6 -> Momo: 1tr3 (ít nhất nửa số dư nợ còn lại)
 
 Nghỉ 1/10
 Kanata.edu.vn 384/19 Nam Kỳ Khởi Nghĩa, P. Võ Thị Sáu, Quận 3 (đi đường Hoàng Sa, gần Cao Đẳng FPT)
@@ -120,7 +120,6 @@ SC + VPBank = 12tr1
 
 Tháng 11:
 Đi chùa
-Mua sim Mobifone < 200
 
 
 
@@ -167,7 +166,9 @@ Junbi
 YouTube
 - Đăng video Premiere Pro
 
-
+Tháng 10-11-12
+Bắt đầu làm trang Junbi dựa theo trang Underhen
+Chi tiết trong thư mục Junbi
 
 
 Next.js Alert / Toaster Notification
@@ -180,15 +181,6 @@ https://www.16personalities.com/free-personality-test
 Nửa đầu 2024
 
 * Chắc chắn bắt đầu 2 kênh Tử Vi Hảo Tâm và Junbi Japanese
-
-KINGDOM NVHAI -> oxentic, laravel
-NextJS Admin -> tạo 1 source mẫu, trang admin để gắn vào các trang khác
-Junbi: laravel mới nhất của PHP. NextJS 14.
-KDPLAYBACK -> dùng web anh An làm trang video, hoặc dùng template khác
-
-Tạo trang làm bài kiểm tra, khóa học, bài viết.
-Tham khảo trang tiếng Hàn https://codegym.cc/ko/quests
-NextJS Multi Language https://www.youtube.com/watch?v=JsZCbPTTfgg
 
 Tiếng Hàn, Nhật
 + N4

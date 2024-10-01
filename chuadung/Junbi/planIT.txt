@@ -57,6 +57,26 @@ Profile
 
 =========================
 Page Underhen
+Hoàn thành các task để làm mẫu
+- Login Register Forgot
+- Profile
+- Post
+- Company -> Channel của trang KINGDOM
+- Video
+
+=========================
+Trang mẫu:
+Tham khảo trang tiếng Hàn https://codegym.cc/ko/quests
+
+=========================
+KINGDOM NVHAI -> oxentic, laravel
+NextJS Admin -> tạo 1 source mẫu, trang admin để gắn vào các trang khác
+Junbi: laravel mới nhất của PHP. NextJS 14.
+KDPLAYBACK -> dùng web anh An làm trang video, hoặc dùng template khác
+
+Tạo trang làm bài kiểm tra, khóa học, bài viết.
+NextJS Multi Language https://www.youtube.com/watch?v=JsZCbPTTfgg
+
 
 
 =========================

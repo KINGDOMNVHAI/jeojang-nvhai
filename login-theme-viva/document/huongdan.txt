@@ -1,0 +1,14 @@
+B1: tạo bản original là bản gốc
+B2: tạo bản result là bản kết quả
+B3: tạo file powerpoint và PDF hướng dẫn
+
+Video HTML, CSS
+Tạo Form, input, checkbox, radio, validation
+https://www.youtube.com/watch?v=QsZ3dXAO5HA
+https://www.youtube.com/watch?v=GfRtkB0zDe4
+So sánh CSS Grid vs flexbox
+https://www.youtube.com/watch?v=j5thxVZVCao
+
+Xem trang web này rồi làm video đáp ứng yêu cầu của web.
+Ví dụ: thẻ dl, ol...
+getbootstrap.com/docs/5.1/examples/blog
