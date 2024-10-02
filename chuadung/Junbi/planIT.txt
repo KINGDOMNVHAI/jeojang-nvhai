@@ -35,6 +35,10 @@ updated_time
 id_qc
 des_qc
 
+*tb_jb_course (tương tự channel)
+id_course
+name_course
+description_course
 
 =========================
 Page Admin
@@ -77,7 +81,9 @@ KDPLAYBACK -> dùng web anh An làm trang video, hoặc dùng template khác
 Tạo trang làm bài kiểm tra, khóa học, bài viết.
 NextJS Multi Language https://www.youtube.com/watch?v=JsZCbPTTfgg
 
-
+Free Stock Background (Nền trắng làm video)
+https://www.youtube.com/watch?v=Jnwu4ZhB0ac
+https://www.youtube.com/watch?v=-vzoj7uhURM
 
 =========================
 Kế hoạch IT
