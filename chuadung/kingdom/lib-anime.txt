@@ -1,0 +1,17 @@
+Ý tưởng:
+Làm blog về anime
+Giao diện tương tự daily.dev
+1 giao diện mxh (giao diện mxh cũ)
+1 giao diện admin quản lý. Người dùng có thể quản lý bài viết.
+
+role:
+PM: NVHAI
+senior: được phép cấm thành viên
+junior: được chỉnh sửa, đăng 100 bài
+fresher: được xem
+
+Senior và PM sẽ tạo ra phim, nhập bài hát OP ED.
+Junior viết bài review về bộ phim đó, có thể tạo link dẫn vào web cá nhân
+
+Theme keenthemes demo2 (có edit text)
+https://preview.keenthemes.com/keen/demo2/apps/inbox/compose.html

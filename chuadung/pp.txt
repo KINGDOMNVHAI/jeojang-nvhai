@@ -681,9 +681,28 @@ Phân biệt giữa でんわします và ...
 Bổ sung bài 4-5
 このあいだ	この間	hôm nọ
 
-そっち phía đó
-あっち phía kia
-どっち ở đâu
+要 いる Yếu, thiết yếu
+Kun: いる
+On: ヨウ
+
+いります 要ります cần
+
+
+
+Quốc ca Nhật Bản
+君が代
+Kimi ga Yo
+
+代 Đại, thời đại
+Kun:
+On: ダイ タイ
+
+じだい 時代 Thời Đại
+
+
+
+じぶん　自分 là gì?
+
 
 cach xung ho
 
@@ -694,10 +713,9 @@ Dùng trong hoàn cảnh thông thường, lịch sự hoặc trang trọng.
 - わたくし (watakushi): tôi
 Lịch sự hơn わたし, cách xưng hô khiêm tốn đượcdùng trong các buổi lễ hay không khí trang trọng
 
-- わたしたち：watashitachi: chúng tôi
+- わたしたち：watashitachi: chúng tôi, không bao gồm người nghe.
 
-- われわれ (ware ware): chúng ta.
-Bao gồm cả người nghe. わたし たち là “chúng tôi”, không bao gồm người nghe.
+- われわれ (ware ware): chúng ta. Bao gồm cả người nghe.
 
 - あたしatashi: tôi, đây là cách xưng hô của con gái, mang tính nhẹ nhàng.
 
@@ -753,7 +771,7 @@ Chèn hình Google Dịch
 ごはんをたべますか。
 Bạn ăn cơm không?
 
-ごはん（を）たべる。
+ごはん (を) たべる。
 Ăn cơm không?
 
 食べる。
@@ -838,7 +856,21 @@ Trường Sinh Bất Lão
 
 
 
+PHÂN BIỆT 柔らかい(やわらかい）VÀ  軟らかい（やわらかい）
+Cả hai từ đều có nghĩa là Mềm, nhưng có sự khác nhau
+✍️ 柔らかい
+Nghĩa: ふわふわ、là mềm mại, mềm dẻo, mềm có đàn hồi
+✍️ 軟らかい
+Nghĩa: "Mềm oặt”  手ごたえ・歯ごたえがないやわらかさ。Mềm khiến ta cảm thấy sờ không đàn hồi, cắn không “đã”.
+📌 Ví dụ:
+A:　このタオル、柔らかい肌触り（はだざわり）で気持ちいい
+（Chiếc khăn bông này mềm mại sờ thích thật）
+B：今日のごはん、ちょっと軟らかいね
+(Cơm hôm nay hơi mềm nhỉ)
+📌 Để nhớ rõ hai từ này hơn, có thể gắn liền chữ柔（Nhu）với môn 柔道（じゅうどう). Nhu đạo, kiểu “trong nhu có cương”, mềm dẻo, đàn hồi.  Còn chữ 軟（Nhuyễn) trong chữ 軟飯（なんはん) cơm mềm, cơm nát.
+Cre: Yêu tiếng Nhật lại từ đầu và 「日本人の９割がつまづく日本語」（話題の人達倶楽部・青春文庫）
 
+Judo
 
 Bài 23
 

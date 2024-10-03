@@ -264,16 +264,32 @@
                             <div class="col-lg-12">
                                 <div class="card card-body">
                                     <div class="row">
-                                        <div class="col-lg-4">
-                                            <h4 class="card-title">Rich Text Editor</h4>
-                                            <p>Powerful WYSIWYG text editor powered by Quill. Please read the <a href="https://quilljs.com/"
-                                                   target="_blank">official plugin documentation</a> for a full list of options.</p>
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <label class="form-label" for="exampleInputEmail1">Your email:</label>
+                                                <input type="email" id="exampleInputEmail1" class="form-control" placeholder="Enter your email address ..">
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="form-label" for="exampleInputPassword1">Your password:</label>
+                                                <input type="password" id="exampleInputPassword1" class="form-control" placeholder="Enter your password ..">
+                                            </div>
                                         </div>
-                                        <div class="col-lg-8">
+                                        <div class="col-lg-6">
+                                            <div class="form-group">
+                                                <label class="form-label" for="phone">Phone:</label>
+                                                <input type="text" id="phone" class="form-control" placeholder="0123456">
+                                            </div>
+                                            <div class="form-group">
+                                                <label class="form-label" for="address">Address:</label>
+                                                <input type="text" id="address" class="form-control" placeholder="0123456">
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-12">
                                             <label class="form-label">Default</label>
                                             <div style="height: 150px;"
-                                                 data-toggle="quill"
-                                                 data-quill-placeholder="Quill WYSIWYG editor">
+                                                data-toggle="quill"
+                                                data-quill-placeholder="Quill WYSIWYG editor"
+                                            >
                                                 <h1>Hello World!</h1>
                                                 <p>Some initial <strong>bold</strong> text</p>
                                                 <p><br></p>
@@ -281,13 +297,16 @@
 
                                             <label class="form-label">Custom toolbar</label>
                                             <div style="height: 150px;"
-                                                 data-toggle="quill"
-                                                 data-quill-placeholder="Quill WYSIWYG editor"
-                                                 data-quill-modules-toolbar='[["bold", "italic"], ["link", "blockquote", "code", "image"], [{"list": "ordered"}, {"list": "bullet"}]]'>
+                                                data-toggle="quill"
+                                                data-quill-placeholder="Quill WYSIWYG editor"
+                                                data-quill-modules-toolbar='[["bold", "italic"], ["link", "blockquote", "code", "image"], [{"list": "ordered"}, {"list": "bullet"}]]'
+                                            >
                                                 <p>Hello World!</p>
                                                 <p>Some initial <strong>bold</strong> text</p>
                                                 <p><br></p>
                                             </div>
+
+                                            <button type="submit" class="btn btn-primary">Submit</button>
                                         </div>
                                     </div>
                                 </div>
