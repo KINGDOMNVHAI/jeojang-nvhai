@@ -740,63 +740,6 @@ Xưng hô lịch sự dùng với người ít tuổi hơn. Dạng lịch sự h
 
 - きみ：kimi: em. Cách gọi thân ái với người nghe ít tuổi hơn.
 
-Ngôi thứ ba
-
-- かれ (kare): anh ấy.
-
-- かのじょう (kanojou): cô ấy.
-
-- かられ (karera) họ.
-
-- あのひと (ano hito)/ あのかた (ano kata): vị ấy, ngài ấy.
-
-
-
-
-
-
-
-Thể thông thường và thể lịch sự
-
-Thể lịch sự, thể ます
-Được sử dụng nhiểu nhất trong hội thoại hàng ngày, giữa những người không thân với nhau.
-Những người mới gặp lần đầu, người lớn tuổi hơn.
-
-Thể thông thường, thể る
-Được sử dụng phổ biến trong văn viết (Sách, báo, nhật kí)
-Còn được gọi là thể từ điển vì được viết trong từ điển, app từ điển.
-
-Chèn hình Google Dịch
-
-ごはんをたべますか。
-Bạn ăn cơm không?
-
-ごはん (を) たべる。
-Ăn cơm không?
-
-食べる。
-Ăn không?
-
-Khi nghe, xem phim, đôi khi người Nhật sẽ nói rõ nguyên câu với thể 「ます」
-Có lúc người Nhật lại chỉ nói 「食べる」
-Điều đó chứng tỏ mức độ thân mật của họ.
-
-Cách thể hiện mức độ thân mật khác: gọi bằng tên và bỏ kính ngữ.
-
-Không thân: gọi bằng họ, thêm kính ngữ -san, -kun...
-Thân thiết: gọi bằng tên.
-
-
-こんばん　ひま？
-Tối nay có rỗi không?
-
-うん、ひま / ひまだ / ひまだよ。
-Có, có rỗi... (Con trai dùng)
-
-うん、ひま / ひまよ。
-Ừ, có rỗi... (Con gái dùng)
-
-
 
 
 けど
@@ -813,9 +756,6 @@ Tôi muốn đi mua sắm nhưng không có tiền.
 
 Bài 21
 
-Học về hành chính
-Nói về quan điểm, suy nghĩ
-
 いけん 意見 Ý Kiến
 はなし 話 câu chuyện
 
@@ -829,9 +769,6 @@ Nói về quan điểm, suy nghĩ
 
 ふべん Bất Tiện
 9	おなじ	同じ	ĐỒNG	giống
-
-すごい giỏi (anime)
-むだ vô ích (anime)
 
 勝 Thắng
 Kun:
@@ -938,7 +875,8 @@ Bạch Cốt Tinh
 せいれい 精霊 Tinh Linh
 
 
-
+強くなりたい
+Trở nên mạnh hơn
 
 
 Bài 26
