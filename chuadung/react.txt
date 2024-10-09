@@ -1,0 +1,39 @@
+ReactJS Roadmap
+https://roadmap.sh/react
+
+Components chia làm 2:
+Functional Components: phần xử lý
+Rendering: render ra màn hình
+
+Hooks
+useState
+useEffect
+
+Routers
+React Routers
+
+State Management
+MobX
+
+Writing CSS
+Tailwind CSS
+
+Components Libraries
+Material UI
+
+Headless Component Libraries
+
+API Calls
+react-query
+Axios
+
+Testing
+
+Frameworks
+NextJS
+
+Forms
+React Hook Form
+
+Types & Validation
+TypeScript -> Roadmap TypeScript
