@@ -1,0 +1,51 @@
+172.25.219.61:8065
+
+INSERT INTO POSM2V.TB_M2VF01_R_VESSEL_LIFECYL (RFT_NVES_CD1, WORKS_CODE, FAC_OP_CD_N, RFT_EQP_BE_FAC_TP,
+
+
+Sheet
+tiêu đề, cấu trúc DB
+Lý lịch chỉnh sửa
+1) Table목록: danh sách table, mục lục table
+2) Table : Layout table
+3) Index :
+4) ERD : Logic, sơ đồ quan hệ
+5) ERD : Vật lý
+6) Danh sách tính toán dung lượng, phế phẩm nhưng phải giữ lại, bảo quản phế phẩm
+7) Kết quả kiểm tra, test theo tiêu chuẩn từng hạng mục
+
+
+Bài tập về nhà: làm theo 2 video:
+
+1) Java Connect to H2 Database Examples
+https://www.youtube.com/watch?v=HsxUlODSvfM
+
+2) Spring JPA H2 (Prashant Sharma)
+https://www.youtube.com/watch?v=ZZTYQIUd_uY
+
+
+
+
+
+
+
+Lựa chọn giữa client side và server side
+
+Lựa chọn giữa client side và server side phụ thuộc vào nhiều yếu tố, bao gồm:
+
+Yêu cầu về tốc độ tải trang: Client side thường cho tốc độ tải trang nhanh hơn server side, vì dữ liệu được xử lý trực tiếp trên trình duyệt của người dùng.
+Yêu cầu về tương tác với người dùng: Client side cho phép tương tác tốt hơn với người dùng, vì các thành phần giao diện người dùng được tạo trực tiếp trên trình duyệt.
+Yêu cầu về bảo mật: Server side thường an toàn hơn client side, vì dữ liệu được lưu trữ và xử lý trên máy chủ.
+Yêu cầu về tối ưu hóa SEO: Server side thường tốt hơn client side về mặt tối ưu hóa SEO, vì tất cả dữ liệu đều được cung cấp dưới dạng HTML.
+
+
+
+function showNameUser(callback) {
+const name = "duc";
+callback(name);
+}
+
+
+showNameUser(function(name)) {
+console.log('name', name);
+});

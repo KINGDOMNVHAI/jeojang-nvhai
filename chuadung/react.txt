@@ -37,3 +37,36 @@ React Hook Form
 
 Types & Validation
 TypeScript -> Roadmap TypeScript
+
+====================================
+Câu hỏi phỏng vấn ReactJS
+
+Hooks
+useState và useEffect
+https://www.freecodecamp.org/news/how-to-use-the-usestate-and-useeffect-hooks-in-your-project/
+
+Hook chỉ có thể được gọi ở trên cùng của component
+Hook không được dùng trong câu lệnh có điều kiện
+
+Bạn có thể chạy Hook có điều kiện trong một component chức năng. Nhưng để điều này hoạt động,
+điều kiện này phải được xác định bởi logic cấp cao nhất và không được lồng vào bất kỳ component nào khác.
+
+Lý do vì Hook cần được gọi ở cấp cao nhất của component, thay vì theo điều kiện, vòng lặp hoặc các hàm lồng nhau.
+
+
+
+useEffect được thực thi có điều kiện phụ thuộc vào giá trị của biến trạng thái isMounted.
+
+
+
+
+
+
+Hook useState của React cho phép bạn có các biến trạng thái (state variables) trong các component chức năng.
+
+Để sử dụng hook trạng thái, trước tiên bạn phải nhập nó vào dự án của mình bằng cách sử dụng lệnh import.
+
+Cách useState hoạt động là nó cung cấp cho chúng ta 2 biến.
+Biến đầu tiên được gọi là giá trị của trạng thái
+biến thứ hai là một hàm được sử dụng để cập nhật trạng thái.
+const [isMounted, setIsMounted] = useState(false);
